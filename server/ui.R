@@ -1,4 +1,4 @@
-#
+
 shinyUI(
     dashboardPagePlus(
         skin = "purple",
@@ -182,3 +182,5 @@ fluidRow(
             backgroundUrl = "ncov_back.jpg")
     )
 )
+
+
