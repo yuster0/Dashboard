@@ -1,19 +1,6 @@
-
-DATA_PATH <- "~/OneDrive/rdirectory/dashb/Dashboard/" 
-
-mhlwSummaryPath <- paste0(DATA_PATH, "/MHLW/summary1.csv")
-mhlwSummary <- fread(file = mhlwSummaryPath)
-mhlwSummary$date <- as.Date(as.character(mhlwSummary$date), "%Y%m%d")
-mhlwSummary <- mhlwSummary[order(Name_region, date)]
-setnafill(mhlwSummary, type = "locf", cols = c("Positive", "Discharged", "Tested"))
-
-# mhlwSummary <- fread("~//Desktop/50_Data/MHLW/summary.csv")
-# mhlwSummary$date <- as.Date(as.character(mhlwSummary$date),format="%Y%m%d")
-
-
 fluidRow(
   column(
-    width = 5,
+    width = 12,
     style = "padding:0px;",
     widgetUserBox(
       title = ("Novel Coronavirus"),

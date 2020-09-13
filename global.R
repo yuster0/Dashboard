@@ -16,3 +16,10 @@ library(shinyBS)
 library(shiny.i18n)
 library(countup)
 
+DATA_PATH <- "~/OneDrive/rdirectory/dashb/Dashboard/" 
+
+mhlwSummaryPath <- paste0(DATA_PATH, "/MHLW/summary1.csv")
+mhlwSummary <- fread(file = mhlwSummaryPath)
+mhlwSummary$date <- as.Date(as.character(mhlwSummary$date), "%Y%m%d")
+mhlwSummary <- mhlwSummary[order(Name_region, date)]
+setnafill(mhlwSummary, type = "locf", cols = c("Positive", "Discharged", "Tested"))
