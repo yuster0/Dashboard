@@ -170,22 +170,4 @@ shinyUI(
     )
 )
 
-fluidRow(
-    column(
-        width = 5,
-        style = "padding:0px;",
-        widgetUserBox(
-            title = ("Novel coronavirus"),
-            subtitle = ("Coronavirus disease 2019 (COVID-19)"),
-            width = 12,
-            type = NULL,
-            src = "ncov.jpeg",
-            color = "purple",
-            collapsible = F,
-            background = T,
-            footer_padding = F,
-            backgroundUrl = "ncov_back.jpg")
-    )
-)
-
 
