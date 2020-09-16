@@ -30,3 +30,10 @@ mhlwSummary <- fread(file = mhlwSummaryPath)
 mhlwSummary$date <- as.Date(as.character(mhlwSummary$date), "%Y%m%d")
 mhlwSummary <- mhlwSummary[order(Name_region, date)]
 setnafill(mhlwSummary, type = "locf", cols = c("Positive", "Discharged", "Tested"))
+
+GLOBAL_VALUE <- reactiveValues(
+  World = list(
+    Summary = NULL,
+    SummaryTable = NULL
+  )
+)

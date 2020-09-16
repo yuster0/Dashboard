@@ -14,9 +14,9 @@ fluidRow(
               label = NULL,
               justified = T,
               choiceNames = c(
-                paste(icon("procedures"), i18n$t("infection")),
-                paste(icon("vials"), i18n$t("Infection")),
-                paste(icon("user-plus"), i18n$t("Positivity rate"))
+                paste(icon("procedures"), ("infection")),
+                paste(icon("vials"), ("Infection")),
+                paste(icon("user-plus"), ("Positivity rate"))
               ),
               choiceValues = c("worldCase", "worldTest", "worldRate"),
               status = "danger"
@@ -27,11 +27,11 @@ fluidRow(
             switchInput(
               inputId = "switchWorldMapVersion",
               value = T,
-              onLabel = i18n$t("Simple"),
+              onLabel = ("Simple"),
               onStatus = "danger",
               offStatus = "danger",
-              offLabel = i18n$t("The details"),
-              label = i18n$t("Display mode"),
+              offLabel = ("The details"),
+              label = ("Display mode"),
               inline = T,
               size = "small",
               width = "300px",
