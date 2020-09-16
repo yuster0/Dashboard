@@ -1,3 +1,8 @@
+source(
+    file = ("~/OneDrive/rdirectory/dashb/Dashboard/global.R"), 
+    local = TRUE, 
+    encoding = "UTF-8"
+)
 
 shinyUI(
     dashboardPagePlus(
@@ -81,7 +86,7 @@ shinyUI(
                 badgeLabel = ("In dev"),
                 badgeColor = "black"
             )
-        )),
+          )),
         dashboardBody(
             tags$head(
                 tags$link(rel = "icon", href = "favicon.ico"),
@@ -93,11 +98,12 @@ shinyUI(
             tabItems(
                 tabItem(
                     tabName = "Montenegro",
-                    source(
-                        file = ( "~/OneDrive/rdirectory/dashb/Dashboard//main.ui.R"),
+                    source(file=("~/OneDrive/rdirectory/dashb/Dashboard//main.ui.R"),
+                        # file = ("~/OneDrive/rdirectory/dashb/Dashboard//main.ui.R"),
+                        # source(file = ( "~/OneDrive/rdirectory/dashb/Dashboard/Functions.R"), local = T, encoding = "UTF-8") 
                         local = T,
                         encoding = "UTF-8"
-                    )$value,
+                    )$value
                 ),
                 tabItem(
                     tabName = "route",
@@ -116,10 +122,8 @@ shinyUI(
                     tabItem(
                         tabName = "caseMap",
                     ),
-                    
                     tabItem(
                         tabName = "academic",
-                        
                     ),
                     tabItem(
                         tabName = "google",
@@ -137,15 +141,14 @@ shinyUI(
                                     collapsible = F,
                                     fluidRow(
                                         column(
-                                            width = 12,
+                                            width = 12
                                         )
                                     )
                                 )
                             )
                         )
-                    )
+                    )    
                 )
-            )
         ),
         footer = dashboardFooter(
             left_text = tagList(userPost(
@@ -167,7 +170,12 @@ shinyUI(
                 )
             )
         )
+      )
     )
 )
+
+
+
+
 
 

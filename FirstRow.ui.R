@@ -81,7 +81,6 @@ fluidRow(
           inputId = "twitterShare",
           label = "Twitter",
           icon = icon("twitter"),
-          onclick = sprintf("window.open()")
         )
       )
     )

@@ -1,7 +1,7 @@
 
 source(
-    file = ("~/OneDrive/rdirectory/dashb/Dashboard/global.R"),
-    local = TRUE,
+    file = ("~/OneDrive/rdirectory/dashb/Dashboard/global.R"), 
+    local = TRUE, 
     encoding = "UTF-8"
 )
 
@@ -13,8 +13,6 @@ shinyServer(function(input, output){
     # observeEvent(input$switchCaseMap, {
    # updateTabItems(session, "sideBarTab")
     source(
-        file = ("~/OneDrive/rdirectory/dashb/Dashboard/Sparkline.R"),
-        local = TRUE,
-        encoding = "UTF-8"
+        file = ("~/OneDrive/rdirectory/dashb/Dashboard/Sparkline.R"),local = TRUE, encoding = "UTF-8"
     )
 })
