@@ -130,6 +130,11 @@ shinyUI(
                     ),
                     tabItem(
                         tabName = "world",
+                        source(
+                            file = ("~/OneDrive/rdirectory/dashb/Dashboard/World/World.ui.R"), 
+                            local = T,
+                            encoding = "UTF-8"
+                        )$value
                     ),
                     tabItem(
                         tabName = "about",
