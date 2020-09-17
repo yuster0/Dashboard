@@ -22,7 +22,7 @@ output$worldConfirmedDateSelector <- renderUI({
     end = max(GLOBAL_VALUE$World$Summary$date),
     separator = " - ",
     format = "YYYY-m-d",
-    language = languageSetting
+    #language = languageSetting
   )
 })
 
