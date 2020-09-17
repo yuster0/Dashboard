@@ -1,0 +1,1864 @@
+{
+  "languages": ["mk", "en"],
+  "translation": [
+    {
+      "mk": "СОВЕТ 19 МАКЕДОНИЈА Б У Л Л Е Т И Н",
+      "en": "COVID 19 MACEDONIA B U L L E T I N"
+    },
+    {
+      "mk": "Во живо",
+      "en": "Live"
+    },
+    {
+      "mk": "Дев",
+      "en": "Dev"
+    },
+    {
+      "mk": "Огласна табла",
+      "en": "Bulletin Board"
+    },
+    {
+      "mk": "Пат за инфекција",
+      "en": "Infection Route"
+    },
+    {
+      "mk": "Регион",
+      "en": "Region"
+    },
+    {
+      "mk": "Вардарски",
+      "en": "Vardar"
+    },
+    {
+      "mk": "Источен",
+      "en": "East"
+    },
+    {
+      "mk": "Податоци за трендовите на инфекции COVID-19 во Источен регион",
+      "en": "Data on the trends of COVID-19 infections in East Region"
+    },
+    {
+      "mk": "Југозападен",
+      "en": "Southwest"
+    },
+    {
+      "mk": "Информации за Југозападен COVID-19",
+      "en": "Southwest COVID-19 Information"
+    },
+    {
+      "mk": "Информации за Југоисточен СОВИД-19",
+      "en": "Southeast COVID-19 Information"
+    },
+    {
+      "mk": "Југоисточен",
+      "en": "Southeast"
+    },
+    {
+      "mk": "Пелагониски",
+      "en": "Pelagonia"
+    },
+    {
+      "mk": "Информации за Пелагониски COVID-19",
+      "en": "Pelagonia COVID-19 Information"
+    },
+    {
+      "mk": "Полошки",
+      "en": "Polog"
+    },
+    {
+      "mk": "Североисточен",
+      "en": "Northeast"
+    },
+    {
+      "mk": "Скопски",
+      "en": "Skopje Region"
+    },
+    {
+      "mk": "Отворени податоци",
+      "en": "Open Data CKAN"
+    },
+    {
+      "mk": "Мапа на случај",
+      "en": "Case Map"
+    },
+    {
+      "mk": "Архива",
+      "en": "Archive"
+    },
+    {
+      "mk": "Анализа",
+      "en": "Analysis"
+    },
+    {
+      "mk": "Ефект за самоограничување",
+      "en": "Self-restraint Effect"
+    },
+    {
+      "mk": "За",
+      "en": "About"
+    },
+    {
+      "mk": "Нов коронавирус",
+      "en": "Novel Coronavirus"
+    },
+    {
+      "mk": "Coronavirus disease 2019 (COVID-19)",
+      "en": "Coronavirus disease 2019 (COVID-19)"
+    },
+    {
+      "mk": "Смрт",
+      "en": "Death"
+    },
+    {
+      "mk": "Испуштено",
+      "en": "Discharged"
+    },
+    {
+      "mk": "Позадина",
+      "en": "Background"
+    },
+    {
+      "mk": "Што е коронавирус? (СЗО)",
+      "en": "What is a coronavirus? (WHO)"
+    },
+    {
+      "mk": "Коронавирусите се големо семејство на вируси кои можат да предизвикаат заболување кај животни или луѓе. Кај луѓето е познато дека неколку коронавируси предизвикуваат респираторни инфекции кои се движат од обична настинка до потешки заболувања како што се Синдром на респираторниот Среден Исток (МЕРС) и Тешка акутна респираторна синдром (САРС). Најновиот откриен коронавирус предизвикува коронавирусна болест COVID-19。",
+      "en": "Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19."
+    },
+    {
+      "mk": "Тест за PCR",
+      "en": "PCR Test"
+    },
+    {
+      "mk": "Изберете Регион",
+      "en": "Select Region"
+    },
+    {
+      "mk": "Изберете Екран",
+      "en": "Select Display"
+    },
+    {
+      "mk": "0 нови континуирани денови",
+      "en": "0 new continuous days"
+    },
+    {
+      "mk": "Мапа на заразени",
+      "en": "Heatmap of Infected"
+    },
+    {
+      "mk": "Состојба во секој регион",
+      "en": "Situation in Each Region"
+    },
+    {
+      "mk": "Број на потврдени во секоја општина",
+      "en": "Number of Confirmed in Each Municipality Since May"
+    },
+    {
+      "mk": "Извор на податоци: @kenmo_economics\nЗабелешка 1: Оваа бројка ги брои само оние чие место на живеење е објавено и затоа не одговара на вкупниот број потврдени случаи во покраината \nЗа 2: Оваа бројка нема да се ажурира засега, бидејќи авторите на базата на податоци престанаа да собираат податоци на 9 мај。",
+      "en": "Data source: @kenmo_economics\nNote 1: This figure only counts those whose place of residence is published and therefore does not correspond to the total number of confirmed cases in the province\nNote 2: This figure will not be updated for the time being, as the authors of the dataset stopped collecting data on 9 May."
+    },
+    {
+      "mk": "Извор на податоци: @kenmo_economics \nЗабелешка: Оваа бројка засега нема да се ажурира, бидејќи авторите на базата на податоци престанаа да собираат податоци на 9 мај。",
+      "en": "Data source: @kenmo_economics\nNote: This figure will not be updated for the time being, as the authors of the dataset stopped collecting data on 9 May."
+    },
+    {
+      "mk": "Број на потврдени во секоја општина",
+      "en": "Number of Confirmed in Each Municipality"
+    },
+    {
+      "mk": "сè уште во развој и прилагодување",
+      "en": "still in develeopment & adjustment"
+    },
+    {
+      "mk": "Избор на топлина",
+      "en": "Heatmap Selector"
+    },
+    {
+      "mk": "Возраст и пол",
+      "en": "Age & Gender"
+    },
+    {
+      "mk": "Извори на потврдени",
+      "en": "Sources of Confirmed"
+    },
+    {
+      "mk": "Пребарај за заразено",
+      "en": "Search for Infected"
+    },
+    {
+      "mk": "Нема потврдени случаи во регионот. Или податоците треба да се ажурираат.",
+      "en": "There are no confirmed cases in the region. Or the data needs to be updated."
+    },
+    {
+      "mk": "Изберете барем еден регион.",
+      "en": "Choose at least one region."
+    },
+    {
+      "mk": "Затвори ги информациите за контакт.",
+      "en": "Close Contact Info."
+    },
+    {
+      "mk": "Симптоми и набудување",
+      "en": "Symptoms & Observation"
+    },
+    {
+      "mk": "Историја на активност",
+      "en": "Activity History"
+    },
+    {
+      "mk": "Јавно достапни информации",
+      "en": "Publicly Available Information"
+    },
+    {
+      "mk": "Кликнете на иконата на кругот од лево за повеќе информации.",
+      "en": "Click on the circle icon on the left for more information."
+    },
+    {
+      "mk": "Извор на податоци:",
+      "en": "Data source: "
+    },
+    {
+      "mk": "Мапа за инфекции",
+      "en": "Infection Map"
+    },
+    {
+      "mk": "Поедноставете",
+      "en": "Simplify"
+    },
+    {
+      "mk": "Детал",
+      "en": "Detail"
+    },
+    {
+      "mk": "Мод",
+      "en": "Mode"
+    },
+    {
+      "mk": "Опции",
+      "en": "Options"
+    },
+    {
+      "mk": "Секојдневно се зголемува pop-up",
+      "en": "Daily increases pop-up"
+    },
+    {
+      "mk": "Игра јамка",
+      "en": "Loop play"
+    },
+    {
+      "mk": "Опсег на датум",
+      "en": "Date range"
+    },
+    {
+      "mk": "Повеќе",
+      "en": "More"
+    },
+    {
+      "mk": "Инфекција",
+      "en": "Infection"
+    },
+    {
+      "mk": "Не е избрано Изберете го регионот.",
+      "en": "Not selected. Please select the region."
+    },
+    {
+      "mk": "Обновена & Смрт",
+      "en": "Recovered & Death"
+    },
+    {
+      "mk": "Активен",
+      "en": "Active"
+    },
+    {
+      "mk": "Деноминаторот не го вклучува бројот на загинати и 40-те патници на крстарењето ДП кои се вратиле дома од авион со авион.",
+      "en": "The denominator does not include the number of fatalities and the 40 passengers of the Cruise DP who returned home country on a air chartered."
+    },
+    {
+      "mk": "Групирање",
+      "en": "Grouping"
+    },
+    {
+      "mk": "Пријавена е инфекција",
+      "en": "Infection reported"
+    },
+    {
+      "mk": "Регион без активен",
+      "en": "Region of No Active"
+    },
+    {
+      "mk": "Бројот на откриени се заснова на бројки објавени од страна на MHLW, така што постои можност за одложување на еден ден од прелиминарниот извештај за медиуми.",
+      "en": "The number of recovered is based on figures released by MHLW, so there is a possibility of a delay of one day from the preliminary media report."
+    },
+    {
+      "mk": "Нема активна",
+      "en": "No Active"
+    },
+    {
+      "mk": "Брзина (сек / ден)",
+      "en": "Speed (sec/day)"
+    },
+    {
+      "mk": "Домашни случаи",
+      "en": "Domestic cases"
+    },
+    {
+      "mk": "Домашна",
+      "en": "Domestic"
+    },
+    {
+      "mk": "Случај на повелби, вклучено.",
+      "en": "Charter case incl."
+    },
+    {
+      "mk": "Тестирано",
+      "en": "Tested"
+    },
+    {
+      "mk": "Потврдено",
+      "en": "Confirmed"
+    },
+    {
+      "mk": "Испуштено",
+      "en": "Discharged"
+    },
+    {
+      "mk": "Тестирано",
+      "en": "Tested"
+    },
+    {
+      "mk": "Тест",
+      "en": "Test"
+    },
+    {
+      "mk": "Спроведен е трендот на тест за PCR",
+      "en": "Trends of PCR test conducted"
+    },
+    {
+      "mk": "умулативни и ново потврдени случаи во секој регион",
+      "en": "Cumulative and Newly Confirmed Cases in Each Region"
+    },
+    {
+      "mk": "За изворот на мапата",
+      "en": "About the map source"
+    },
+    {
+      "mk": "Број на нови потврдени по регион (дневно)",
+      "en": "Number of new confirmed by region (daily)"
+    },
+    {
+      "mk": "7 април \n Декларација за вонредна состојба",
+      "en": "April 7\nDeclaration of emergency"
+    },
+    {
+      "mk": "Промена на удвојување на времето со време (пресметано во последните% s дена)",
+      "en": "Change in doubling time over time (calculated over the last %s days)"
+    },
+    {
+      "mk": "Двојно време",
+      "en": "Doubling Time"
+    },
+    {
+      "mk": "Нов дневно",
+      "en": "New daily"
+    },
+    {
+      "mk": "Бројот на денови се пресметува според следнава формула:",
+      "en": "The number of days is calculated by the following formula: "
+    },
+    {
+      "mk": "N: Кумулативен број заразени",
+      "en": "N: Cumulative number of infected"
+    },
+    {
+      "mk": "Телефонски центар (вкупно)",
+      "en": "Call Center (total)"
+    },
+    {
+      "mk": "Спроведен тест",
+      "en": "Test Conducted"
+    },
+    {
+      "mk": "Позитивно",
+      "en": "Positive"
+    },
+    {
+      "mk": "Број на тестови",
+      "en": "Number of Tests"
+    },
+    {
+      "mk": "Број на тестови (вкупно)",
+      "en": "Number of Tests (total)"
+    },
+    {
+      "mk": "Број на тестови и позитивни",
+      "en": "Number of Tests & Positive"
+    },
+    {
+      "mk": "\n * Датум на започнување со тестот: 7 часот, 30 јануари 2020 година",
+      "en": "\n* Test Start Date: 7pm, 30 Jan 2020"
+    },
+    {
+      "mk": "* Бројот на тестови за PCR вклучува само број на тестови спроведени преку \n услуги за консултации за повратници и биле изложени на потврдени лица, \n и не вклучува тестови за потврда за време на празнење.",
+      "en": "* The number of PCR tests includes only the number of tests conducted through\n consultation services for returnees and have been exposed to confirmed persons \n  and does not include confirmation tests at the time of discharge."
+    },
+    {
+      "mk": "Одговор на Центарот за повици на COVID-19",
+      "en": "Response of COVID-19 Call Center"
+    },
+    {
+      "mk": "Спроведен тест (вкупно)",
+      "en": "Test Conducted (total)"
+    },
+    {
+      "mk": "Позитивно (вкупно)",
+      "en": "Positive (total)"
+    },
+    {
+      "mk": "Пат на инфекција",
+      "en": "Route of Infection"
+    },
+    {
+      "mk": "† марка: Смрт.",
+      "en": "† mark: Death."
+    },
+    {
+      "mk": "Поле на број: случаи во одбраниот опсег на датумот на објавување.",
+      "en": "Box of the number: cases within the selected publication date range."
+    },
+    {
+      "mk": "Кластерна мрежа",
+      "en": "Cluster Network"
+    },
+    {
+      "mk": "1. За мрежата на кластери",
+      "en": "1. About the Cluster Network"
+    },
+    {
+      "mk": "2. За базата на податоци",
+      "en": "2. About the Dataset"
+    },
+    {
+      "mk": "3. За ажурирањето",
+      "en": "3. About the Update"
+    },
+    {
+      "mk": "Спроведен тест и позитивен",
+      "en": "Test Conducted & Positive"
+    },
+    {
+      "mk": "Ново денес",
+      "en": "New Today"
+    },
+    {
+      "mk": "Обновени трендови",
+      "en": "Recoveries Trends"
+    },
+    {
+      "mk": "Детали за испразнет",
+      "en": "Details of Discharged"
+    },
+    {
+      "mk": "Нови рекреации (дневно)",
+      "en": "New Recoveries (daily)"
+    },
+    {
+      "mk": "Забелешка: Податоците за испуштања и смртни случаи објавени од страна на MHLW по 22 април 2020 година вклучуваат податоци кои се во процес на верификација, што резултира во несовпаѓање помеѓу бројот на болнички испуштања и вкупниот број на позитивни тестови за PCR.",
+      "en": "Note: The data on discharges and deaths published by the MHLW after April 22, 2020 include data that are in the process of being verified, resulting in a discrepancy between the number of hospital discharges and the overall number of positive PCR tests."
+    },
+    {
+      "mk": "Резиме на% s",
+      "en": "Summary of %s"
+    },
+    {
+      "mk": "Испуштено:",
+      "en": "Discharged: "
+    },
+    {
+      "mk": "Стапка на наплата",
+      "en": "Recovery Rate"
+    },
+    {
+      "mk": "Обновена / Смрт",
+      "en": "Recovered / Death"
+    },
+    {
+      "mk": "Стапка на сериозност:",
+      "en": "Severity rate: "
+    },
+    {
+      "mk": "Стапка на смртност",
+      "en": "Mortality rate"
+    },
+    {
+      "mk": "Стапка на смртност",
+      "en": "Mortality rate: "
+    },
+    {
+      "mk": "Повелби за крстарење DP & Air",
+      "en": "Cruise DP & Air charters"
+    },
+    {
+      "mk": "Поместување на просечен временски интервал",
+      "en": "Moving Average Time Interval"
+    },
+    {
+      "mk": "Соопштенија за медиуми (СОВИД-19)",
+      "en": "Press Releases (COVID-19)"
+    },
+    {
+      "mk": "Тестирани PCR тестови (дневно)",
+      "en": "PCR tests conducted (daily)"
+    },
+    {
+      "mk": "Белешки",
+      "en": "Notes"
+    },
+    {
+      "mk":"Резултатите од ПЦР на крстарењето ПД, објавени во однос на кумулативниот број на спроведени тестови, беа потврдени по 5 март, така што податоците од 5 март ќе имаат негативна корекција.",
+      "en": "The PCR results of the cruise PD, published in terms of cumulative number of test conducted, were verified after March 5, so the March 5 data will have a negative correction."
+    },
+    {
+      "mk": "Телефонски центар (дневно)",
+      "en": "Call Center (daily)"
+    },
+    {
+      "mk": "Консултации за повратникот / контакт (дневно)",
+      "en": "Consultations at returnee/contact (daily)"
+    },
+    {
+      "mk": "Консултации за повратникот / контакт (вкупно)",
+      "en": "Consultations at returnee/contact (total)"
+    },
+    {
+      "mk": "Смрт",
+      "en": "Death"
+    },
+    {
+      "mk": "Активен потврден:",
+      "en": "Active Confirmed: "
+    },
+    {
+      "mk": "Активно сериозно:",
+      "en": "Active Severe: "
+    },
+    {
+      "mk": "По Извештајот од 4 март, бројот на лица кои ги спровеле тестовите, вклучително и оние кои имаат близок контакт со пациентите, бил упатен во префектурните влади и објавен е само потврден број. Бројот на PCR тестови спроведени во Јапонија е број на извештаи во рамките на системот за известување за псевдопатијата и не ги одразува резултатите од сите тестови спроведени во секоја општина (како што се тестовите за потврда за време на празнење не се вклучени).",
+      "en": "After the Report of March 4, the number of people who conducted the tests, including those who have a close contact with the patients, was referred to the prefectural governments and only confirmed number were published. The number of PCR tests conducted in Japan is the number of reports within the framework of the pseudopathy reporting system, and does not reflect the results of all tests conducted in each municipality (such as confirmation tests at the time of discharge are not included)."
+    },
+    {
+      "mk": "<hr>Домашни：%s (%s)<br>Аеродромска карантин：%s (+%s)<br>Воздушна повелба：%s<br>Коста Атлантика：%s",
+      "en": "<hr>Domestic: %s (%s)<br>Airport quarantine: %s (+%s)<br>Air charter: %s<br>Costa Atlantica: %s"
+    },
+    {
+      "mk": "Домашни случаи：%s (+%s)<br>Воздушна повелба：%s<br>Коста Атлантика：%s",
+      "en": "Domestic cases: %s (+%s)<br>Air charter: %s<br>Costa Atlantica: %s"
+    },
+    {
+      "mk": "Домашни случаи：%s (+%s)<br>Аеродромска карантин：%s (+%s)<br>Воздушна повелба：%s（all discharged）",
+      "en": "Domestic cases: %s (+%s)<br>Airport quarantine: %s (+%s)<br>Air charter: %s (all discharged)"
+    },
+    {
+      "mk": "Патување Д.П.",
+      "en": "Cruise DP"
+    },
+    {
+      "mk": "Карантин на аеродром",
+      "en": "Airport Quarantine"
+    },
+    {
+      "mk": "Смрт (потврдување)",
+      "en": "Death (Confirming)"
+    },
+    {
+      "mk": "Обновено (потврдување)",
+      "en": "Recovered (Confirming)"
+    },
+    {
+      "mk": "Закрепна, сериозна и смрт",
+      "en": "Recovered, Severe & Death"
+    },
+    {
+      "mk": "Обновено",
+      "en": "Recovered"
+    },
+    {
+      "mk": "Трендови",
+      "en": "Trends"
+    },
+    {
+      "mk": "Обновено",
+      "en": "Recovered"
+    },
+    {
+      "mk": "Обновено",
+      "en": "Recovered"
+    },
+    {
+      "mk": "Дијамант принцеза: Резултатите од тестот за ПЦР, кој беше објавен од вкупниот број на персонал до 5 март 2020 година, се како што следува.<br><br>",
+      "en": "Diamond Princess: The results of the PCR test, which was announced by the total number of personnel until March 5, 2020, are as follows. <br><br>"
+    },
+    {
+      "mk": "Ref: Резултати од тест за PCR на COVID-19 кај патници и членови на екипажот на крстаречките бродови под карантин во пристаништето Јокохама",
+      "en": "Ref: PCR Test Results of COVID-19 in Passengers and Crew of Cruise Ships under Quarantine at the Port of Yokohama"
+    },
+    {
+      "mk": "<br><br>※Не беше вклучен бројот на PCR-тестови на 249 лица за време на периодот на следење на здравјето на лица кои се испраќаат.",
+      "en": "<br><br>※The number of PCR tests on 249 persons during the health follow-up period for disembarked persons was not included."
+    },
+    {
+      "mk": "Дијамант принцеза: Бројот на луѓе за време на поаѓањето од пристаништето Наха беше 3711. Од нив, 1341 година се јапонски државјани.",
+      "en": "Diamond Princess: The number of people at the time of departure from Naha Port was 3711. Of these, 1341 are Japanese citizens."
+    },
+    {
+      "mk": "Медицинскиот персонал за крстарење, кој патувал на пат и се тестирал позитивно, не бил вклучен, а биле вклучени 40 пациенти кои се вратиле со авионска повелба.",
+      "en": "The cruise company\\'s medical staff who was on board en route and tested positive was not included, and 40 patients who returned by air charter were included."
+    },
+    {
+      "mk": "Исклучува оние што се враќаат со воздушна повелба.",
+      "en": "Excludes those returning by air charter."
+    },
+    {
+      "mk": "Според австралиската влада, уште еден пациент починал на 1 март по враќањето со авионска повелба.",
+      "en": "According to Australian government, one other patients died on March 1st after returning by air charter."
+    },
+    {
+      "mk": "Густина на инфекција (км): индикатор за колку км земја (населена област) има едно заразено лице во дадена област.",
+      "en": "Infection density (km): an indicator of how many km of land (inhabitable area) there is one infected person in a given area."
+    },
+    {
+      "mk": "Тестирано: Периодите во кои повеќе примероци беа броени во дупликат, не беа вклучени во вкупниот број. Односот на бројот на позитиви на бројот на тестирани лица, исто така, претставува сооднос само за периодот во кој биле елиминирани дупликатите. Во префектурата Чиба, 1716 тестови беа спроведени до 20 март, телата на префектурата Канагава 2835, вклучително и крстаречките бродови, беа спроведени до 22 март, а префектурата Префектура Осака 2350 беше спроведена до 20 март. Бројот на тестирани лица во префектурите Чиба, Канагава и Осака е регистриран од 3/21, 3/23 и 3/21, соодветно.",
+      "en": "Tested: Periods in which multiple specimens were counted in duplicate were not included in the total count. The ratio of the number of positives to the number of people tested also represents the ratio only for the period in which duplicates were eliminated. In Chiba Prefecture, 1716 tests were conducted by 20 March, Kanagawa Prefecture 2835 tests including cruise ships were conducted by 22 March, and Osaka Prefecture 2350 tests were conducted by 20 March. The number of people tested in Chiba, Kanagawa, and Osaka prefectures has been recorded since 3/21, 3/23, and 3/21, respectively."
+    },
+    {
+      "mk": "Дневно (Ave): вредноста за последната недела по седумдневниот просечен просечен број на спроведени дневни тестови.",
+      "en": "Daily (Ave): the value for the most recent week after the seven-day moving average of the number of daily tests conducted."
+    },
+    {
+      "mk": "Позитивна стапка: Односот на бројот на позитивни субјекти со бројот на тестирани лица се пресметува со исклучување на бројот на позитивни субјекти во префектурите Чиба, Канагава и Осака кога повеќе примероци беа броени во дупликат.",
+      "en": "Positive rate: The ratio of the number of positive subjects to the number of persons tested is calculated by excluding the number of positive subjects in Chiba, Kanagawa, and Osaka prefectures when multiple specimens were counted in duplicate."
+    },
+    {
+      "mk": "Бројот на тестирани од страна на Владата на Митрополитот во Токио не го вклучува бројот на лица што биле проверени од медицинските установи под осигурително покритие, повратници во воздухопловната чартер, патници на крстарење, итн.",
+      "en": "The number of people tested by the Tokyo Metropolitan Government does not include the number of people inspected by medical institutions under insurance coverage, air charter returnees, cruise ship passengers, etc."
+    },
+    {
+      "mk": "Регион",
+      "en": "Region"
+    },
+    {
+      "mk": "Ново",
+      "en": "New"
+    },
+    {
+      "mk": "Потврдено",
+      "en": "Confirmed"
+    },
+    {
+      "mk": "Трендови",
+      "en": "Trends"
+    },
+    {
+      "mk": "Ден на дуплирање",
+      "en": "Doubling Day"
+    },
+    {
+      "mk": "/ М луѓе",
+      "en": "/M people"
+    },
+    {
+      "mk": "Категорија",
+      "en": "Category"
+    },
+    {
+      "mk": "Густина на инфекција",
+      "en": "Infection density"
+    },
+    {
+      "mk": "Испуштено",
+      "en": "Discharged"
+    },
+    {
+      "mk": "Трендови",
+      "en": "Trends"
+    },
+    {
+      "mk": "Смрт",
+      "en": "Death"
+    },
+    {
+      "mk": "Детали",
+      "en": "Details"
+    },
+    {
+      "mk": "Потврдени трендови",
+      "en": "Confirmed Trends"
+    },
+    {
+      "mk": "Нормално",
+      "en": "Normal"
+    },
+    {
+      "mk": "Едно-дневник",
+      "en": "Single-log"
+    },
+    {
+      "mk": "Двоен-дневник",
+      "en": "Double-log"
+    },
+    {
+      "mk": "Ново потврдено (дневно)）",
+      "en": "New confirmed (daily)"
+    },
+    {
+      "mk": "※ Во вкупниот број не се вклучени аеродромски карантини, \n воздушна повелба или случаи поврзани со крстарења.",
+      "en": "※ The total do not include airport quarantines,\n  air charter, or cases related to cruises."
+    },
+    {
+      "mk": "Карта за инфекции во реално време",
+      "en": "Realtime Infection Map"
+    },
+    {
+      "mk": "1. Податоци објавени од MHLW од крајот на март до 8 мај",
+      "en": "1. Data published by MHLW from late March to May 8"
+    },
+    {
+      "mk":
+          "За негативните вредности: Во табелата се прикажани сурови податоци објавени секојдневно од MHLW. Поради промена на стандардите за објавување на МЗШВ (8 мај) или несовпаѓање помеѓу податоците пријавени од општините, ќе има проблеми со конзистентноста на податоците и ние не правиме корекции на ова, туку само визуелизираме податоците објавени од MHLW.",
+      "en": "About the negative values: The table shows the raw data published daily by the MHLW. Due to the change of the publication standards of the MHLW (May 8) or the discrepancy between the data reported by municipalities, there will be data consistency problems, and we does not make any corrections to this, but only visualizes the data published by the MHLW."
+    },
+    {
+      "mk": "Вкупно потврдено:",
+      "en": "Total confirmed: "
+    },
+    {
+      "mk": "Ништо",
+      "en": "None"
+    },
+    {
+      "mk": "Нема нови извештаи од Регионите.",
+      "en": "No new reports from Regions."
+    },
+    {
+      "mk": "Соопштенија од% s префектури \n Вкупно нови% s потврдени, потврдени се акумулираните вкупно% s \n \n.",
+      "en": "Announcements from %s prefectures\ntotal new %s confirmed, accumulated total %s confirmed\n\n"
+    },
+    {
+      "mk": " Македонија",
+      "en": "Macedonia"
+    },
+    {
+      "mk": "Скопски",
+      "en": "Skopje"
+    },
+    {
+      "mk": "Вардарски",
+      "en": "Vardar"
+    },
+    {
+      "mk": "Источен",
+      "en": "East"
+    },
+    {
+      "mk": "Југозападен",
+      "en": "Southwest"
+    },
+    {
+      "mk": "Југоисточен",
+      "en": "Southeast"
+    },
+    {
+      "mk": "Пелагониски",
+      "en": "Pelagonia"
+    },
+    {
+      "mk": "Полошки",
+      "en": "Polog"
+    },
+    {
+      "mk": "Североисточен",
+      "en": "Northeast"
+    },
+    {
+      "mk": "Вардарски регион",
+      "en": "Vardar Region"
+    },
+    {
+      "mk": "Вардарски",
+      "en": "Vardar"
+    },
+    {
+      "mk": "Велес",
+      "en": "Veles"
+    },
+    {
+      "mk": "Градско",
+      "en": "Gradsko"
+    },
+    {
+      "mk": "Демир Капија",
+      "en": "Demir Kapija"
+    },
+    {
+      "mk": "Кавадарци",
+      "en": "Kavadartsi"
+    },
+    {
+      "mk": "Лозово",
+      "en": "Lozovo"
+    },
+    {
+      "mk": "Неготино",
+      "en": "Negotino"
+    },
+    {
+      "mk": "Росоман",
+      "en": "Rosoman"
+    },
+    {
+      "mk": "Свети Николе",
+      "en": "Sveti Nikole"
+    },
+    {
+      "mk": "Чашка",
+      "en": "Chashka"
+    },
+    {
+      "mk": "Источен регион",
+      "en": "East Region"
+    },
+    {
+      "mk": "Источен",
+      "en": "East"
+    },
+    {
+      "mk": "Берово",
+      "en": "Berovo"
+    },
+    {
+      "mk": "Виница",
+      "en": "Vinitsa"
+    },
+    {
+      "mk": "Делчево",
+      "en": "Delchevo"
+    },
+    {
+      "mk": "Зрновци",
+      "en": "Zrnovtsi"
+    },
+    {
+      "mk": "Карбинци",
+      "en": "Karbintsi"
+    },
+    {
+      "mk": "Кочани",
+      "en": "Kochani"
+    },
+    {
+      "mk": "Македонска Каменица",
+      "en": "Makedonska Kamenitsa"
+    },
+    {
+      "mk": "Пехчево",
+      "en": "Pehchevo"
+    },
+    {
+      "mk": "Пробиштип",
+      "en": "Probishtip"
+    },
+    {
+      "mk": "Чешиново - Облешево",
+      "en": "Cheshinovo - Obleshevo"
+    },
+    {
+      "mk": "Штип",
+      "en": "Shtip"
+    },
+    {
+      "mk": "Југозападен регион",
+      "en": "Southwest Region"
+    },
+    {
+      "mk": "Југозападен",
+      "en": "Southwest"
+    },
+    {
+      "mk": "Вевчани",
+      "en": "Vevchani"
+    },
+    {
+      "mk": "Вранештица",
+      "en": "Vraneshtitsa"
+    },
+    {
+      "mk": "Дебар",
+      "en": "Debar"
+    },
+    {
+      "mk": "Дебарца",
+      "en": "Debartsa"
+    },
+    {
+      "mk": "Другово",
+      "en": "Drugovo"
+    },
+    {
+      "mk": "Зајас",
+      "en": "Zajas"
+    },
+    {
+      "mk": "Кичево",
+      "en": "Kichevo"
+    },
+    {
+      "mk": "Македонски Брод",
+      "en": "Makedonski Brod"
+    },
+    {
+      "mk": "Осломеј",
+      "en": "Oslomej"
+    },
+    {
+      "mk": "Охрид",
+      "en": "Ohrid"
+    },
+    {
+      "mk": "Пласница",
+      "en": "Plasnitsa"
+    },
+    {
+      "mk": "Струга",
+      "en": "Struga"
+    },
+    {
+      "mk": "Центар Жупа",
+      "en": "Centar Zhupa"
+    },
+    {
+      "mk": "Богданци",
+      "en": "Bogdantsi"
+    },
+    {
+      "mk": "Босилово",
+      "en": "Bosilovo"
+    },
+    {
+      "mk": "Валандово",
+      "en": "Valandovo"
+    },
+    {
+      "mk": "Василево",
+      "en": "Vasilevo"
+    },
+    {
+      "mk": "Гевгелија",
+      "en": "Gevgelija"
+    },
+    {
+      "mk": "Дојран",
+      "en": "Dojran"
+    },
+    {
+      "mk": "Конче",
+      "en": "Konche"
+    },
+    {
+      "mk": "Ново Село",
+      "en": "Novo Selo"
+    },
+    {
+      "mk": "Радовиш",
+      "en": "Radovish"
+    },
+    {
+      "mk": "Струмица",
+      "en": "Strumitsa"
+    },
+    {
+      "mk": "Пелагониски регион",
+      "en": "Pelagonia Region"
+    },
+    {
+      "mk": "Пелагониски",
+      "en": "Pelagonia"
+    },
+    {
+      "mk": "Битола",
+      "en": "Bitola"
+    },
+    {
+      "mk": "Демир Хисар",
+      "en": "Demir Hisar"
+    },
+    {
+      "mk": "Долнени",
+      "en": "Dolneni"
+    },
+    {
+      "mk": "Кривогаштани",
+      "en": "Krivogashtani"
+    },
+    {
+      "mk": "Крушево",
+      "en": "Krushevo"
+    },
+    {
+      "mk": "Могила",
+      "en": "Mogila"
+    },
+    {
+      "mk": "Новаци",
+      "en": "Novatsi"
+    },
+    {
+      "mk": "Прилеп",
+      "en": "Prilep"
+    },
+    {
+      "mk": "Ресен",
+      "en": "Resen"
+    },
+    {
+      "mk": "Полошки регион",
+      "en": "Polog Region"
+    },
+    {
+      "mk": "Полошки",
+      "en": "Polog"
+    },
+    {
+      "mk": "Боговиње",
+      "en": "Bogovinje"
+    },
+    {
+      "mk": "Брвеница",
+      "en": "Brvenitsa"
+    },
+    {
+      "mk": "Врапчиште",
+      "en": "Vrapchishte"
+    },
+    {
+      "mk": "Гостивар",
+      "en": "Gostivar"
+    },
+    {
+      "mk": "Желино",
+      "en": "Zhelino"
+    },
+    {
+      "mk": "Јегуновце",
+      "en": "Jegunovtse"
+    },
+    {
+      "mk": "Маврово и Ростуша",
+      "en": "Mavrovo and Rostusha"
+    },
+    {
+      "mk": "Теарце",
+      "en": "Teartse"
+    },
+    {
+      "mk": "Тетово",
+      "en": "Tetovo"
+    },
+    {
+      "mk": "Кратово",
+      "en": "Kratovo"
+    },
+    {
+      "mk": "Североисточен регион",
+      "en": "Northeast Region"
+    },
+    {
+      "mk": "Североисточен",
+      "en": "Northeast"
+    },
+    {
+      "mk": "Крива Паланка",
+      "en": "Kriva Palanka"
+    },
+    {
+      "mk": "Куманово",
+      "en": "Kumanovo"
+    },
+    {
+      "mk": "Липково",
+      "en": "Lipkovo"
+    },
+    {
+      "mk": "Ранковце",
+      "en": "Rankovtse"
+    },
+    {
+      "mk": "Старо Нагоричане",
+      "en": "Staro Nagorichane"
+    },
+    {
+      "mk": "Скопски регион",
+      "en": "Skopje Region"
+    },
+    {
+      "mk": "Скопски",
+      "en": "Skopje"
+    },
+    {
+      "mk": "Аеродром",
+      "en": "Aerodrom"
+    },
+    {
+      "mk": "Арачиново",
+      "en": "Arachinovo"
+    },
+    {
+      "mk": "Бутел",
+      "en": "Butel"
+    },
+    {
+      "mk": "Гази Ба",
+      "en": "Gazi Baba"
+    },
+    {
+      "mk": "Ѓорче Петров",
+      "en": "Gjorche Petrov"
+    },
+    {
+      "mk": "Зелениково",
+      "en": "Zelenikovo"
+    },
+    {
+      "mk": "Илинден",
+      "en": "Ilinden"
+    },
+    {
+      "mk": "Карпош",
+      "en": "Karposh"
+    },
+    {
+      "mk": "Кисела Вода",
+      "en": "Kisela Voda"
+    },
+    {
+      "mk": "Петровец",
+      "en": "Petrovets"
+    },
+    {
+      "mk": "Сарај",
+      "en": "Saraj"
+    },
+    {
+      "mk": "Сопиште",
+      "en": "Sopishte"
+    },
+    {
+      "mk": "Студеничани",
+      "en": "Studenichani"
+    },
+    {
+      "mk": "Центар",
+      "en": "Centar"
+    },
+    {
+      "mk": "Чаир",
+      "en": "Chair"
+    },
+    {
+      "mk": "Чучер - Сандево",
+      "en": "Chucher - Sandevo"
+    },
+    {
+      "mk": "Шуто Оризари",
+      "en": "Shuto Orizari"
+    },
+    {
+      "mk": "Карантин",
+      "en": "Quarantine"
+    },
+    {
+      "mk": "Круз CA",
+      "en": "Cruise CA"
+    },
+    {
+      "mk": "Воздушна повелба",
+      "en": "Air charter"
+    },
+    {
+      "mk": "Извор",
+      "en": "Source"
+    },
+    {
+      "mk": "Извори врски",
+      "en": "Source Links"
+    },
+    {
+      "mk": "Изберете Датум",
+      "en": "Select Date"
+    },
+    {
+      "mk": "Прогресија на симптомите",
+      "en": "Progression of symptoms"
+    },
+    {
+      "mk": "Домашни трендови",
+      "en": "Domestic Trends"
+    },
+    {
+      "mk": "секунди пред",
+      "en": " secs ago"
+    },
+    {
+      "mk": "пред мин",
+      "en": " mins ago"
+    },
+    {
+      "mk": "пред часови",
+      "en": " hours ago"
+    },
+    {
+      "mk": "денови предходно",
+      "en": " days ago"
+    },
+    {
+      "mk": "пред неколку недели",
+      "en": " weeks ago"
+    },
+    {
+      "mk": "Известување",
+      "en": "Notification"
+    },
+    {
+      "mk": "Ажурирање на",
+      "en": "Update at "
+    },
+    {
+      "mk": "Ажурирање：",
+      "en": "Update: "
+    },
+    {
+      "mk": "Одете во рута и кластер на инфекции",
+      "en": "Go to Infection Route & Cluster"
+    },
+    {
+      "mk": "Машки:",
+      "en": "Male: "
+    },
+    {
+      "mk": "Машки",
+      "en": "Male"
+    },
+    {
+      "mk": "Енски：",
+      "en": "Female: "
+    },
+    {
+      "mk": "Енски",
+      "en": "Female"
+    },
+    {
+      "mk": "Надворешна врска",
+      "en": "External Link"
+    },
+    {
+      "mk": "Страдаат",
+      "en": "Suffering"
+    },
+    {
+      "mk": "Вкупно：",
+      "en": "Total: "
+    },
+    {
+      "mk": "Возраст：",
+      "en": "Age: "
+    },
+    {
+      "mk": "Возраст",
+      "en": "Age"
+    },
+    {
+      "mk": "Окупација",
+      "en": "Occupation"
+    },
+    {
+      "mk": "Престој",
+      "en": "Residence"
+    },
+    {
+      "mk": "Пол：",
+      "en": "Gender: "
+    },
+    {
+      "mk": "ИД：",
+      "en": "ID: "
+    },
+    {
+      "mk": " ",
+      "en": " "
+    },
+    {
+      "mk": " - ",
+      "en": " - "
+    },
+    {
+      "mk": "Машки：%s人 (%s%%)、Енски：%s (%s%%)\nНепознато：%s (%s%%)、Вкупно：%s",
+      "en": "Male: %s (%s%%), Female: %s (%s%%)\nUnknown: %s (%s%%), Total: %s"
+    },
+    {
+      "mk": "Време на агрегација：",
+      "en": "Aggregation time: "
+    },
+    {
+      "mk": "Објавено",
+      "en": "Announced: "
+    },
+    {
+      "mk": "Објавено：",
+      "en": "Announced: "
+    },
+    {
+      "mk": "yyyy-mm-dd",
+      "en": "yyyy-mm-dd"
+    },
+    {
+      "mk": "Регион",
+      "en": "Region"
+    },
+    {
+      "mk": "Целиот регион",
+      "en": "All Prefecture"
+    },
+    {
+      "mk": "0s",
+      "en": "0s"
+    },
+    {
+      "mk": "10s",
+      "en": "10s"
+    },
+    {
+      "mk": "20s",
+      "en": "20s"
+    },
+    {
+      "mk": "30s",
+      "en": "30s"
+    },
+    {
+      "mk": "40s",
+      "en": "40s"
+    },
+    {
+      "mk": "50s",
+      "en": "50s"
+    },
+    {
+      "mk": "60s",
+      "en": "60s"
+    },
+    {
+      "mk": "70s",
+      "en": "70s"
+    },
+    {
+      "mk": "80s",
+      "en": "80s"
+    },
+    {
+      "mk": "> 90s",
+      "en": "> 90s"
+    },
+    {
+      "mk": "Непознато",
+      "en": "Unknown"
+    },
+    {
+      "mk": "Нови% s случаи денес (вклучена е карантин)",
+      "en": "New %s cases today (Quarantine included)"
+    },
+    {
+      "mk": " ",
+      "en": ""
+    },
+    {
+      "mk": "Ново во временскиот период：",
+      "en": "New in the time period: "
+    },
+    {
+      "mk": "Центар за повици",
+      "en": "Call Center"
+    },
+    {
+      "mk": "Е-пошта",
+      "en": "E-mail"
+    },
+    {
+      "mk": "Линии",
+      "en": "Lines"
+    },
+    {
+      "mk": "2/7\nБесплатен број",
+      "en": "2/7\nToll-free number"
+    },
+    {
+      "mk": "2/14 Пладне\nФАКС поддржан",
+      "en": "2/14 Noon\nFAX supported"
+    },
+    {
+      "mk": "2/19Пладне\nПоддржано е-пошта",
+      "en": "2/19 Noon\nE-mail supported"
+    },
+    {
+      "mk": "Вкупно",
+      "en": "Total"
+    },
+    {
+      "mk": "3-дневно просечно движење",
+      "en": "3-Day Moving Average"
+    },
+    {
+      "mk": "5-дневно просечно движење",
+      "en": "5-Day Moving Average"
+    },
+    {
+      "mk": "Просечно движење% ден",
+      "en": "%s-Day Moving Average"
+    },
+    {
+      "mk": "Трендови на нови, кумулативни тестови спроведени (дневно)",
+      "en": "Trends of new, cumulative tests conducted (daily)"
+    },
+    {
+      "mk": "Неделен просек на движење",
+      "en": "Weekly Moving Average"
+    },
+    {
+      "mk": "Број на примени консултации (дневно)",
+      "en": "Number of consultations received (daily)"
+    },
+    {
+      "mk": "Преписка за телефонски центар",
+      "en": "Call Center Correspondence"
+    },
+    {
+      "mk": "Главната содржина на консултациите до денес",
+      "en": "Main contents of consultation to date"
+    },
+    {
+      "mk": "Анксиозност во врска со тековните симптоми",
+      "en": "Anxiety about current symptoms"
+    },
+    {
+      "mk": "Општи медицински работи како што се превенција, дезинфекција и методи за справување",
+      "en": "General medical matters such as prevention, disinfection and coping methods"
+    },
+    {
+      "mk": "Мислење за мерките на владата",
+      "en": "Opinion on the government's measures"
+    },
+    {
+      "mk": "Консултации за патување",
+      "en": "Consultation on travel"
+    },
+    {
+      "mk": "Детална историја на однесување на домашни случаи",
+      "en": "Detailed behavioral history of domestic cases"
+    },
+    {
+      "mk": "Друго",
+      "en": "Other"
+    },
+    {
+      "mk": "Статус на Контакт центарот на Министерството за здравство",
+      "en": "Status of the Call Center of the Ministry of Health"
+    },
+    {
+      "mk": "Позитивно",
+      "en": "Positive"
+    },
+    {
+      "mk": "Стапка на позитивноста：",
+      "en": "Positivity rate: "
+    },
+    {
+      "mk": "Ново",
+      "en": "New"
+    },
+    {
+      "mk": "Тренд на тестирање",
+      "en": "Testing trend"
+    },
+    {
+      "mk": "Дневно (просечно)",
+      "en": "Daily (Ave)"
+    },
+    {
+      "mk": "Стапка на тренд на позитивноста",
+      "en": "Positivity trend rate"
+    },
+    {
+      "mk": "Извештаи за подвижност на заедницата",
+      "en": "Community Mobility Reports"
+    },
+    {
+      "mk": "Трговија на мало и рекреација",
+      "en": "Retail & Recreation"
+    },
+    {
+      "mk": "Намирници и аптека",
+      "en": "Grocery & Pharmacy"
+    },
+    {
+      "mk": "Парк",
+      "en": "Park"
+    },
+    {
+      "mk": "Транзитни станици",
+      "en": "Transit Stations"
+    },
+    {
+      "mk": "Работни места",
+      "en": "Workplaces"
+    },
+    {
+      "mk": "Станбени",
+      "en": "Residential"
+    },
+    {
+      "mk": "Мултидимензионална споредба",
+      "en": "Multidimensional Comparison"
+    },
+    {
+      "mk": "Во реално време: Потврдено",
+      "en": "Real-time: Confirmed"
+    },
+    {
+      "mk": "MOH：Потврдено",
+      "en": "MOH: Confirmed"
+    },
+    {
+      "mk": "о реално време: Смрт",
+      "en": "Real-time: Death"
+    },
+    {
+      "mk": "MOH：Смрт",
+      "en": "MOH: Death"
+    },
+    {
+      "mk": "Споредба на број во реално време и објавено од MOH",
+      "en": "Comparison of Real-time Number and Published by the MHLW"
+    },
+    {
+      "mk": "Тестови спроведени и позитивни（MOH）",
+      "en": "Tests Conducted & Positive (MHLW)"
+    },
+    {
+      "mk": "Позитивно, обновено и смрт（MOH）",
+      "en": "Positive, Recovered & Death (MHLW)"
+    },
+    {
+      "mk": "Стапка на позитивноста",
+      "en": "Positivity Rate"
+    },
+    {
+      "mk": "Од 8 мај 2020 година, во однос на домашните случаи со исклучок на воздухопловните повелби, изворот на податоци беше променет од индивидуалните податоци добиени од МЗШВ на бројот на случаи објавени од секоја општина на својата веб-страница. Покрај тоа, бидејќи бројот на извршени тестови наместо случаи (лица тестирани) е пријавено за некои општини, бројките се поголеми од бројот на тестирани лица.",
+      "en": "From May 8, 2020, with respect to domestic cases excluding air charters, the data source was changed from the individual data obtained by the MHLW to the number of cases published by each municipality on its website. In addition, because the number of tests conducted rather than cases (persons tested) is reported for some municipalities, the figures are larger than the number of persons tested."
+    },
+    {
+      "mk": "Од 8 мај 2020 година, изворот на податоци беше променет од индивидуалните податоци добиени со бројот на случаи објавени од секоја општина на својата веб-страница.",
+      "en": "From May 8, 2020, the data source was changed from the individual data obtained by the MHLW to the number of cases published by each municipality on its website."
+    },
+    {
+      "mk": "Бидејќи бројот на извршени тестови наместо случаи (лица тестирани) е пријавено за некои општини, бројките се поголеми од бројот на тестирани лица.",
+      "en": "Because the number of tests conducted rather than cases (persons tested) is reported for some municipalities, the figures are larger than the number of persons tested."
+    },
+    {
+      "mk": "Некои од негативните или ненадејните зголемувања на бројот беа предизвикани од корекција на податоците на МЗ, засновано врз извештаи од префектури или еднократно додавање на податоци што не беа броени. Референца：",
+      "en": "Some of the negative or sudden surge in the number was caused by the MOH's data correction based on reports from prefectures or one-time addition of data that were not counted. Reference: "
+    },
+    {
+      "mk": "2. Податоци објавени од МЗ од 8 мај",
+      "en": "2. Data published by MOH from May 8"
+    },
+    {
+      "mk": "Вистинско време：",
+      "en": "Real-time: "
+    },
+    {
+      "mk": "Трендови на дневни нови и кумулативни позитивни случаи",
+      "en": "Trends of Daily New and Cumulative Positive Cases"
+    },
+    {
+      "mk": "Ново во просек во движење",
+      "en": "New in Moving Average"
+    },
+    {
+      "mk": "Под развој",
+      "en": "Under developing"
+    },
+    {
+      "mk": "По 28 март, детали за асимптоматски пациенти веќе нема да бидат објавени поради промените во методот на агрегација од страна на Министерството за здравство, па не е можно да се знае колку асимптоматски пациенти се во болница. Овој графикон е достапен само откако ќе се претпостави дека сите асимптоматски пациенти кои не треба да бидат хоспитализирани, направени се заради погодност за цртање. Затоа, бројката е само за повикување.",
+      "en": "After March 28, details of asymptomatic patients will no longer be published due to changes in the method of aggregation by the Ministry of Health, so it is not possible to know how many asymptomatic patients are in hospital. This graph is available only after the assumption that all asymptomatic patients do not need to be hospitalized has been made for the sake of drawing convenience. The figure is therefore for reference only."
+    },
+    {
+      "mk": "По 22 април, како резултат на промените во начинот на агрегација од страна на Министерството за здравство, бројот на отпуштања во болници и пријавени смртни случаи го вклучува и бројот на пациенти подложени на помирување, а постои несовпаѓање помеѓу збирните вредности и вкупниот број на ПЦР- позитивно. Оваа бројка сè уште е составена со употреба на податоците што се верификувани. Затоа, бројката е само за повикување.",
+      "en": "After April 22, due to changes in the method of aggregation by the Ministry of Health,the number of hospital discharges and death reported includes the number of patients undergoing reconciliation, and there is a discrepancy between the pooled values and the total number of PCR-positive. This figure is still drawn using the data that have been verified. The figure is therefore for reference only."
+    },
+    {
+      "mk": "PCR Позитивно",
+      "en": "PCR Positive"
+    },
+    {
+      "mk": "Симптоматски",
+      "en": "Symptomatic"
+    },
+    {
+      "mk": "Асимптоматски",
+      "en": "Asymptomatic"
+    },
+    {
+      "mk": "Чекаат хоспитализација",
+      "en": "Awaiting hospitalization"
+    },
+    {
+      "mk": "Благ или умерен",
+      "en": "Mild or moderate"
+    },
+    {
+      "mk": "Тешки случаи примени во МКИ",
+      "en": "Severe cases admited to ICU"
+    },
+    {
+      "mk": "Тешка",
+      "en": "Severe"
+    },
+    {
+      "mk": "Тешка",
+      "en": "Severe"
+    },
+    {
+      "mk": "Тешка",
+      "en": "Severe"
+    },
+    {
+      "mk": "Ново испразнето (дневно)",
+      "en": "New discharged (daily)"
+    },
+    {
+      "mk": "※ Забележете дека графиконот не ги вклучува% s отпуштените пациенти за време на потврдувањето.",
+      "en": "※Please note that the graph does not include the %s discharged patients during the confirming."
+    },
+    {
+      "mk": "Неопходно за хоспитализација",
+      "en": "Necessary for hospitalization"
+    },
+    {
+      "mk": "Симптоми кои потврдуваат.",
+      "en": "Symptoms confirming."
+    },
+    {
+      "mk": "Бројот на потврдени празнења е% s, а други% се во процес на појавување на индивидуалните позитивни страни. Затоа, вкупниот број на приеми и празнења не одговара на бројот на позитивни тестови за PCR позитивни. <br> <br> ※ Стандардот за бројот на пациенти кои се отпуштени од Министерството за здравство, труд и благосостојба се смени од 22 април 2020 година.",
+      "en": "The number of confirmed discharges is %s and %s others are in the process of being matched against individual positives. Therefore, the total number of admissions and discharges does not correspond to the number of positive PCR test positive. <br><br>※The standard for the number of patients discharged from the Ministry of Health, Labour and Welfare has changed since April 22, 2020."
+    },
+    {
+      "mk": "Сите",
+      "en": "All"
+    },
+    {
+      "mk": "Обратно",
+      "en": "Reverse"
+    },
+    {
+      "mk": "Кликнете на легендата за да се префрлате помеѓу приказот и да се скриете.",
+      "en": "Click on the legend to switch between display and hide."
+    },
+    {
+      "mk": "Еве краток преглед на појавата на% s. Сепак, имајте во предвид дека времето за агрегација на округот не се совпаѓа со времето на објавување на Министерството за здравство, труд и благосостојба, така што може да има разлика во бројките заради временското заостанување. Покрај тоа, во реалниот број не се вбројуваат оние што повторно поминале од негативни на позитивни, така што бројките може да се разликуваат од оној што го објави локалната власт.",
+      "en": "Here is a summary of the outbreak in %s. However, please note that the county's aggregation time does not completely coincide with the announcement time of the Ministry of Health, Labour and Welfare, so there may be a difference in the figures due to the time lag. In addition, the realtime number does not include those who have gone from negative to positive again, so the numbers may differ from the one announced by the local government."
+    },
+    {
+      "mk": "Еве краток преглед на појавата на% s. Сепак, имајте во предвид дека времето за агрегација на округот не се совпаѓа со времето на објавување на Министерството за здравство, труд и благосостојба, така што може да има разлика во бројките заради временското заостанување. Покрај тоа, во реалниот број не се вбројуваат оние што повторно поминале од негативни на позитивни, така што бројките може да се разликуваат од оној што го објави локалната власт.",
+      "en": "Here is a summary of the outbreak in %s. However, please note that the county's aggregation time does not completely coincide with the announcement time of the Ministry of Health, Labour and Welfare, so there may be a difference in the figures due to the time lag. In addition, the realtime number does not include those who have gone from negative to positive again, so the numbers may differ from the one announced by the local government."
+    },
+    {
+      "mk": "Податоци за COVID-19 (Скопје)",
+      "en": "Data about COVID-19 (Skopje)"
+    },
+    {
+      "mk": "Избувнување во% s",
+      "en": "Outbreaks in %s"
+    },
+    {
+      "mk": "Изберете Регион",
+      "en": "Select Region"
+    },
+    {
+      "mk": "Јасно",
+      "en": "Clear"
+    },
+    {
+      "mk": "Сите",
+      "en": "All"
+    },
+    {
+      "mk": "Избрани се повеќе од три региони",
+      "en": "More than three region have been selected"
+    },
+    {
+      "mk": "Поставување временски интервал",
+      "en": "Time Interval Setting"
+    },
+    {
+      "mk": "Ден",
+      "en": " Day"
+    },
+    {
+      "mk": "Поставување на оската",
+      "en": "Axis Setting"
+    },
+    {
+      "mk": "Х-оска",
+      "en": "X-Axis"
+    },
+    {
+      "mk": "Дневник",
+      "en": "Log"
+    },
+    {
+      "mk": "Број на денови што поминаа од 10 потврдени случаи",
+      "en": "Number of days that have elapsed since 10 confirmed cases"
+    },
+    {
+      "mk": "Трендови на кумулативен број на потврдени",
+      "en": "Trends of Cumulative Number of Confirmed"
+    },
+    {
+      "mk": "Дуплирање за еден ден",
+      "en": "Doubling in one day"
+    },
+    {
+      "mk": "Дуплирање за три дена",
+      "en": "Doubling in three days"
+    },
+    {
+      "mk": "Дуплирање за една недела",
+      "en": "Doubling in one week"
+    },
+    {
+      "mk": "Пред 3 недели",
+      "en": "3 weeks ago"
+    },
+    {
+      "mk": "пред 2 недели",
+      "en": "2 weeks ago"
+    },
+    {
+      "mk": "пред 1 недела",
+      "en": "1 week ago"
+    },
+    {
+      "mk": "Сега",
+      "en": "Now"
+    },
+    {
+      "mk": "Тестирано / М поп",
+      "en": "Tested / M pop"
+    },
+    {
+      "mk": "Индикатори за последниот месец од% s",
+      "en": "Indicators for the Last Month of %s"
+    },
+    {
+      "mk": "Број на спроведување",
+      "en": "Number of implementation"
+    },
+    {
+      "mk": "Оваа страница е копија на",
+      "en": "This page is a copy of"
+    },
+    {
+      "mk": "а податоците се прикажани на малку поинаков начин на визуелизација од изворната страница за да можат да се видат сите услови на прв поглед.",
+      "en": ", and the data is presented in a slightly different way of visulization from the source page in order to be able to see all the conditions at a glance."
+    },
+    {
+      "mk": "Состојба на% s",
+      "en": "Situation of %s"
+    },
+    {
+      "mk": "Имплементација",
+      "en": "Implementation"
+    },
+    {
+      "mk": "Повлекување",
+      "en": "Withdrawal"
+    },
+    {
+      "mk": "Статус на сериозен случај СОВИД-19",
+      "en": "COVID-19 Severe Case Status, Measures of Japan ECMOnet for COVID-19"
+    },
+    {
+      "mk": "Трендови во употребата на вештачки респиратори во тешки случаи СОВИД-19",
+      "en": "Trends in the Usage of Artificial Respirators in COVID-19 Severe Case"
+    },
+    {
+      "mk": "Овие графикони ги покажуваат трендовите во бројот на тешки случаи за кои е потребно вештачко дишење пријавено во КРИСИС по регион и префектура. Напорно работиме на подобрување на точноста. Во СОВИД-19, постои тенденција многу тешки случаи да бидат на долгорочно вештачко дишење. Имаме план за да го претставиме ова во оваа колумна во иднина. (1 мај 2020 година)",
+      "en": "These graphs show the trends in the number of severe cases requiring artificial respiration reported to CRISIS by region and prefecture. We are working hard to improve the accuracy. In COVID-19, there is a tendency for many severe cases to be on long-term artificial respiration. We have a plan about for presenting this in this column in the future. (May 1, 2020)"
+    },
+    {
+      "mk": "Овие графикони се визуализации на бази на податоци акумулирани во CRoss Icu пребарувачки информативен систем (CRISIS, необјавен). Повеќе од 570 установи низ цела Јапонија учествуваат во оваа КРИСИС, фокусирајќи се на уверенија од јапонско здружение за медицина за интензивна нега и објекти определени од Одделот за итна медицина од јапонското друштво за итна медицина, со вкупно 5500 легла на ИЦУ, опфаќајќи 80 % од вкупните легла на ИКТ во Јапонија (околу 6500 легла). Овој проект доброволно го внесоа лицата одговорни за секоја болница кои одвоија време од нивните зафатени распореди. Ве молиме, разберете дека иако точноста е многу голема, може да има недостатоци. Првично, се фокусиравме на собирање податоци за ECMO. Сепак, ја препознаваме потребата за податоци за лица со сериозни заболувања на кои им се потребни вештачки респиратори и правиме напори да ја подобриме точноста на податоците. Имаме за цел да направиме подобрувања, иако малку по малку, за да можеме да ги оставиме следните генерации како важна предност кога ќе ја надминеме пандемијата. - Јапонија ECMOnet за СОВИД-19, 2020/5/1.",
+      "en": "These graphs are visualizations of databases accumulated in the CRoss Icu Searchable Information System (CRISIS, unpublished). More than 570 facilities across Japan are participating in this CRISIS, centering on facilities certified by the Japanese Society of Intensive Care Medicine and facilities designated by the Emergency Medicine Department of the Japanese Society of Emergency Medicine, with a total of 5500 ICU beds, covering 80% of the total ICU beds in Japan (about 6500 beds). This project has been voluntarily inputted by the people in charge of each hospital who took time out of their busy schedules. Please understand that although the accuracy is very high, there may be some shortcomings. Initially, we focused on collecting data on ECMO. However, we also recognize the need for data on people with serious illnesses who need artificial respirators, and we are making efforts to improve the accuracy of the data. We are aiming to make improvements, albeit little by little, so that we can bequeath it to the next generation as an important asset when we get over the pandemic. -- Japan ECMOnet for COVID-19, 2020/5/1."
+    },
+    {
+      "mk": "Трендови во употребата на ECMO во тежок случај COVID-19",
+      "en": "Trends in the Usage of ECMO in COVID-19 Severe Case"
+    },
+    {
+      "mk": "Следното е употребата на ЕКМО пријавени во КРИЗИС. Повеќето од пациентите со ЕКМО исто така користат вештачки респиратори, затоа има некои преклопувања со податоците на сликата погоре. Може да се тврди дека бројот е употреба на ECMO во даден ден. Исто така, постојат неколку институции кои можат да го користат ЕКМО за помош, но не се запишани во КРИЗИС. (1 мај 2020 година)",
+      "en": "The following is the usage of ECMOs reported to CRISIS. Most of the patients with ECMOs also using artificial respirators, therefore there are some overlap with the data in the figure above. It could be argued that the number is the usage of ECMO on a given day. There are also a few institutions that can use ECMO for assistance but are not enrolled in CRISIS. (May 1, 2020)"
+    },
+    {
+      "mk": "Резултати од ECMO третман за COVID-19 во Јапонија",
+      "en": "Results of ECMO Treatment for COVID-19 in Japan"
+    },
+    {
+      "mk": "Оваа бројка ги покажува промените во бројот на случаи на ЕКМО пријавени во КРИСИС и други случаи на ЕКМО собрани од нашата мрежа. Бидејќи има многу случаи кои се идентификувани подоцна, бројот на случаи се менуваше секојдневно одминувајќи се во минатото. Затоа, имајте во предвид дека може да има мала несовпаѓање помеѓу бројот во горенаведената слика и бројот прикажан овде. Скоро еден од пет пациенти на кои им е потребно вештачко дишење, исто така, ќе бара ECMO, а оние кои преживеале со помош на ECMO, ќе треба да го носат ECMO приближно 10 дена до две недели. (1 мај 2020 година)",
+      "en": "This figure shows the changes in the number of ECMO cases reported to CRISIS and other ECMO cases collected by our network. Since there are many cases that have been identified later, the number of cases has changed daily going back to the past. Therefore, please note that there may be a slight discrepancy between the number in the above figure and the number shown here. Almost one in five patients who require artificial respiration will also require an ECMO, and those who survived with the help of ECMO will need to wear the ECMO for approximately 10 days to two weeks. (May 1, 2020)"
+    },
+    {
+      "mk": "Повлекување ЕКМО %s（%s%%）、за време на спроведувањето на ЕКМО %s（%s%%）、смрт %s（%s%%）",
+      "en": "ECMO withdrawal %s (%s%%), during ECMO implementation %s (%s%%), death %s (%s%%)"
+    },
+    {
+      "mk": "Трите индикатори, бројот на спроведени тестови, тестовите по милион и позитивни се вредностите добиени по пресметката на подвижниот просек од последните седум дена врз основа на соодветните дневни зголемувања.",
+      "en": "The three indicators, number of tests conducted, tests per million, and positive, are the values obtained after calculating the moving average of the last seven days based on the respective daily increases."
+    },
+    {
+      "mk": "Видливост во колоната",
+      "en": "Column Visibility"
+    },
+    {
+      "mk": "Активни: Бидејќи пресметката се заснова на податоци од MOH, бројот во реално време не е вклучен.",
+      "en": "Active: Since the calculation is based on data from the MOH, the real-time number are not included."
+    },
+    {
+      "mk": "Одете на страницата ECMOnet",
+      "en": "Go to ECMOnet page"
+    },
+    {
+      "mk": "Потврдено: Во реално време, бројот на потврдени случаи пријавени на оваа страница не се смета за оние тестирања кои се позитивни по целосно закрепнување, така што може да се разликува од вредностите што се пријавени од страна на некои медиуми и општини (пациенти кои тестираат позитивно откако целосно закрепнале сметано е 1 додаток)",
+      "en": "Confirmed: The real-time number of confirmed cases reported in this site is not counted those testing positive after having fully recovered, so it may differ from the values reported by some media and municipalities (patients testing positive after having fully recovered counted as 1 addition)."
+    },
+    {
+      "mk": "Мора да прочитате",
+      "en": "Must Read"
+    },
+    {
+      "mk": "Карантин: Вклучува државни службеници и оние што се идентификувани во аеродромската карантина.",
+      
+      "en": "Quarantine: It includes state officials and those identified in airport quarantine."
+    },
+    {
+      "mk": "Методот што се користи за пресметување на позитивната стапка на оваа страница е ист со оној метод на MHLW за периодот од крајот на март до 8 мај. После 8 мај, заради промените во стандардите за објавување на податоци, МЗШВ веќе не ја објавува позитивната стапка униформно, но наместо тоа ги користи податоците објавени од секоја општина (позитивна стапка, итн.). Иако оваа веб-страница продолжува да користи податоци објавени од MHLW за пресметки со иста методологија, во именителот постои неизвесност (број на тестирани лица) и не може да се даде гаранција за точноста на позитивните стапки. За точни податоци, погледнете ги страниците за информации за секој регионален владин оддел.",
+     
+      "en": "The method used to calculate the positive rate on this page is the same as that used by the MHLW for the period from late March to May 8. After May 8, due to changes in data release standards, the MHLW no longer publishes the positive rate uniformly, but instead uses the data published by each municipality (positive rate, etc.). Although this website continues to use data published by the MHLW for calculations using the same methodology, there is uncertainty in the denominator (number of people tested) and no assurance can be given as to the accuracy of the positive rates. For accurate data, please refer to the information pages of each regional government department."
+    }
+  ]
+}

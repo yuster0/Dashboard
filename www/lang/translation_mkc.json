@@ -1,0 +1,1629 @@
+{
+  "languages": ["mk", "en"],
+  "translation": [
+    {
+      "mk": "СОВЕТ 19 МАКЕДОНИЈА Б У Л Л Е Т И Н",
+      "en": "C O V I D - 1 9　B U L L E T I N　B O A R D"
+    },
+    {
+      "mk": "Во живо",
+      "en": "Live"
+    },
+    {
+      "mk": "Дев",
+      "en": "Dev"
+    },
+    {
+      "mk": "Огласна табла",
+      "en": "Bulletin Board"
+    },
+    {
+      "mk": "Пат за инфекција",
+      "en": "Infection Route"
+    },
+    {
+      "mk": "Регион",
+      "en": "Region"
+    },
+    {
+      "mk": "Вардарски",
+      "en": "Vardar"
+    },
+    {
+      "mk": "Источен",
+      "en": "Eastern"
+    },
+    {
+      "mk": "Податоци за трендовите на инфекции со КОВИД-19 во источниот регион",
+      "en": "Data on the trends of COVID-19 infections in Eastern Region"
+    },
+    {
+      "mk": "Североисточен",
+      "en": "Northeastern"
+    },
+    {
+      "mk": "Информации за североисточниот регион COVID-19 (неофицијално)",
+      "en": "North eastern region COVID-19 Information (Unofficial)"
+    },
+    {
+      "mk": "Информации за Скопје COVID-19 (неофицијално)",
+      "en": "Skopje COVID-19 Information (Unofficial)"
+    },
+    {
+      "mk": "Југоисточен",
+      "en": "Southeastern"
+    },
+    {
+      "mk": "Пелагониски",
+      "en": "Pelagonia"
+    },
+    {
+      "mk": "Информации за Пелагонија COVID-19 (неофицијално)",
+      "en": "Pelagonia COVID-19 Information (Unofficial)"
+    },
+    {
+      "mk": "Полошки",
+      "en": "Polog"
+    },
+    {
+      "mk": "Југозападен",
+      "en": "Southwestern"
+    },
+    {
+      "mk": "Отвори податоци",
+      "en": "Open Data"
+    },
+    {
+      "mk": "Епидемиска карта",
+      "en": "Epidemic Map"
+    },
+    {
+      "mk": "Архива",
+      "en": "Archive"
+    },
+    {
+      "mk": "Анализа",
+      "en": "Analysis"
+    },
+    {
+      "mk": "Ефект на самоограничување",
+      "en": "Self-restraint Effect"
+    },
+    {
+      "mk": "За",
+      "en": "About"
+    },
+    {
+      "mk": "Нов коронавирус",
+      "en": "Novel Coronavirus"
+    },
+    {
+      "mk": "Коронавирусна болест 2019 (КОВИД-19)",
+      "en": "Coronavirus disease 2019 (COVID-19)"
+    },
+    {
+      "mk": "Смрт",
+      "en": "Death"
+    },
+    {
+      "mk": "Испуштен",
+      "en": "Discharged"
+    },
+    {
+      "mk": "Позадина",
+      "en": "Background"
+    },
+    {
+      "mk": "Што е коронавирус? (СЗО)",
+      "en": "What is a coronavirus? (WHO)"
+    },
+    {
+      "mk": "Коронавирусите се големо семејство на вируси кои можат да предизвикаат болест кај животните или луѓето. Кај луѓето, познато е дека неколку коронавируси предизвикуваат респираторни инфекции кои се движат од обична настинка до потешки болести како што се респираторен синдром на Блискиот исток (МЕРС) и тежок акутен респираторен синдром (САРС). Најновиот откриен коронавирус предизвикува коронавирусна болест КОВИД-19.",
+      "en": "Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19."
+    },
+    {
+      "mk": "PCR-тест",
+      "en": "PCR Test"
+    },
+    {
+      "mk": "Изберете Регион",
+      "en": "Select Region"
+    },
+    {
+      "mk": "Изберете Екран",
+      "en": "Select Display"
+    },
+    {
+      "mk": "0 нови континуирани денови",
+      "en": "0 new continuous days"
+    },
+    {
+      "mk": "Топлина на случаите",
+      "en": "Heatmap of Cases"
+    },
+    {
+      "mk": "Ситуација во секој регион",
+      "en": "Situation in Each Region"
+    },
+    {
+      "mk": "Број на потврдени во секоја општина до јуни",
+      "en": "Number of Confirmed in Each Municipality until June"
+    },
+    {
+      "mk": "Извор на базата на податоци: @kenmo_economics\nБелешка 1: Оваа бројка ги брои само оние чие место на живеење е достапно",
+      "en": "Data source: @kenmo_economics\nNote 1: This figure only counts those whose place of residence is available."
+    },
+    {
+      "mk": "Извор на податоци: @kenmo_economics\nЗабелешка: Оваа бројка нема да се ажурира откако податоците ќе бидат достапни",
+      "en": "Data source: @kenmo_economics\nNote: This figure will not be updated once available."
+    },
+    {
+      "mk": "Број на позитивни случаи во секоја општина",
+      "en": "Number of Confirmed in each Municipality"
+    },
+    {
+      "mk": "Во тек и прилагодување",
+      "en": "In progress & adjustment"
+    },
+    {
+      "mk": "Избор на топлинска карта",
+      "en": "Heatmap Selector"
+    },
+    {
+      "mk": "Возраст и пол",
+      "en": "Age & Gender"
+    },
+    {
+      "mk": "Извори на потврдено",
+      "en": "Sources of Confirmed"
+    },
+    {
+      "mk": "Пребарај заразени",
+      "en": "Search for Infected"
+    },
+    {
+      "mk": "нема потврдени случаи во регионот. Или, податоците треба да се ажурираат",
+      "en": "There are no confirmed cases in the region. Or the data needs to be updated."
+    },
+    {
+      "mk": "Изберете барем еден регион",
+      "en": "Choose at least one region."
+    },
+    {
+      "mk": "Затвори информации за контакт.",
+      "en": "Close Contact Info."
+    },
+    {
+      "mk": "Симптоми и знаци",
+      "en": "Signs & Symptoms"
+    },
+    {
+      "mk": "Историја на активности",
+      "en": "Activity History"
+    },
+    {
+      "mk": "Јавно достапни информации",
+      "en": "Publicly Available Information"
+    },
+    {
+      "mk": "Кликнете на иконата на кругот лево за повеќе информации.",
+      "en": "Click on the circle icon on the left for more information."
+    },
+    {
+      "mk": "Извор на датум",
+      "en": "Data source: "
+    },
+    {
+      "mk": "Мапа за инфекции",
+      "en": "Infection Map"
+    },
+    {
+      "mk": "Поедноставување",
+      "en": "Simplify"
+    },
+    {
+      "mk": "Детали",
+      "en": "Detail"
+    },
+    {
+      "mk": "Мод",
+      "en": "Mode"
+    },
+    {
+      "mk": "Опции",
+      "en": "Options"
+    },
+    {
+      "mk": "Дневно се зголемува pop-up",
+      "en": "Daily increases pop-up"
+    },
+    {
+      "mk": "Јамка игра",
+      "en": "Loop play"
+    },
+    {
+      "mk": "Опсег на датум",
+      "en": "Date range"
+    },
+    {
+      "mk": "Повеќе",
+      "en": "More"
+    },
+    {
+      "mk": "Инфекција",
+      "en": "Infection"
+    },
+    {
+      "mk": "Не е избран Ве молиме изберете го регионот.",
+      "en": "Not selected. Please select the region."
+    },
+    {
+      "mk": "Обновено & Смрт",
+      "en": "Recovered & Death"
+    },
+    {
+      "mk": "Активни",
+      "en": "Active"
+    },
+    {
+      "mk": "Во именителот не е вклучен бројот на жртвите и 40-те патници на Крстарењето кои се вратија во земјата, со авионски билети.",
+      "en": "The denominator does not include the number of fatalities and the 40 passengers of the Cruise DP who returned home country on a air chartered."
+    },
+    {
+      "mk": "Групирање",
+      "en": "Grouping"
+    },
+    {
+      "mk": "Пријавена инфекција",
+      "en": "Infection reported"
+    },
+    {
+      "mk": "Регион тивок",
+      "en": "Region Silent"
+    },
+    {
+      "mk": "бројот на закрепнати е врз основа на бројките објавени од МЗ, така што постои можност за одложување на еден ден од прелиминарниот извештај за медиумите.",
+      "en": "The number of recovered is based on figures released by MHLW, so there is a possibility of a delay of one day from the preliminary media report."
+    },
+    {
+      "mk": "Без активни",
+      "en": "No Active"
+    },
+    {
+      "mk": "Брзина (сек / ден)",
+      "en": "Speed (sec/day)"
+    },
+    {
+      "mk": "Домашни случаи",
+      "en": "Local cases"
+    },
+    {
+      "mk": "Локално",
+      "en": "Local"
+    },
+    {
+      "mk": "Повелбата, вклучително.",
+      "en": "Charter case incl."
+    },
+    {
+      "mk": "Тестирано",
+      "en": "Tested"
+    },
+    {
+      "mk": "Потврдено",
+      "en": "Confirmed"
+    },
+    {
+      "mk": "tестирање",
+      "en": "Tested"
+    },
+    {
+      "mk": "倍加時間の経時的変化（直近%s日間で計算）",
+      "en": "Change in doubling time over time (calculated over the last %s days)"
+    },
+    {
+      "mk": "倍加時間",
+      "en": "Doubling Time"
+    },
+    {
+      "mk": "日次新規",
+      "en": "New daily"
+    },
+    {
+      "mk": "日数の計算式は以下のとおりです：",
+      "en": "The number of days is calculated by the following formula: "
+    },
+    {
+      "mk": "N：累積感染者数",
+      "en": "N: Cumulative number of infected"
+    },
+    {
+      "mk": "コールセンター（累計）",
+      "en": "Call Center (total)"
+    },
+    {
+      "mk": "検査実施数",
+      "en": "Test Conducted"
+    },
+    {
+      "mk": "陽性数!",
+      "en": "Positive"
+    },
+    {
+      "mk": "検査実施件数",
+      "en": "Number of Tests"
+    },
+    {
+      "mk": "検査実施件数累計",
+      "en": "Number of Tests (total)"
+    },
+    {
+      "mk": "検査実施件数・陽性者数",
+      "en": "Number of Tests & Positive"
+    },
+    {
+      "mk": "\n注1. 検査開始日：令和２年１月３０日（木）１９時",
+      "en": "\n* Test Start Date: 7pm, 30 Jan 2020"
+    },
+    {
+      "mk": "注2. PCR検査実施件数は，帰国者・接触者外来を通じて検査を行った数のみを計上しており，退院時の確認検査などは含まれておりません。",
+      "en": "* The number of PCR tests includes only the number of tests conducted through\n   consultation services for returnees and have been exposed to confirmed persons, \n  and does not include confirmation tests at the time of discharge."
+    },
+    {
+      "mk": "新型コロナウイルス感染症相談窓口（コールセンター）対応状況",
+      "en": "Response of COVID-19 Call Center"
+    },
+    {
+      "mk": "検査実施数累計",
+      "en": "Test Conducted (total)"
+    },
+    {
+      "mk": "陽性数累計",
+      "en": "Positive (total)"
+    },
+    {
+      "mk": "感染経路",
+      "en": "Route of Infection"
+    },
+    {
+      "mk": "†マーク：死亡者。",
+      "en": "† mark: Death."
+    },
+    {
+      "mk": "番号の枠：選択された公表日範囲内の事例。",
+      "en": "Box of the number: cases within the selected publication date range."
+    },
+    {
+      "mk": "クラスターネットワーク",
+      "en": "Cluster Network"
+    },
+    {
+      "mk": "1. クラスターネットワークについて",
+      "en": "1. About the Cluster Network"
+    },
+    {
+      "mk": "2. データセットについて",
+      "en": "2. About the Dataset"
+    },
+    {
+      "mk": "3. 更新について",
+      "en": "3. About the Update"
+    },
+    {
+      "mk": "検査実施数・陽性数",
+      "en": "Test Conducted & Positive"
+    },
+    {
+      "mk": "本日新規",
+      "en": "New Today"
+    },
+    {
+      "mk": "回復者数の推移",
+      "en": "Recovered Trends"
+    },
+    {
+      "mk": "退院者内訳",
+      "en": "Details of Discharged"
+    },
+    {
+      "mk": "回復者数（日次）",
+      "en": "New Recovered (daily)"
+    },
+    {
+      "mk": "令和2年4月22日から厚労省が公開している退院者・死亡者数には突合作業中の人数が含まれているため、入退院等の状況の合計とPCR検査陽性者数は一致していません。",
+      "en": "Note: The data on discharges and deaths published by the MHLW after April 22, 2020 include data that are in the process of being verified, resulting in a discrepancy between the number of hospital discharges and the overall number of positive PCR tests."
+    },
+    {
+      "mk": "%sのサマリー",
+      "en": "Summary of %s"
+    },
+    {
+      "mk": "退院率：",
+      "en": "Discharged: "
+    },
+    {
+      "mk": "回復率",
+      "en": "Recovered Rate"
+    },
+    {
+      "mk": "回復 / 死亡",
+      "en": "Recovered / Death"
+    },
+    {
+      "mk": "重傷率：",
+      "en": "Severity rate: "
+    },
+    {
+      "mk": "死亡率",
+      "en": "Mortality rate"
+    },
+    {
+      "mk": "死亡率：",
+      "en": "Mortality rate: "
+    },
+    {
+      "mk": "クルーズ・チャーター便事例の表示",
+      "en": "Cruise DP & Air charters"
+    },
+    {
+      "mk": "移動平均時間間隔",
+      "en": "Moving Average Time Interval"
+    },
+    {
+      "mk": "報道発表一覧（新型コロナウイルス）",
+      "en": "Press Releases (COVID-19)"
+    },
+    {
+      "mk": "PCR検査人数（日次）",
+      "en": "PCR tests conducted (daily)"
+    },
+    {
+      "mk": "注意事項",
+      "en": "Notes"
+    },
+    {
+      "mk": "これまで延べ人数で公表されていたクルーズ船のPCR検査の結果については、3月5日以後、実員数で精査された結果になったため、3月5日のデータで下方修正されています。",
+      "en": "The PCR results of the cruise PD, published in terms of cumulative number of test conducted, were verified after March 5, so the March 5 data will have a negative correction."
+    },
+    {
+      "mk": "コールセンター（日次）",
+      "en": "Call Center (daily)"
+    },
+    {
+      "mk": "帰国者・接触者相談（日次）",
+      "en": "Consultations at returnee/contact (daily)"
+    },
+    {
+      "mk": "帰国者・接触者相談（累計）",
+      "en": "Consultations at returnee/contact (total)"
+    },
+    {
+      "mk": "死亡者",
+      "en": "Death"
+    },
+    {
+      "mk": "現在感染者数：",
+      "en": "Active Confirmed: "
+    },
+    {
+      "mk": "現在重症者数：",
+      "en": "Active Severe: "
+    },
+    {
+      "mk": "「令和2年3月4日版」以後は、陽性となった者の濃厚接触者に対する検査も含めた検査実施人数を都道府県に照会し、回答を得たものを公表しています。なお、国内事例のPCR検査実施人数は、疑似症患者（感染が疑われる者）報告制度の枠組みの中で報告された数を計上しており、各自治体で行った全ての検査結果を反映しているものではありません（退院時の確認検査などは含まず）。",
+      "en": "After the Report of March 4, the number of people who conducted the tests, including those who have a close contact with the patients, was referred to the prefectural governments and only confirmed number were published. The number of PCR tests conducted in Japan is the number of reports within the framework of the pseudopathy reporting system, and does not reflect the results of all tests conducted in each municipality (such as confirmation tests at the time of discharge are not included)."
+    },
+    {
+      "mk": "<hr>国内：%s (%s)<br>空港検疫：%s (+%s)<br>チャーター便：%s<br>コスタ・アトランチカ号：%s",
+      "en": "<hr>Domestic: %s (%s)<br>Airport quarantine: %s (+%s)<br>Air charter: %s<br>Costa Atlantica: %s"
+    },
+    {
+      "mk": "国内事例：%s (+%s)<br>チャーター便：%s<br>コスタ・アトランチカ号：%s",
+      "en": "Domestic cases: %s (+%s)<br>Air charter: %s<br>Costa Atlantica: %s"
+    },
+    {
+      "mk": "国内事例：%s (+%s)<br>空港検疫：%s (+%s)<br>チャーター便：%s（全員退院済み）",
+      "en": "Domestic cases: %s (+%s)<br>Airport quarantine: %s (+%s)<br>Air charter: %s (all discharged)"
+    },
+    {
+      "mk": "クルーズ船",
+      "en": "Cruise DP"
+    },
+    {
+      "mk": "空港検疫",
+      "en": "Airport Quarantine"
+    },
+    {
+      "mk": "死亡（突合作業中）",
+      "en": "Death (Confirming)"
+    },
+    {
+      "mk": "回復（突合作業中）",
+      "en": "Recovered (Confirming)"
+    },
+    {
+      "mk": "回復・重症・死亡",
+      "en": "Recovered, Severe & Death"
+    },
+    {
+      "mk": "回復",
+      "en": "Recovered"
+    },
+    {
+      "mk": "回復推移",
+      "en": "Trends"
+    },
+    {
+      "mk": "回復者",
+      "en": "Recovered"
+    },
+    {
+      "mk": "回復者数",
+      "en": "Recovered"
+    },
+    {
+      "mk": "ダイアモンド・プリンセス号：令和２年３月５日まで延べ人数で公表されていたＰＣＲ検査の結果について、実員数で精査した結果は下記の数値のとおりです。<br><br>",
+      "en": "Diamond Princess: The results of the PCR test, which was announced by the total number of personnel until March 5, 2020, are as follows. <br><br>"
+    },
+    {
+      "mk": "参考：横浜港で検疫中のクルーズ船の乗客・乗員に係る新型コロナウイルス感染症ＰＣＲ検査結果について",
+      "en": "Ref: PCR Test Results of COVID-19 in Passengers and Crew of Cruise Ships under Quarantine at the Port of Yokohama"
+    },
+    {
+      "mk": "<br><br>※下船した方に対する健康フォローアップ期間中の249人に対するPCR検査数は含まれていない。",
+      "en": "<br><br>※The number of PCR tests on 249 persons during the health follow-up period for disembarked persons was not included."
+    },
+    {
+      "mk": "ダイアモンド・プリンセス号：那覇港出港時点の人数は3711人。うち日本国籍の者1341人。",
+      "en": "Diamond Princess: The number of people at the time of departure from Naha Port was 3711. Of these, 1341 are Japanese citizens."
+    },
+    {
+      "mk": "船会社の医療スタッフとして途中乗船し、PCR陽性となった1名は含めず、チャーター便で帰国した40名を含む。",
+      "en": "The cruise company\\'s medical staff who was on board en route and tested positive was not included, and 40 patients who returned by air charter were included."
+    },
+    {
+      "mk": "チャーター便で帰国した者を除く。",
+      "en": "Excludes those returning by air charter."
+    },
+    {
+      "mk": "この他にチャーター便で帰国後、3月1日に死亡したとオーストラリア政府が発表した１名がいる。",
+      "en": "According to Australian government, one other patients died on March 1st after returning by air charter."
+    },
+    {
+      "mk": "感染密度 (km)：『何km四方の土地（可住地面積）に感染者が１人いるか』という指標。",
+      "en": "Infection density (km): an indicator of how many km of land (inhabitable area) there is one infected person in a given area."
+    },
+    {
+      "mk": "検査人数：複数の検体を重複してカウントしていた期間については検査人数の合計に含まれていない。陽性者数の検査人数に対する比率についても、重複が排除された期間のみの比率を表している。なお、千葉県においては3/20までに1716件の検査が、神奈川県においては3/22までにクルーズ船を含む2835件の検査が、大阪府においては3/20までに2350件の検査が行われた。千葉県は3/21より、神奈川県は3/23より、大阪府は3/21より検査人数を計上している。",
+      "en": "Tested: Periods in which multiple specimens were counted in duplicate were not included in the total count. The ratio of the number of positives to the number of people tested also represents the ratio only for the period in which duplicates were eliminated. In Chiba Prefecture, 1716 tests were conducted by 20 March, Kanagawa Prefecture 2835 tests including cruise ships were conducted by 22 March, and Osaka Prefecture 2350 tests were conducted by 20 March. The number of people tested in Chiba, Kanagawa, and Osaka prefectures has been recorded since 3/21, 3/23, and 3/21, respectively."
+    },
+    {
+      "mk": "日均：日次検査人数を週間平均を計算した直近１週間の数値である。",
+      "en": "Daily (Ave): the value for the most recent week after the seven-day moving average of the number of daily tests conducted."
+    },
+    {
+      "mk": "陽性率：陽性者数の検査人数に対する比率は、千葉県、神奈川県及び大阪府において、複数の検体を重複してカウントしていた期間の陽性者数を除いて算出している。",
+      "en": "Positive rate: The ratio of the number of positive subjects to the number of persons tested is calculated by excluding the number of positive subjects in Chiba, Kanagawa, and Osaka prefectures when multiple specimens were counted in duplicate."
+    },
+    {
+      "mk": "東京都の検査実施人数には、医療機関による保険適用での検査人数、チャーター機帰国者、クルーズ船乗客等は含まれていない。",
+      "en": "The number of people tested by the Tokyo Metropolitan Government does not include the number of people inspected by medical institutions under insurance coverage, air charter returnees, cruise ship passengers, etc."
+    },
+    {
+      "mk": "自治体",
+      "en": "Prefecture"
+    },
+    {
+      "mk": "新規",
+      "en": "New"
+    },
+    {
+      "mk": "Потврдува",
+      "en": "Confirmed"
+    },
+    {
+      "mk": "感染推移",
+      "en": "Trends"
+    },
+    {
+      "mk": "倍加日数",
+      "en": "Doubling Day"
+    },
+    {
+      "mk": "百万人あたり",
+      "en": "/M people"
+    },
+    {
+      "mk": "カテゴリ",
+      "en": "Category"
+    },
+    {
+      "mk": "感染密度(km)",
+      "en": "Infection density"
+    },
+    {
+      "mk": "Исцелен",
+      "en": "Discharged"
+    },
+    {
+      "mk": "退院推移",
+      "en": "Trends"
+    },
+    {
+      "mk": "死亡",
+      "en": "Death"
+    },
+    {
+      "mk": "内訳",
+      "en": "Details"
+    },
+    {
+      "mk": "感染者数の推移",
+      "en": "Confirmed Trends"
+    },
+    {
+      "mk": "一般",
+      "en": "Normal"
+    },
+    {
+      "mk": "片対数",
+      "en": "Single-log"
+    },
+    {
+      "mk": "両対数",
+      "en": "Double-log"
+    },
+    {
+      "mk": "感染新規数（日次）",
+      "en": "New confirmed (daily)"
+    },
+    {
+      "mk": "※こちらの合計値には空港検疫、チャーター便、\n　クルーズ関連の事例などは含まれていない。",
+      "en": "※ The total do not include airport quarantines,\n  air charter, or cases related to cruises."
+    },
+    {
+      "mk": "リアルタイム感染者数マップ",
+      "en": "Realtime Infection Map"
+    },
+    {
+      "mk": "1. 3月下旬〜5月8日までの集計について",
+      "en": "1. Data published by MHLW from late March to May 8"
+    },
+    {
+      "mk": "マイナスの値について：こちらの数値は全て厚労省が毎日発表されている数値である。厚労省の発表基準変更（5月8日）たったり、自治体からの報告と齟齬があったりする時、データの不整合性が生じるが、当サイトは修正せずそのまま厚労省が発表した数値を可視化しております。",
+      "en": "About the negative values: The table shows the raw data published daily by the MHLW. Due to the change of the publication standards of the MHLW (May 8) or the discrepancy between the data reported by municipalities, there will be data consistency problems, and we does not make any corrections to this, but only visualizes the data published by the MHLW."
+    },
+    {
+      "mk": "累積感染者数：",
+      "en": "Total confirmed: "
+    },
+    {
+      "mk": "なし",
+      "en": "None"
+    },
+    {
+      "mk": "各都道府県からの新規報告なし",
+      "en": "No new reports from prefectures."
+    },
+    {
+      "mk": "発表がある%s都道府県合計新規%s人, 合計%s人\n\n",
+      "en": "Announcements from %s prefectures\ntotal new %s confirmed, accumulated total %s confirmed\n\n"
+    },
+    {
+      "mk": "北海道・東北",
+      "en": "Hokkaido & Tohoku"
+    },
+    {
+      "mk": "東北地方",
+      "en": "Tohoku Region"
+    },
+    {
+      "mk": "関東",
+      "en": "Kanto"
+    },
+    {
+      "mk": "関東地方",
+      "en": "Kanto Region"
+    },
+    {
+      "mk": "中部",
+      "en": "Chubu"
+    },
+    {
+      "mk": "近畿",
+      "en": "Kinki"
+    },
+    {
+      "mk": "中国",
+      "en": "Chugoku"
+    },
+    {
+      "mk": "四国",
+      "en": "Shikoku"
+    },
+    {
+      "mk": "九州・沖縄",
+      "en": "Kyushu & Okinawa"
+    },
+    {
+      "mk": "他",
+      "en": "Other"
+    },
+    {
+      "mk": "全国",
+      "en": "Japan"
+    },
+    {
+      "mk": "青森",
+      "en": "Aomori"
+    },
+    {
+      "mk": "岩手",
+      "en": "Iwate"
+    },
+    {
+      "mk": "宮城",
+      "en": "Miyagi"
+    },
+    {
+      "mk": "秋田",
+      "en": "Akita"
+    },
+    {
+      "mk": "山形",
+      "en": "Yamagata"
+    },
+    {
+      "mk": "福島",
+      "en": "Fukushima"
+    },
+    {
+      "mk": "茨城",
+      "en": "Ibaraki"
+    },
+    {
+      "mk": "栃木",
+      "en": "Tochigi"
+    },
+    {
+      "mk": "群馬",
+      "en": "Gunma"
+    },
+    {
+      "mk": "埼玉",
+      "en": "Saitama"
+    },
+    {
+      "mk": "千葉",
+      "en": "Chiba"
+    },
+    {
+      "mk": "東京",
+      "en": "Tokyo"
+    },
+    {
+      "mk": "神奈川",
+      "en": "Kanagawa"
+    },
+    {
+      "mk": "新潟",
+      "en": "Niigata"
+    },
+    {
+      "mk": "富山",
+      "en": "Toyama"
+    },
+    {
+      "mk": "石川",
+      "en": "Ishikawa"
+    },
+    {
+      "mk": "福井",
+      "en": "Fukui"
+    },
+    {
+      "mk": "山梨",
+      "en": "Yamanashi"
+    },
+    {
+      "mk": "長野",
+      "en": "Nagano"
+    },
+    {
+      "mk": "岐阜",
+      "en": "Gifu"
+    },
+    {
+      "mk": "静岡",
+      "en": "Shizuoka"
+    },
+    {
+      "mk": "愛知",
+      "en": "Aichi"
+    },
+    {
+      "mk": "三重",
+      "en": "Mie"
+    },
+    {
+      "mk": "滋賀",
+      "en": "Shiga"
+    },
+    {
+      "mk": "京都",
+      "en": "Kyoto"
+    },
+    {
+      "mk": "大阪",
+      "en": "Osaka"
+    },
+    {
+      "mk": "兵庫",
+      "en": "Hyogo"
+    },
+    {
+      "mk": "奈良",
+      "en": "Nara"
+    },
+    {
+      "mk": "和歌山",
+      "en": "Wakayama"
+    },
+    {
+      "mk": "鳥取",
+      "en": "Tottori"
+    },
+    {
+      "mk": "島根",
+      "en": "Shimane"
+    },
+    {
+      "mk": "岡山",
+      "en": "Okayama"
+    },
+    {
+      "mk": "広島",
+      "en": "Hiroshima"
+    },
+    {
+      "mk": "山口",
+      "en": "Yamaguchi"
+    },
+    {
+      "mk": "徳島",
+      "en": "Tokushima"
+    },
+    {
+      "mk": "香川",
+      "en": "Kagawa"
+    },
+    {
+      "mk": "愛媛",
+      "en": "Ehime"
+    },
+    {
+      "mk": "高知",
+      "en": "Kochi"
+    },
+    {
+      "mk": "福岡",
+      "en": "Fukuoka"
+    },
+    {
+      "mk": "佐賀",
+      "en": "Saga"
+    },
+    {
+      "mk": "長崎",
+      "en": "Nagasaki"
+    },
+    {
+      "mk": "熊本",
+      "en": "Kumamoto"
+    },
+    {
+      "mk": "大分",
+      "en": "Oita"
+    },
+    {
+      "mk": "宮崎",
+      "en": "Miyazaki"
+    },
+    {
+      "mk": "鹿児島",
+      "en": "Kagoshima"
+    },
+    {
+      "mk": "沖縄",
+      "en": "Okinawa"
+    },
+    {
+      "mk": "検疫職員",
+      "en": "Quarantine"
+    },
+    {
+      "mk": "伊客船",
+      "en": "Cruise CA"
+    },
+    {
+      "mk": "チャーター便",
+      "en": "Air charter"
+    },
+    {
+      "mk": "情報源",
+      "en": "Source"
+    },
+    {
+      "mk": "情報源リンク集",
+      "en": "Source Links"
+    },
+    {
+      "mk": "日付選択",
+      "en": "Select Date"
+    },
+    {
+      "mk": "症状の進行",
+      "en": "Progression of symptoms"
+    },
+    {
+      "mk": "国内状況推移",
+      "en": "Domestic Trends"
+    },
+    {
+      "mk": "秒前",
+      "en": " secs ago"
+    },
+    {
+      "mk": "分前",
+      "en": " mins ago"
+    },
+    {
+      "mk": "時間前",
+      "en": " hours ago"
+    },
+    {
+      "mk": "日前",
+      "en": " days ago"
+    },
+    {
+      "mk": "週前",
+      "en": " weeks ago"
+    },
+    {
+      "mk": "お知らせ",
+      "en": "Notification"
+    },
+    {
+      "mk": "更新時刻",
+      "en": "Update at "
+    },
+    {
+      "mk": "更新時刻：",
+      "en": "Update: "
+    },
+    {
+      "mk": "感染ルート・クラスターへ",
+      "en": "Go to Infection Route & Cluster"
+    },
+    {
+      "mk": "男性：",
+      "en": "Male: "
+    },
+    {
+      "mk": "男性",
+      "en": "Male"
+    },
+    {
+      "mk": "女性：",
+      "en": "Female: "
+    },
+    {
+      "mk": "女性",
+      "en": "Female"
+    },
+    {
+      "mk": "外部リンク",
+      "en": "External Link"
+    },
+    {
+      "mk": "罹患中",
+      "en": "Suffering"
+    },
+    {
+      "mk": "合計：",
+      "en": "Total: "
+    },
+    {
+      "mk": "年代：",
+      "en": "Age: "
+    },
+    {
+      "mk": "年代",
+      "en": "Age"
+    },
+    {
+      "mk": "職業",
+      "en": "Occupation"
+    },
+    {
+      "mk": "居住地",
+      "en": "Residence"
+    },
+    {
+      "mk": "性別：",
+      "en": "Gender: "
+    },
+    {
+      "mk": "番号：",
+      "en": "ID: "
+    },
+    {
+      "mk": "総計の",
+      "en": " "
+    },
+    {
+      "mk": "の",
+      "en": " - "
+    },
+    {
+      "mk": "男性：%s人 (%s%%)、女性：%s人 (%s%%)\n不明：%s人 (%s%%)、計：%s人",
+      "en": "Male: %s (%s%%), Female: %s (%s%%)\nUnknown: %s (%s%%), Total: %s"
+    },
+    {
+      "mk": "集計時間：",
+      "en": "Aggregation time: "
+    },
+    {
+      "mk": "公表日",
+      "en": "Announced: "
+    },
+    {
+      "mk": "公表日：",
+      "en": "Announced: "
+    },
+    {
+      "mk": "yyyy年m月d日",
+      "en": "yyyy-mm-dd"
+    },
+    {
+      "mk": "都道府県",
+      "en": "Prefecture"
+    },
+    {
+      "mk": "都道府県合計",
+      "en": "All Prefecture"
+    },
+    {
+      "mk": "00代",
+      "en": "0s"
+    },
+    {
+      "mk": "10代",
+      "en": "10s"
+    },
+    {
+      "mk": "20代",
+      "en": "20s"
+    },
+    {
+      "mk": "30代",
+      "en": "30s"
+    },
+    {
+      "mk": "40代",
+      "en": "40s"
+    },
+    {
+      "mk": "50代",
+      "en": "50s"
+    },
+    {
+      "mk": "60代",
+      "en": "60s"
+    },
+    {
+      "mk": "70代",
+      "en": "70s"
+    },
+    {
+      "mk": "80代",
+      "en": "80s"
+    },
+    {
+      "mk": "> 90代",
+      "en": "> 90s"
+    },
+    {
+      "mk": "不明",
+      "en": "Unknown"
+    },
+    {
+      "mk": "本日合計新規%s人（検疫カテゴリを含む）",
+      "en": "New %s cases today (Quarantine included)"
+    },
+    {
+      "mk": "名",
+      "en": ""
+    },
+    {
+      "mk": "期間中新規：",
+      "en": "New in the time period: "
+    },
+    {
+      "mk": "コールセンター",
+      "en": "Call Center"
+    },
+    {
+      "mk": "メール",
+      "en": "E-mail"
+    },
+    {
+      "mk": "回線数",
+      "en": "Lines"
+    },
+    {
+      "mk": "2/7\nフリーダイヤル化",
+      "en": "2/7\nToll-free number"
+    },
+    {
+      "mk": "2/14正午\nFAX対応",
+      "en": "2/14 Noon\nFAX supported"
+    },
+    {
+      "mk": "2/19正午\nメール対応",
+      "en": "2/19 Noon\nE-mail supported"
+    },
+    {
+      "mk": "累積",
+      "en": "Total"
+    },
+    {
+      "mk": "３日移動平均",
+      "en": "3-Day Moving Average"
+    },
+    {
+      "mk": "５日移動平均",
+      "en": "5-Day Moving Average"
+    },
+    {
+      "mk": "%s日移動平均",
+      "en": "%s-Day Moving Average"
+    },
+    {
+      "mk": "日次新規・累積検査人数の推移",
+      "en": "Trends of new, cumulative tests conducted (daily)"
+    },
+    {
+      "mk": "週間移動平均",
+      "en": "Weekly Moving Average"
+    },
+    {
+      "mk": "相談を受けた件数（日次）",
+      "en": "Number of consultations received (daily)"
+    },
+    {
+      "mk": "コールセンターの対応",
+      "en": "Call Center Correspondence"
+    },
+    {
+      "mk": "これまでの主な相談内容",
+      "en": "Main contents of consultation to date"
+    },
+    {
+      "mk": "現在の症状に対する不安",
+      "en": "Anxiety about current symptoms"
+    },
+    {
+      "mk": "予防法、消毒、対処法等医療に関する一般的事項",
+      "en": "General medical matters such as prevention, disinfection and coping methods"
+    },
+    {
+      "mk": "政府の対策についてのご意見",
+      "en": "Opinion on the government's measures"
+    },
+    {
+      "mk": "渡航に関する相談",
+      "en": "Consultation on travel"
+    },
+    {
+      "mk": "国内発症例の詳細な行動履歴について",
+      "en": "Detailed behavioral history of domestic cases"
+    },
+    {
+      "mk": "その他",
+      "en": "Other"
+    },
+    {
+      "mk": "厚生労働省コールセンターの対応状況等について",
+      "en": "Status of the Call Center of the Ministry of Health, Labour and Welfare"
+    },
+    {
+      "mk": "陽性者数",
+      "en": "Positivity"
+    },
+    {
+      "mk": "陽性率：",
+      "en": "Positive rate: "
+    },
+    {
+      "mk": "前日比",
+      "en": "New"
+    },
+    {
+      "mk": "検査推移",
+      "en": "Trends of Test"
+    },
+    {
+      "mk": "日均",
+      "en": "Daily (Ave)"
+    },
+    {
+      "mk": "陽性率推移",
+      "en": "Trends of Positive Rate"
+    },
+    {
+      "mk": "コミュニティモビリティレポート",
+      "en": "Community Mobility Reports"
+    },
+    {
+      "mk": "小売・娯楽",
+      "en": "Retail & Recreation"
+    },
+    {
+      "mk": "食品・医薬品",
+      "en": "Grocery & Pharmacy"
+    },
+    {
+      "mk": "公園",
+      "en": "Park"
+    },
+    {
+      "mk": "駅",
+      "en": "Transit Stations"
+    },
+    {
+      "mk": "職場",
+      "en": "Workplaces"
+    },
+    {
+      "mk": "家",
+      "en": "Residential"
+    },
+    {
+      "mk": "多次元比較",
+      "en": "Multidimensional Comparison"
+    },
+    {
+      "mk": "速報値：陽性者数",
+      "en": "Real-time: Confirmed"
+    },
+    {
+      "mk": "厚労省：陽性者数",
+      "en": "MHLW: Confirmed"
+    },
+    {
+      "mk": "速報値：死亡者数",
+      "en": "Real-time: Death"
+    },
+    {
+      "mk": "厚労省：死亡者数",
+      "en": "MHLW: Death"
+    },
+    {
+      "mk": "速報値と厚労省発表値の比較",
+      "en": "Comparison of Real-time Number and Published by the MHLW"
+    },
+    {
+      "mk": "検査人数・陽性者数（厚労省）",
+      "en": "Tests Conducted & Positive (MHLW)"
+    },
+    {
+      "mk": "陽性・回復・死亡（厚労省）",
+      "en": "Positive, Recovered & Death (MHLW)"
+    },
+    {
+      "mk": "陽性率",
+      "en": "Positive Rate"
+    },
+    {
+      "mk": "チャーター便を除く国内事例については、令和2年5月8日公表分から、データソースを従来の厚生労働省が把握した個票を積み上げたものから、各自治体がウェブサイトで公表している数等を積み上げたものに変更した。また、一部自治体について件数を計上しているため、実際の人数より過大である。",
+      "en": "From May 8, 2020, with respect to domestic cases excluding air charters, the data source was changed from the individual data obtained by the MHLW to the number of cases published by each municipality on its website. In addition, because the number of tests conducted rather than cases (persons tested) is reported for some municipalities, the figures are larger than the number of persons tested."
+    },
+    {
+      "mk": "令和2年5月8日公表分から、データソースを従来の厚生労働省が把握した個票を積み上げたものから、各自治体がウェブサイトで公表している数等を積み上げたものに変更した。",
+      "en": "From May 8, 2020, the data source was changed from the individual data obtained by the MHLW to the number of cases published by each municipality on its website."
+    },
+    {
+      "mk": "PCR検査実施人数は、一部自治体について件数を計上しているため、実際の人数より過大である。",
+      "en": "Because the number of tests conducted rather than cases (persons tested) is reported for some municipalities, the figures are larger than the number of persons tested."
+    },
+    {
+      "mk": "一部のデータについて、マイナスになったり大きく増減しているのは、都道府県からの報告に訂正または集計されていないデータを加わった結果になります。参考：",
+      "en": "Some of the negative or sudden surge in the number was caused by the MHLW's data correction based on reports from prefectures or one-time addition of data that were not counted. Reference: "
+    },
+    {
+      "mk": "2. 5月9日からの集計について",
+      "en": "2. Data published by MHLW from May 8"
+    },
+    {
+      "mk": "速報：",
+      "en": "Real-time: "
+    },
+    {
+      "mk": "日次新規・累積陽性者の推移",
+      "en": "Trends of Daily New and Cumulative Positive Cases"
+    },
+    {
+      "mk": "移動平均新規数",
+      "en": "New in Moving Average"
+    },
+    {
+      "mk": "※開発バージョンです。",
+      "en": "Under developing"
+    },
+    {
+      "mk": "3月28日以後、厚労省集計方法が変更あり、無症状患者の内訳は公表しないため、無症状患者がどのぐらい入院しているかの情報がなくなりました。こちらではグラフ作成するため、無症状者は一律入院必要ないという仮説を設定した上で、グラフを作りました。よって、該当グラフはあくまで参考です。",
+      "en": "After March 28, details of asymptomatic patients will no longer be published due to changes in the method of aggregation by the Ministry of Health, Labour and Welfare, so it is not possible to know how many asymptomatic patients are in hospital. This graph is available only after the assumption that all asymptomatic patients do not need to be hospitalized has been made for the sake of drawing convenience. The figure is therefore for reference only."
+    },
+    {
+      "mk": "4月22日以後、厚労省集計方法が変更あり、退院者、死亡者数に突合作業中の数値が含まれ、分母（PCR陽性者）と一致しないという説明がありました。こちらではグラフの作成するため、今まで通り確定した人数のみでグラフを作成します。よって、該当グラフはあくまで参考です。",
+      "en": "After April 22, due to changes in the method of aggregation by the Ministry of Health, Labour and Welfare, the number of hospital discharges and death reported includes the number of patients undergoing reconciliation, and there is a discrepancy between the pooled values and the total number of PCR-positive. This figure is still drawn using the data that have been verified. The figure is therefore for reference only."
+    },
+    {
+      "mk": "PCR検査陽性",
+      "en": "PCR Positive"
+    },
+    {
+      "mk": "有症状",
+      "en": "Symptomatic"
+    },
+    {
+      "mk": "無症状",
+      "en": "Asymptomatic"
+    },
+    {
+      "mk": "入院待機中",
+      "en": "Awaiting hospitalization"
+    },
+    {
+      "mk": "軽〜中等症の者",
+      "en": "Mild or moderate"
+    },
+    {
+      "mk": "人工呼吸又は\nICUに入院",
+      "en": "Severe"
+    },
+    {
+      "mk": "重症",
+      "en": "Severe"
+    },
+    {
+      "mk": "重症者",
+      "en": "Severe"
+    },
+    {
+      "mk": "重症者数",
+      "en": "Severe"
+    },
+    {
+      "mk": "新規退院者（日次）",
+      "en": "New discharged (daily)"
+    },
+    {
+      "mk": "※突合作業中の%s名退院者はグラフに含まれていないことを予めご了承してください。",
+      "en": "※Please note that the graph does not include the %s discharged patients during the confirming."
+    },
+    {
+      "mk": "入院治療必要",
+      "en": "Necessary for hospitalization"
+    },
+    {
+      "mk": "症状有無確認中",
+      "en": "Symptoms confirming."
+    },
+    {
+      "mk": "確定済みの退院者数は%s名、他にも%s名の退院者は個々の陽性者との突合作業中。従って、入退院等の状況の合計とPCR検査陽性者数は一致しない。<br><br>※令和２年４月２２日から厚労省公開している退院者数の基準が変わりました。",
+      "en": "The number of confirmed discharges is %s and %s others are in the process of being matched against individual positives. Therefore, the total number of admissions and discharges does not correspond to the number of positive PCR test positive. <br><br>※The standard for the number of patients discharged from the Ministry of Health, Labour and Welfare has changed since April 22, 2020."
+    },
+    {
+      "mk": "全",
+      "en": "All"
+    },
+    {
+      "mk": "逆",
+      "en": "Reverse"
+    },
+    {
+      "mk": "凡例クリックすると表示・非表示の切替ができます。",
+      "en": "Click on the legend to switch between display and hide."
+    },
+    {
+      "mk": "こちらは%sの発生状況をまとめたページです。厚労省のまとめより早く状況を把握できますが、県の集計時間は厚労省の発表時間と完全に一致していないため、タイムラグによる数値の違いが生じる可能性もありますので、予めご注意ください。また、速報では陰性から再び陽性になった人は再計算に含めていないため、自治体発表の陽性者数と数値が異なる場合があります。",
+      "en": "Here is a summary of the outbreak in %s. However, please note that the county's aggregation time does not completely coincide with the announcement time of the Ministry of Health, Labour and Welfare, so there may be a difference in the figures due to the time lag. In addition, the realtime number does not include those who have gone from negative to positive again, so the numbers may differ from the one announced by the local government."
+    },
+    {
+      "mk": "こちらは%sの発生状況をまとめたページです。厚労省のまとめより早く状況を把握できますが、道の集計時間は厚労省の発表時間と完全に一致していないため、タイムラグによる数値の違いが生じる可能性もありますので、予めご注意ください。また、速報では陰性から再び陽性になった人は再計算に含めていないため、自治体発表の陽性者数と数値が異なる場合があります。",
+      "en": "Here is a summary of the outbreak in %s. However, please note that the county's aggregation time does not completely coincide with the announcement time of the Ministry of Health, Labour and Welfare, so there may be a difference in the figures due to the time lag. In addition, the realtime number does not include those who have gone from negative to positive again, so the numbers may differ from the one announced by the local government."
+    },
+    {
+      "mk": "新型コロナウイルス感染症に関するデータ【北海道】",
+      "en": "Data about COVID-19 (Hokkaido)"
+    },
+    {
+      "mk": "%sの発生状況",
+      "en": "Outbreaks in %s"
+    },
+    {
+      "mk": "地域選択",
+      "en": "Select Region"
+    },
+    {
+      "mk": "クリア",
+      "en": "Clear"
+    },
+    {
+      "mk": "全部",
+      "en": "All"
+    },
+    {
+      "mk": "三件以上選択されました",
+      "en": "More than three region have been selected"
+    },
+    {
+      "mk": "時間間隔設定",
+      "en": "Time Interval Setting"
+    },
+    {
+      "mk": "日",
+      "en": "Day"
+    },
+    {
+      "mk": "軸設定",
+      "en": "Axis Setting"
+    },
+    {
+      "mk": "横軸",
+      "en": "X-Axis"
+    },
+    {
+      "mk": "対数",
+      "en": "Log"
+    },
+    {
+      "mk": "感染者が10人以上から経過した日数",
+      "en": "Number of days that have elapsed since 10 confirmed cases"
+    },
+    {
+      "mk": "累積感染者数推移",
+      "en": "Trends of Cumulative Number of Confirmed"
+    },
+    {
+      "mk": "１日２倍",
+      "en": "Doubling in one day"
+    },
+    {
+      "mk": "３日２倍",
+      "en": "Doubling in three days"
+    },
+    {
+      "mk": "１週間２倍",
+      "en": "Doubling in one week"
+    },
+    {
+      "mk": "三週間前",
+      "en": "3 weeks ago"
+    },
+    {
+      "mk": "二週間前",
+      "en": "2 weeks ago"
+    },
+    {
+      "mk": "一週間前",
+      "en": "1 week ago"
+    },
+    {
+      "mk": "現在",
+      "en": "Now"
+    },
+    {
+      "mk": "百万人あたりの検査",
+      "en": "Tested / M pop"
+    },
+    {
+      "mk": "%sの直近１ヶ月の指標",
+      "en": "Indicators for the Last Month of %s"
+    },
+    {
+      "mk": "実施件数",
+      "en": "Number of implementation"
+    },
+    {
+      "mk": "このページは、",
+      "en": "This page is a copy of"
+    },
+    {
+      "mk": "のデータ（文言を含む）を一覧できるように、若干異なる可視化方法でデータを表現しています。",
+      "en": ", and the data is presented in a slightly different way of visulization from the source page in order to be able to see all the conditions at a glance."
+    },
+    {
+      "mk": "%s現在",
+      "en": "Situation of %s"
+    },
+    {
+      "mk": "実施中",
+      "en": "Implementation"
+    },
+    {
+      "mk": "離脱",
+      "en": "Withdrawal"
+    },
+    {
+      "mk": "COVID-19 重症患者状況　日本COVID-19対策ECMOnet集計",
+      "en": "COVID-19 Severe Case Status, Measures of Japan ECMOnet for COVID-19"
+    },
+    {
+      "mk": "COVID-19重症者における人工呼吸器装着数の推移",
+      "en": "Trends in the Usage of Artificial Respirators in COVID-19 Severe Case"
+    },
+    {
+      "mk": "これらのグラフはCRISISに申告された人工呼吸が必要な重症患者さんの推移を地方別、都道府県別に示すものです。現在精度を上げるべく努力しております。全体の流れは把握していると自負しておりますが、かならずしも正確な数が示されている訳ではないことをご理解ください。COVID-19では長期の人工呼吸となる患者さんが多い傾向があります。このあたりも今後このコラムでお示ししていけるように計画しております。ーー2020/5/1記載",
+      "en": "These graphs show the trends in the number of severe cases requiring artificial respiration reported to CRISIS by region and prefecture. We are working hard to improve the accuracy. In COVID-19, there is a tendency for many severe cases to be on long-term artificial respiration. We have a plan about for presenting this in this column in the future. (May 1, 2020)"
+    },
+    {
+      "mk": "このグラフ群は横断的ICU情報探索システム(CRoss Icu Searchable Information System, 略称CRISIS, 非公開) に蓄積されたデータベースを視覚化したものです。このCRISISには日本集中治療医学会専門医認定施設、日本救急医学会救急科専門医指定施設を中心に日本全国570以上の施設が参加されており、それら施設の総ICUベッド数は5500にのぼり、日本全体のICUベッド（6500ベッドほど）の80％をカバーしております。本事業は各病院担当者の方々の善意により忙しい合間を縫って任意に手入力いただいているものです。そのため精度はかなり高いと存じますが完璧なものではないことをご理解いただければ幸いです。当初我々はECMOに関するデータを中心に集めて参りました。しかしながら人工呼吸器を必要とする重症の方々のデータも必要であると改めて認識し、データの精度を高めるよう努力しております。少しずつではございますが改善させ、このコロナ禍を乗り切った暁には重要な資産として次の世代に遺せるものを目指しております。　日本COVID-19対策ECMOnet　2020/5/1記載。",
+      "en": "These graphs are visualizations of databases accumulated in the CRoss Icu Searchable Information System (CRISIS, unpublished). More than 570 facilities across Japan are participating in this CRISIS, centering on facilities certified by the Japanese Society of Intensive Care Medicine and facilities designated by the Emergency Medicine Department of the Japanese Society of Emergency Medicine, with a total of 5500 ICU beds, covering 80% of the total ICU beds in Japan (about 6500 beds). This project has been voluntarily inputted by the people in charge of each hospital who took time out of their busy schedules. Please understand that although the accuracy is very high, there may be some shortcomings. Initially, we focused on collecting data on ECMO. However, we also recognize the need for data on people with serious illnesses who need artificial respirators, and we are making efforts to improve the accuracy of the data. We are aiming to make improvements, albeit little by little, so that we can bequeath it to the next generation as an important asset when we get over the pandemic. -- Japan ECMOnet for COVID-19, 2020/5/1."
+    },
+    {
+      "mk": "COVID-19重症者におけるECMO装着数の推移",
+      "en": "Trends in the Usage of ECMO in COVID-19 Severe Case"
+    },
+    {
+      "mk": "ECMO装着の方の多くは人工呼吸器も装着しておられるので上記と一部重複のカウントとなります。CRISISに申告のあったECMOの数の推移です。その日のECMOの稼働数とお考えください。CRISISに加入されずECMOを行っている施設も数施設ございます。ーー2020/5/1記載",
+      "en": "The following is the usage of ECMOs reported to CRISIS. Most of the patients with ECMOs also using artificial respirators, therefore there are some overlap with the data in the figure above. It could be argued that the number is the usage of ECMO on a given day. There are also a few institutions that can use ECMO for assistance but are not enrolled in CRISIS. (May 1, 2020)"
+    },
+    {
+      "mk": "国内のCOVID-19に対するECMO治療の成績累計",
+      "en": "Results of ECMO Treatment for COVID-19 in Japan"
+    },
+    {
+      "mk": "この図はCRISISに申告のあった症例と、それ以外に我々のネットワークで集めたECMO症例の推移をあわらしたものです。あとから判明した症例も多くありますので、過去にさかのぼって日々数が変異しております。したがって上の図の数とここに表す数にも若干の齟齬が生じますのでご了承ください。人工呼吸が必要な患者さんのほぼ5人に1人がECMOも必要と判断されます。ECMOからの生還例ではおおよそ10日間から2週間のECMO装着が必要となります。ーー2020/5/1記載",
+      "en": "This figure shows the changes in the number of ECMO cases reported to CRISIS and other ECMO cases collected by our network. Since there are many cases that have been identified later, the number of cases has changed daily going back to the past. Therefore, please note that there may be a slight discrepancy between the number in the above figure and the number shown here. Almost one in five patients who require artificial respiration will also require an ECMO, and those who survived with the help of ECMO will need to wear the ECMO for approximately 10 days to two weeks. (May 1, 2020)"
+    },
+    {
+      "mk": "ECMO離脱 %s 例（%s%%）、ECMO実施中 %s 例（%s%%）、死亡 %s 例（%s%%）",
+      "en": "ECMO withdrawal %s (%s%%), during ECMO implementation %s (%s%%), death %s (%s%%)"
+    },
+    {
+      "mk": "検査人数、百万人あたりの検査および陽性者数の三つの指標は、毎日の増加分を直近7日の移動平均を計算した数値です。",
+      "en": "The three indicators, number of tests conducted, tests per million, and positive, are the values obtained after calculating the moving average of the last seven days based on the respective daily increases."
+    },
+    {
+      "mk": "カラム表示",
+      "en": "Column Visibility"
+    },
+    {
+      "mk": "現在患者数：厚労省のデータをもとにして計算しているため、速報部分の感染者数が含まれていません。",
+      "en": "Active: Since the calculation is based on data from the MHLW, the real-time number are not included."
+    },
+    {
+      "mk": "ECMOnet・重症患者状況へ",
+      "en": "Go to ECMOnet page"
+    },
+    {
+      "mk": "感染者数：本サイトのリアルタイム感染者数は再び陽性になった患者は新規として数えないため、一部のメディアと自治体が発表した数（延べ人数）と一致しない場合があります。",
+      "en": "Confirmed: The real-time number of confirmed cases reported in this site is not counted those testing positive after having fully recovered, so it may differ from the values reported by some media and municipalities (patients testing positive after having fully recovered counted as 1 addition)."
+    },
+    {
+      "mk": "必読",
+      "en": "Must Read"
+    },
+    {
+      "mk": "検疫職員：国職員（横浜港のクルーズ船対応）・空港検疫での判明者などを含まれています。",
+      "en": "Quarantine: It includes state officials (for cruise ships at the Port of Yokohama) and those identified in airport quarantine."
+    },
+    {
+      "mk": "本サイトの陽性率の計算に関しては、3月下旬から5月8日までの間に厚労省が公開している陽性率と同じ計算方法で計算しています。5月8日以後基準変更などがあるため、厚労省側は公式で陽性率の発表しなくなり、自治体が公表しているデータ（陽性率など）を正しい数値であることを見做しています。本サイトは引き続き同じ計算式で厚労省が発表しているデータだけで陽性率を計算しているが、分母（検査人数）の正確さの保証はないため、陽性率の正確さに関する保証は一切ありません。正確の数値を求めている方は各自治体のページをご参考するようお願い致します。",
+      "en": "The method used to calculate the positive rate on this page is the same as that used by the MHLW for the period from late March to May 8. After May 8, due to changes in data release standards, the MHLW no longer publishes the positive rate uniformly, but instead uses the data published by each municipality (positive rate, etc.). Although this website continues to use data published by the MHLW for calculations using the same methodology, there is uncertainty in the denominator (number of people tested) and no assurance can be given as to the accuracy of the positive rates. For accurate data, please refer to the information pages of each regional government department."
+    }
+  ]
+}
