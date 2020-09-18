@@ -57,3 +57,5 @@ GLOBAL_VALUE <- reactiveValues(
     SummaryTable = NULL
   )
 )
+
+

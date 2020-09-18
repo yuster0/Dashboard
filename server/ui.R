@@ -10,7 +10,7 @@ shinyUI(
         title = ("Novel Coronavirus Bulletin"),
         header = dashboardHeaderPlus(
             title = paste0("🦠 ", ("COVID 19 BULLETIN")), 
-            titleWidth = 600,
+            titleWidth = 350,
             enable_rightsidebar = F
         ),
         # TODO Add language setting
