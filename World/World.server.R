@@ -6,16 +6,16 @@ observeEvent(input$sideBarTab, {
     #     SummaryTable = NULL
     #   )
     # ) # TEST
-    GLOBAL_VALUE$World$Summary <- fread("~/OneDrive/rdirectory/dashb/Dashboard/FIND/worldSummary.csv") 
+    GLOBAL_VALUE$World$Summary <- fread(paste0(DATA_PATH, "FIND/worldSummary.csv"))
     GLOBAL_VALUE$World$Summary[, date := as.Date(date)]
-    GLOBAL_VALUE$World$SummaryTable <- fread("~/OneDrive/rdirectory/dashb/Dashboard/FIND/worldSummaryTable.csv", sep = "@")
+    GLOBAL_VALUE$World$SummaryTable <- fread(paste0(DATA_PATH, "FIND/worldSummaryTable.csv"), sep = "@")
   }
 })
 
 output$worldConfirmedDateSelector <- renderUI({
   dateRangeInput(
     inputId = "selectWorldDay",
-    label = ("Date selection"),
+    label = i18n$t("Date selection"),
     min = min(GLOBAL_VALUE$World$Summary$date),
     max = max(GLOBAL_VALUE$World$Summary$date),
     start = max(GLOBAL_VALUE$World$Summary$date) - 30,
