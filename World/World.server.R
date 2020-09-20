@@ -15,13 +15,13 @@ observeEvent(input$sideBarTab, {
 output$worldConfirmedDateSelector <- renderUI({
   dateRangeInput(
     inputId = "selectWorldDay",
-    label = i18n$t("Date selection"),
+    label = ("Date selection"),
     min = min(GLOBAL_VALUE$World$Summary$date),
     max = max(GLOBAL_VALUE$World$Summary$date),
     start = max(GLOBAL_VALUE$World$Summary$date) - 30,
     end = max(GLOBAL_VALUE$World$Summary$date),
     separator = " - ",
-    format = "YYYY-m-d",
+    format = "yyyy-m-d",
     #language = languageSetting
   )
 })

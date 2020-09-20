@@ -5,7 +5,7 @@ source(
 )
 
 shinyUI(
-    dashboardPagePlus(
+   dashboardPagePlus(
         skin = "purple",
         title = ("Novel Coronavirus Bulletin"),
         header = dashboardHeaderPlus(
@@ -86,7 +86,7 @@ shinyUI(
                 badgeLabel = ("In dev"),
                 badgeColor = "black"
             )
-          )),
+            )),
         dashboardBody(
             tags$head(
                 tags$link(rel = "icon", href = "favicon.ico"),
@@ -119,6 +119,7 @@ shinyUI(
                 ),
                 tabItem(
                     tabName = "Podgorica",
+                ),
                     tabItem(
                         tabName = "caseMap",
                     ),
@@ -154,8 +155,8 @@ shinyUI(
                         )
                     )    
                 )
-        ),
-        footer = dashboardFooter(
+            ),
+           footer = dashboardFooter(
             left_text = tagList(userPost(
                 id = 1,
                 src = "profile.png",
@@ -172,12 +173,12 @@ shinyUI(
                     tags$a(href = "https://github.com/", icon("github")),
                     tags$a(href = "https://twitter.com/", icon("twitter")),
                     tags$a(href = "https://www.linkedin.com/", icon("linkedin"))
-                )
-            )
-        )
-      )
+               )
+           )
+       ) 
     )
 )
+   
 
 
 
