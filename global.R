@@ -3,8 +3,11 @@ library(shinydashboard)
 library(data.table)
 library(DT)
 library(ggplot2)
+library(shinyjs)
 library(shinycssloaders)
 library(shinydashboardPlus)
+library(shinythemes)
+library(fresh)
 library(shinyWidgets)
 library(leaflet)
 library(rjson)
@@ -16,11 +19,11 @@ library(shinyBS)
 library(shiny.i18n)
 library(countup)
 
-DATA_PATH <- "~/OneDrive/rdirectory/dashb/Dashboard/" 
+DATA_PATH <- "~/OneDrive/rdirectory/Dashboard/" 
 
-source(file = ( "~/OneDrive/rdirectory/dashb/Dashboard/Functions.R"), local = T, encoding = "UTF-8") 
-source(file = ( "~/OneDrive/rdirectory/dashb/Dashboard/ValueBox.R"), local = T, encoding = "UTF-8")
-source(file = ( "~/OneDrive/rdirectory/dashb/Dashboard/Notification.R"), local = T, encoding = "UTF-8")
+source(file = ( "~/OneDrive/rdirectory/Dashboard/Functions.R"), local = T, encoding = "UTF-8") 
+source(file = ( "~/OneDrive/rdirectory/Dashboard/ValueBox.R"), local = T, encoding = "UTF-8")
+source(file = ( "~/OneDrive/rdirectory/Dashboard/Notification.R"), local = T, encoding = "UTF-8")
 
 
 

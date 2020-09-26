@@ -25,11 +25,11 @@ convertUnit2Ja <- function(x) {
 
 getChangeIcon <- function(number) {
   if (number > 0) {
-    return("fa fa-caret-up")
+    return(icon("fa fa-caret-up"))
   } else if (number < 0) {
-    return("fa fa-caret-down")
+    return(icon("fa fa-caret-down"))
   } else {
-    return("fa fa-lock")
+    return(icon("fa fa-lock"))
   }
 }
 

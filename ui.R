@@ -1,17 +1,17 @@
 source(
-    file = ("~/OneDrive/rdirectory/dashb/Dashboard/global.R"), 
+    file = ("~/OneDrive/rdirectory/Dashboard/global.R"), 
     local = TRUE, 
     encoding = "UTF-8"
 )
 
 shinyUI(
-   dashboardPagePlus(
-        skin = "purple",
+   dashboardPage(
+        #theme = "bootstrap.css", #it gives error  shinytheme("cerulean"),
+       #theme = shinytheme("united"),
+        skin = "red",
         title = ("Novel Coronavirus Bulletin"),
-        header = dashboardHeaderPlus(
-            title = paste0("🦠 ", ("COVID 19 BULLETIN")), 
-            titleWidth = 350,
-            enable_rightsidebar = F
+        header = dashboardHeader (title = " 🦠  COVID 19 BULLETIN BOARD",
+        titleWidth = 350
         ),
         # TODO Add language setting
         sidebar = dashboardSidebar(sidebarMenu(
@@ -89,18 +89,16 @@ shinyUI(
             )),
         dashboardBody(
             tags$head(
-                tags$link(rel = "icon", href = "favicon.ico"),
+               tags$link(rel = "icon", href = "montenegro.ico"),
                 tags$meta(name = "twitter:card", content = "summary_large_image"),
                 tags$meta(property = "og:title", content = "🦠 SARS-COV Bulletin"),
-                tags$meta(property = "og:description", content = "This site summarises reports and  latest morbidity, mortality information of the new coronavirus in Montenegro"),
+                tags$meta(property = "og:description", content = "This site summarises latest morbidity, mortality information of the new coronavirus in Montenegro"),
                 tags$meta(property = "og:image", content = "https://repository-images.githubusercontent.com/237152814/77329f80-917c-11ea-958c-731c8433c504")
             ),
             tabItems(
                 tabItem(
                     tabName = "Montenegro",
-                    source(file=("~/OneDrive/rdirectory/dashb/Dashboard//main.ui.R"),
-                        # file = ("~/OneDrive/rdirectory/dashb/Dashboard//main.ui.R"),
-                        # source(file = ( "~/OneDrive/rdirectory/dashb/Dashboard/Functions.R"), local = T, encoding = "UTF-8") 
+                    source(file=("~/OneDrive/rdirectory/Dashboard//main.ui.R"),
                         local = T,
                         encoding = "UTF-8"
                     )$value
@@ -132,7 +130,7 @@ shinyUI(
                     tabItem(
                         tabName = "world",
                         source(
-                            file = ("~/OneDrive/rdirectory/dashb/Dashboard/World/World.ui.R"), 
+                            file = ("~/OneDrive/rdirectory/Dashboard/World/World.ui.R"), 
                             local = T,
                             encoding = "UTF-8"
                         )$value
@@ -142,7 +140,7 @@ shinyUI(
                         fluidRow(
                             column(
                                 width = 12,
-                                boxPlus(
+                                box(
                                     width = 12,
                                     collapsible = F,
                                     fluidRow(
@@ -157,9 +155,9 @@ shinyUI(
                 )
             ),
            footer = dashboardFooter(
-            left_text = tagList(userPost(
+            left = tagList(userPost(
                 id = 1,
-                src = "profile.png",
+                image = "profile.jpg",
                 author = tagList(
                     tags$small("Developed by"),
                     "Ronoh Y"
@@ -167,7 +165,7 @@ shinyUI(
                 collapsible = F,
                 description = "Epidemiologist"
             )),
-            right_text = tagList(
+            right = tagList(
                 tags$div(
                     style = "font-size:22px;letter-spacing: .3rem;",
                     tags$a(href = "https://github.com/", icon("github")),

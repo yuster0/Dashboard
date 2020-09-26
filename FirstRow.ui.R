@@ -1,33 +1,23 @@
 fluidRow(
   column(
-    width = 12,
+    width = 5,
     style = "padding:0px;",
-    widgetUserBox(
+    userBox(
       title = ("Novel Coronavirus"),
       subtitle = ("Coronavirus disease 2019 (COVID-19)"),
       width = 12,
       type = NULL,
-      src = "ncov.jpeg",
+      image = "ncov.jpeg",
       color = "purple",
       collapsible = F,
       background = T,
       footer_padding = F,
-      backgroundUrl = "ncov_back.jpg",
-      # tags$p(dashboardLabel(status = 'danger',  # APIアクセスできなかった
-      #                       style = 'square',
-      #                       paste(sep = ' | ', lang[[langCode]][71], # ページ閲覧数
-      #                             statics$result$totals$pageviews$all)
-      #                       ),
-      #        dashboardLabel(status = 'success',
-      #                       style = 'square',
-      #                       paste(sep = ' | ', lang[[langCode]][72], # 閲覧者数
-      #                             statics$result$totals$uniques)
-      #        )
-      #        ),
-
+      backgroundImage = "sars_cov.jpg", 
+     tags$p(
+     tags$img(image = "https://img.shields.io/badge/dynamic/json?url=https://cdn.covid-2019.live/static/stats.json&label=PV&query=$.result.totals.pageviews.all&color=orange&style=flat-square")
       )
     )
-  )
+ ),
   column(
     width = 7,
     fluidRow(
@@ -75,7 +65,7 @@ fluidRow(
     fluidRow(column(
       width = 12,
       style = "padding:0px;",
-      boxPlus(
+      box(
         width = 12,
         actionButton(
           inputId = "twitterShare",
@@ -86,5 +76,7 @@ fluidRow(
     )
   )
 )
-  
+)
+
+
 
