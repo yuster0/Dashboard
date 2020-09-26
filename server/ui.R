@@ -4,12 +4,23 @@ source(
     encoding = "UTF-8"
 )
 
+# shinyUI(
+#     fluidPage(
+#         theme = "bootstrap.css",
+#                   headerPanel("Novel Coronavirus Bulletin"),
+#                   header = dashboardHeaderPlus(
+#                   title= paste("🦠 ", ("COVID 19 BULLETIN")),
+#                   titleWidth = 350,
+#                   enable_rightsidebar = F
+# ),
+
 shinyUI(
    dashboardPagePlus(
+        #theme = "bootstrap.css", it gives error
         skin = "purple",
         title = ("Novel Coronavirus Bulletin"),
         header = dashboardHeaderPlus(
-            title = paste0("🦠 ", ("COVID 19 BULLETIN")), 
+            title = paste0("🦠 ", ("COVID 19 BULLETIN")),
             titleWidth = 350,
             enable_rightsidebar = F
         ),

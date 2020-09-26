@@ -1,13 +1,13 @@
 fluidRow(
   column(
-    width = 12,
+    width = 5,
     style = "padding:0px;",
     widgetUserBox(
       title = ("Novel Coronavirus"),
       subtitle = ("Coronavirus disease 2019 (COVID-19)"),
       width = 12,
       type = NULL,
-      src = "ncov.jpeg",
+      src = "ncov.jpg",
       color = "purple",
       collapsible = F,
       background = T,
@@ -24,10 +24,11 @@ fluidRow(
       #                             statics$result$totals$uniques)
       #        )
       #        ),
-
-      )
+     tags$p(
+     tags$img(src = "https://img.shields.io/badge/dynamic/json?url=https://cdn.covid-2019.live/static/stats.json&label=PV&query=$.result.totals.pageviews.all&color=orange&style=flat-square")
     )
-  )
+    )
+    ),
   column(
     width = 7,
     fluidRow(
@@ -86,5 +87,7 @@ fluidRow(
     )
   )
 )
-  
+)
+
+
 
