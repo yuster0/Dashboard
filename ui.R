@@ -15,24 +15,13 @@ source(
 # ),
 
 shinyUI(
-<<<<<<< HEAD:ui.R
    dashboardPage(
         #theme = "bootstrap.css", #it gives error  shinytheme("cerulean"),
        #theme = shinytheme("united"),
         skin = "red",
         title = ("Novel Coronavirus Bulletin"),
-        header = dashboardHeader (title = " 🦠  COVID 19 BULLETIN BOARD",
+        header = dashboardHeader(title = " 🦠  COVID 19 BULLETIN BOARD",
         titleWidth = 350
-=======
-   dashboardPagePlus(
-        #theme = "bootstrap.css", it gives error
-        skin = "purple",
-        title = ("Novel Coronavirus Bulletin"),
-        header = dashboardHeaderPlus(
-            title = paste0("🦠 ", ("COVID 19 BULLETIN")),
-            titleWidth = 350,
-            enable_rightsidebar = F
->>>>>>> 6a7d0d3cc688a3a15e708b95b84f8f454129f79d:server/ui.R
         ),
         # TODO Add language setting
         sidebar = dashboardSidebar(sidebarMenu(
@@ -167,14 +156,14 @@ shinyUI(
                                     fluidRow(
                                         column(
                                             width = 12
-                                        )
                                     )
                                 )
                             )
                         )
-                    )    
-                )
-            ),
+                   )   
+               )
+            ) 
+        ),
            footer = dashboardFooter(
             left = tagList(userPost(
                 id = 1,
@@ -194,10 +183,10 @@ shinyUI(
                     tags$a(href = "https://www.linkedin.com/", icon("linkedin"))
                )
            )
-       ) 
-    )
-)
-   
+        ) 
+     ) 
+   )
+
 
 
 
