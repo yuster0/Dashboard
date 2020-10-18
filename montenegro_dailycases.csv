@@ -5183,8 +5183,8 @@ date,Region,Municipality,cases,deaths
 2020-10-12,Northern,Rozaje,12,0
 2020-10-12,Northern,Savnik,0,0
 2020-10-12,Northern,Zabljak,0,1
-2020-10-13,Central,Podgorica,84,1
-2020-10-13,Central,Cetinje,16,0
+2020-10-13,Central,Podgorica,144,1
+2020-10-13,Central,Cetinje,24,0
 2020-10-13,Central,Danilovgrad,2,0
 2020-10-13,Central,Niksic,3,1
 2020-10-13,Central,Tuzi,5,0
@@ -5193,7 +5193,7 @@ date,Region,Municipality,cases,deaths
 2020-10-13,Costal,Herceg Novi,0,0
 2020-10-13,Costal,Kotor,1,0
 2020-10-13,Costal,Tivat,0,0
-2020-10-13,Costal,Ulcinj,14,0
+2020-10-13,Costal,Ulcinj,18,0
 2020-10-13,Northern,Andrijevica,0,0
 2020-10-13,Northern,Berane,8,0
 2020-10-13,Northern,Bijelo Polje,22,0
@@ -5207,17 +5207,17 @@ date,Region,Municipality,cases,deaths
 2020-10-13,Northern,Rozaje,0,0
 2020-10-13,Northern,Savnik,0,0
 2020-10-13,Northern,Zabljak,0,0
-2020-10-14,Central,Podgorica,108,0
-2020-10-14,Central,Cetinje,2,0
+2020-10-14,Central,Podgorica,120,0
+2020-10-14,Central,Cetinje,3,0
 2020-10-14,Central,Danilovgrad,0,0
 2020-10-14,Central,Niksic,34,0
 2020-10-14,Central,Tuzi,0,1
-2020-10-14,Costal,Bar,23,0
+2020-10-14,Costal,Bar,24,0
 2020-10-14,Costal,Budva,0,0
 2020-10-14,Costal,Herceg Novi,0,0
-2020-10-14,Costal,Kotor,1,0
+2020-10-14,Costal,Kotor,21,0
 2020-10-14,Costal,Tivat,0,0
-2020-10-14,Costal,Ulcinj,0,0
+2020-10-14,Costal,Ulcinj,29,0
 2020-10-14,Northern,Andrijevica,1,0
 2020-10-14,Northern,Berane,5,2
 2020-10-14,Northern,Bijelo Polje,13,1
@@ -5227,10 +5227,10 @@ date,Region,Municipality,cases,deaths
 2020-10-14,Northern,Petnjica,0,0
 2020-10-14,Northern,Plav,0,0
 2020-10-14,Northern,Pluzine,0,0
-2020-10-14,Northern,Pljevlja,4,0
-2020-10-14,Northern,Rozaje,2,0
+2020-10-14,Northern,Pljevlja,17,0
+2020-10-14,Northern,Rozaje,12,0
 2020-10-14,Northern,Savnik,0,0
-2020-10-14,Northern,Zabljak,0,0
+2020-10-14,Northern,Zabljak,16,0
 2020-10-15,Central,Podgorica,93,3
 2020-10-15,Central,Cetinje,0,0
 2020-10-15,Central,Danilovgrad,0,0
@@ -5255,3 +5255,75 @@ date,Region,Municipality,cases,deaths
 2020-10-15,Northern,Rozaje,0,0
 2020-10-15,Northern,Savnik,0,0
 2020-10-15,Northern,Zabljak,1,0
+2020-10-16,Central,Podgorica,0,0
+2020-10-16,Central,Cetinje,0,0
+2020-10-16,Central,Danilovgrad,0,0
+2020-10-16,Central,Niksic,0,0
+2020-10-16,Central,Tuzi,0,0
+2020-10-16,Costal,Bar,0,0
+2020-10-16,Costal,Budva,0,0
+2020-10-16,Costal,Herceg Novi,0,0
+2020-10-16,Costal,Kotor,0,0
+2020-10-16,Costal,Tivat,0,0
+2020-10-16,Costal,Ulcinj,0,0
+2020-10-16,Northern,Andrijevica,0,0
+2020-10-16,Northern,Berane,0,0
+2020-10-16,Northern,Bijelo Polje,0,0
+2020-10-16,Northern,Gusinje,0,0
+2020-10-16,Northern,Kolasin,0,0
+2020-10-16,Northern,Mojkovac,0,0
+2020-10-16,Northern,Petnjica,0,0
+2020-10-16,Northern,Plav,0,0
+2020-10-16,Northern,Pluzine,0,0
+2020-10-16,Northern,Pljevlja,0,0
+2020-10-16,Northern,Rozaje,0,0
+2020-10-16,Northern,Savnik,0,0
+2020-10-16,Northern,Zabljak,0,0
+2020-10-17,Central,Podgorica,44,0
+2020-10-17,Central,Cetinje,1,0
+2020-10-17,Central,Danilovgrad,0,0
+2020-10-17,Central,Niksic,5,0
+2020-10-17,Central,Tuzi,0,0
+2020-10-17,Costal,Bar,5,1
+2020-10-17,Costal,Budva,0,0
+2020-10-17,Costal,Herceg Novi,0,0
+2020-10-17,Costal,Kotor,2,0
+2020-10-17,Costal,Tivat,0,1
+2020-10-17,Costal,Ulcinj,0,0
+2020-10-17,Northern,Andrijevica,0,0
+2020-10-17,Northern,Berane,1,0
+2020-10-17,Northern,Bijelo Polje,8,0
+2020-10-17,Northern,Gusinje,0,0
+2020-10-17,Northern,Kolasin,4,0
+2020-10-17,Northern,Mojkovac,2,0
+2020-10-17,Northern,Petnjica,0,0
+2020-10-17,Northern,Plav,0,0
+2020-10-17,Northern,Pluzine,0,0
+2020-10-17,Northern,Pljevlja,1,0
+2020-10-17,Northern,Rozaje,1,1
+2020-10-17,Northern,Savnik,0,0
+2020-10-17,Northern,Zabljak,0,0
+2020-10-18,Central,Podgorica,69,0
+2020-10-18,Central,Cetinje,1,0
+2020-10-18,Central,Danilovgrad,3,0
+2020-10-18,Central,Niksic,1,0
+2020-10-18,Central,Tuzi,0,0
+2020-10-18,Costal,Bar,5,1
+2020-10-18,Costal,Budva,0,0
+2020-10-18,Costal,Herceg Novi,0,0
+2020-10-18,Costal,Kotor,0,0
+2020-10-18,Costal,Tivat,0,0
+2020-10-18,Costal,Ulcinj,1,2
+2020-10-18,Northern,Andrijevica,0,0
+2020-10-18,Northern,Berane,0,1
+2020-10-18,Northern,Bijelo Polje,2,0
+2020-10-18,Northern,Gusinje,0,0
+2020-10-18,Northern,Kolasin,0,1
+2020-10-18,Northern,Mojkovac,0,0
+2020-10-18,Northern,Petnjica,0,0
+2020-10-18,Northern,Plav,0,0
+2020-10-18,Northern,Pluzine,0,0
+2020-10-18,Northern,Pljevlja,1,0
+2020-10-18,Northern,Rozaje,3,0
+2020-10-18,Northern,Savnik,0,0
+2020-10-18,Northern,Zabljak,0,0
