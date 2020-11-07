@@ -235,8 +235,12 @@ date,state,cases,deaths
 2020-10-30,Montenegro,18066,294
 2020-10-31,Montenegro,18341,301
 2020-11-01,Montenegro,18714,314
+<<<<<<< HEAD
 2020-11-02,Montenegro,19210,320
 2020-11-03,Montenegro,19977,322
 2020-11-04,Montenegro,20851,326
 2020-11-05,Montenegro,21533,328
 2020-11-06,Montenegro,22079,328
+=======
+2020-11-02,Montenegro,19210,320
+>>>>>>> 86d9845832d0589fa097fb91204bcce0138d9859
