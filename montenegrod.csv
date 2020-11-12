@@ -22,6 +22,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-11,Northern,Rozaje,0,0,0,0
 2020-03-11,Northern,Savnik,0,0,0,0
 2020-03-11,Northern,Zabljak,0,0,0,0
+2020-03-11,Northern,Pljevlja,0,0,0,0
 2020-03-12,Central,Podgorica,0,0,0,0
 2020-03-12,Central,Cetinje,0,0,0,0
 2020-03-12,Central,Danilovgrad,0,0,0,0
@@ -45,6 +46,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-12,Northern,Rozaje,0,0,0,0
 2020-03-12,Northern,Savnik,0,0,0,0
 2020-03-12,Northern,Zabljak,0,0,0,0
+2020-03-12,Northern,Pljevlja,0,0,0,0
 2020-03-13,Central,Podgorica,0,0,0,0
 2020-03-13,Central,Cetinje,0,0,0,0
 2020-03-13,Central,Danilovgrad,0,0,0,0
@@ -68,6 +70,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-13,Northern,Rozaje,0,0,0,0
 2020-03-13,Northern,Savnik,0,0,0,0
 2020-03-13,Northern,Zabljak,0,0,0,0
+2020-03-13,Northern,Pljevlja,0,0,0,0
 2020-03-14,Central,Podgorica,0,0,0,0
 2020-03-14,Central,Cetinje,0,0,0,0
 2020-03-14,Central,Danilovgrad,0,0,0,0
@@ -91,6 +94,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-14,Northern,Rozaje,0,0,0,0
 2020-03-14,Northern,Savnik,0,0,0,0
 2020-03-14,Northern,Zabljak,0,0,0,0
+2020-03-14,Northern,Pljevlja,0,0,0,0
 2020-03-15,Central,Podgorica,0,0,0,0
 2020-03-15,Central,Cetinje,0,0,0,0
 2020-03-15,Central,Danilovgrad,0,0,0,0
@@ -114,6 +118,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-15,Northern,Rozaje,0,0,0,0
 2020-03-15,Northern,Savnik,0,0,0,0
 2020-03-15,Northern,Zabljak,0,0,0,0
+2020-03-15,Northern,Pljevlja,0,0,0,0
 2020-03-16,Central,Podgorica,0,0,0,0
 2020-03-16,Central,Cetinje,0,0,0,0
 2020-03-16,Central,Danilovgrad,0,0,0,0
@@ -137,6 +142,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-16,Northern,Rozaje,0,0,0,0
 2020-03-16,Northern,Savnik,0,0,0,0
 2020-03-16,Northern,Zabljak,0,0,0,0
+2020-03-16,Northern,Pljevlja,0,0,0,0
 2020-03-17,Central,Podgorica,0,0,0,0
 2020-03-17,Central,Cetinje,0,0,0,0
 2020-03-17,Central,Danilovgrad,0,0,0,0
@@ -160,6 +166,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-17,Northern,Rozaje,0,0,0,0
 2020-03-17,Northern,Savnik,0,0,0,0
 2020-03-17,Northern,Zabljak,0,0,0,0
+2020-03-17,Northern,Pljevlja,0,0,0,0
 2020-03-18,Central,Podgorica,0,0,0,0
 2020-03-18,Central,Cetinje,0,0,0,0
 2020-03-18,Central,Danilovgrad,0,0,0,0
@@ -183,6 +190,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-18,Northern,Rozaje,0,0,0,0
 2020-03-18,Northern,Savnik,0,0,0,0
 2020-03-18,Northern,Zabljak,0,0,0,0
+2020-03-18,Northern,Pljevlja,0,0,0,0
 2020-03-19,Central,Podgorica,0,0,0,0
 2020-03-19,Central,Cetinje,0,0,0,0
 2020-03-19,Central,Danilovgrad,0,0,0,0
@@ -206,6 +214,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-19,Northern,Rozaje,0,0,0,0
 2020-03-19,Northern,Savnik,0,0,0,0
 2020-03-19,Northern,Zabljak,0,0,0,0
+2020-03-19,Northern,Pljevlja,0,0,0,0
 2020-03-20,Central,Podgorica,0,0,0,0
 2020-03-20,Central,Cetinje,0,0,0,0
 2020-03-20,Central,Danilovgrad,0,0,0,0
@@ -229,6 +238,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-20,Northern,Rozaje,0,0,0,0
 2020-03-20,Northern,Savnik,0,0,0,0
 2020-03-20,Northern,Zabljak,0,0,0,0
+2020-03-20,Northern,Pljevlja,0,0,0,0
 2020-03-21,Central,Podgorica,0,0,0,0
 2020-03-21,Central,Cetinje,0,0,0,0
 2020-03-21,Central,Danilovgrad,0,0,0,0
@@ -252,6 +262,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-21,Northern,Rozaje,0,0,0,0
 2020-03-21,Northern,Savnik,0,0,0,0
 2020-03-21,Northern,Zabljak,0,0,0,0
+2020-03-21,Northern,Pljevlja,0,0,0,0
 2020-03-22,Central,Podgorica,0,0,0,0
 2020-03-22,Central,Cetinje,0,0,0,0
 2020-03-22,Central,Danilovgrad,0,0,0,0
@@ -275,6 +286,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-22,Northern,Rozaje,0,0,0,0
 2020-03-22,Northern,Savnik,0,0,0,0
 2020-03-22,Northern,Zabljak,0,0,0,0
+2020-03-22,Northern,Pljevlja,0,0,0,0
 2020-03-23,Central,Podgorica,0,0,0,0
 2020-03-23,Central,Cetinje,0,0,0,0
 2020-03-23,Central,Danilovgrad,0,0,0,0
@@ -298,6 +310,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-23,Northern,Rozaje,0,0,0,0
 2020-03-23,Northern,Savnik,0,0,0,0
 2020-03-23,Northern,Zabljak,0,0,0,0
+2020-03-23,Northern,Pljevlja,0,0,0,0
 2020-03-24,Central,Podgorica,0,0,0,0
 2020-03-24,Central,Cetinje,0,0,0,0
 2020-03-24,Central,Danilovgrad,0,0,0,0
@@ -321,6 +334,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-24,Northern,Rozaje,0,0,0,0
 2020-03-24,Northern,Savnik,0,0,0,0
 2020-03-24,Northern,Zabljak,0,0,0,0
+2020-03-24,Northern,Pljevlja,0,0,0,0
 2020-03-25,Central,Podgorica,0,0,0,0
 2020-03-25,Central,Cetinje,0,0,0,0
 2020-03-25,Central,Danilovgrad,0,0,0,0
@@ -344,6 +358,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-25,Northern,Rozaje,0,0,0,0
 2020-03-25,Northern,Savnik,0,0,0,0
 2020-03-25,Northern,Zabljak,0,0,0,0
+2020-03-25,Northern,Pljevlja,0,0,0,0
 2020-03-26,Central,Podgorica,27,0,27,0
 2020-03-26,Central,Cetinje,0,0,0,0
 2020-03-26,Central,Danilovgrad,1,0,1,0
@@ -367,6 +382,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-26,Northern,Rozaje,0,0,0,0
 2020-03-26,Northern,Savnik,0,0,0,0
 2020-03-26,Northern,Zabljak,0,0,0,0
+2020-03-26,Northern,Pljevlja,0,0,0,0
 2020-03-27,Central,Podgorica,27,0,0,0
 2020-03-27,Central,Cetinje,0,0,0,0
 2020-03-27,Central,Danilovgrad,1,0,0,0
@@ -390,6 +406,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-27,Northern,Rozaje,0,0,0,0
 2020-03-27,Northern,Savnik,0,0,0,0
 2020-03-27,Northern,Zabljak,0,0,0,0
+2020-03-27,Northern,Pljevlja,0,0,0,0
 2020-03-28,Central,Podgorica,28,0,1,0
 2020-03-28,Central,Cetinje,0,0,0,0
 2020-03-28,Central,Danilovgrad,1,0,0,0
@@ -413,6 +430,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-28,Northern,Rozaje,0,0,0,0
 2020-03-28,Northern,Savnik,0,0,0,0
 2020-03-28,Northern,Zabljak,0,0,0,0
+2020-03-28,Northern,Pljevlja,0,0,0,0
 2020-03-29,Central,Podgorica,28,0,0,0
 2020-03-29,Central,Cetinje,0,0,0,0
 2020-03-29,Central,Danilovgrad,1,0,0,0
@@ -436,6 +454,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-29,Northern,Rozaje,0,0,0,0
 2020-03-29,Northern,Savnik,0,0,0,0
 2020-03-29,Northern,Zabljak,0,0,0,0
+2020-03-29,Northern,Pljevlja,0,0,0,0
 2020-03-30,Central,Podgorica,30,0,2,0
 2020-03-30,Central,Cetinje,0,0,0,0
 2020-03-30,Central,Danilovgrad,1,0,0,0
@@ -459,6 +478,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-30,Northern,Rozaje,0,0,0,0
 2020-03-30,Northern,Savnik,0,0,0,0
 2020-03-30,Northern,Zabljak,0,0,0,0
+2020-03-30,Northern,Pljevlja,0,0,0,0
 2020-03-31,Central,Podgorica,39,0,9,0
 2020-03-31,Central,Cetinje,0,0,0,0
 2020-03-31,Central,Danilovgrad,1,0,0,0
@@ -482,6 +502,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-03-31,Northern,Rozaje,0,0,0,0
 2020-03-31,Northern,Savnik,0,0,0,0
 2020-03-31,Northern,Zabljak,0,0,0,0
+2020-03-31,Northern,Pljevlja,0,0,0,0
 2020-04-01,Central,Podgorica,50,0,11,0
 2020-04-01,Central,Cetinje,0,0,0,0
 2020-04-01,Central,Danilovgrad,1,0,0,0
@@ -505,6 +526,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-01,Northern,Rozaje,0,0,0,0
 2020-04-01,Northern,Savnik,0,0,0,0
 2020-04-01,Northern,Zabljak,0,0,0,0
+2020-04-01,Northern,Pljevlja,0,0,0,0
 2020-04-02,Central,Podgorica,63,0,13,0
 2020-04-02,Central,Cetinje,0,0,0,0
 2020-04-02,Central,Danilovgrad,2,0,1,0
@@ -528,6 +550,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-02,Northern,Rozaje,0,0,0,0
 2020-04-02,Northern,Savnik,0,0,0,0
 2020-04-02,Northern,Zabljak,0,0,0,0
+2020-04-02,Northern,Pljevlja,0,0,0,0
 2020-04-03,Central,Podgorica,77,0,14,0
 2020-04-03,Central,Cetinje,0,0,0,0
 2020-04-03,Central,Danilovgrad,3,0,1,0
@@ -551,6 +574,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-03,Northern,Rozaje,0,0,0,0
 2020-04-03,Northern,Savnik,0,0,0,0
 2020-04-03,Northern,Zabljak,0,0,0,0
+2020-04-03,Northern,Pljevlja,0,0,0,0
 2020-04-04,Central,Podgorica,95,0,18,0
 2020-04-04,Central,Cetinje,0,0,0,0
 2020-04-04,Central,Danilovgrad,3,0,0,0
@@ -574,6 +598,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-04,Northern,Rozaje,0,0,0,0
 2020-04-04,Northern,Savnik,0,0,0,0
 2020-04-04,Northern,Zabljak,0,0,0,0
+2020-04-04,Northern,Pljevlja,0,0,0,0
 2020-04-05,Central,Podgorica,104,0,9,0
 2020-04-05,Central,Cetinje,0,0,0,0
 2020-04-05,Central,Danilovgrad,3,0,0,0
@@ -597,6 +622,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-05,Northern,Rozaje,0,0,0,0
 2020-04-05,Northern,Savnik,0,0,0,0
 2020-04-05,Northern,Zabljak,0,0,0,0
+2020-04-05,Northern,Pljevlja,0,0,0,0
 2020-04-06,Central,Podgorica,115,0,11,0
 2020-04-06,Central,Cetinje,0,0,0,0
 2020-04-06,Central,Danilovgrad,3,0,0,0
@@ -620,6 +646,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-06,Northern,Rozaje,0,0,0,0
 2020-04-06,Northern,Savnik,0,0,0,0
 2020-04-06,Northern,Zabljak,0,0,0,0
+2020-04-06,Northern,Pljevlja,0,0,0,0
 2020-04-07,Central,Podgorica,119,0,4,0
 2020-04-07,Central,Cetinje,0,0,0,0
 2020-04-07,Central,Danilovgrad,3,0,0,0
@@ -643,6 +670,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-07,Northern,Rozaje,0,0,0,0
 2020-04-07,Northern,Savnik,0,0,0,0
 2020-04-07,Northern,Zabljak,0,0,0,0
+2020-04-07,Northern,Pljevlja,0,0,0,0
 2020-04-08,Central,Podgorica,124,0,5,0
 2020-04-08,Central,Cetinje,0,0,0,0
 2020-04-08,Central,Danilovgrad,3,0,0,0
@@ -666,6 +694,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-08,Northern,Rozaje,0,0,0,0
 2020-04-08,Northern,Savnik,0,0,0,0
 2020-04-08,Northern,Zabljak,0,0,0,0
+2020-04-08,Northern,Pljevlja,0,0,0,0
 2020-04-09,Central,Podgorica,127,0,3,0
 2020-04-09,Central,Cetinje,0,0,0,0
 2020-04-09,Central,Danilovgrad,3,0,0,0
@@ -689,6 +718,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-09,Northern,Rozaje,0,0,0,0
 2020-04-09,Northern,Savnik,0,0,0,0
 2020-04-09,Northern,Zabljak,0,0,0,0
+2020-04-09,Northern,Pljevlja,0,0,0,0
 2020-04-10,Central,Podgorica,132,0,5,0
 2020-04-10,Central,Cetinje,0,0,0,0
 2020-04-10,Central,Danilovgrad,3,0,0,0
@@ -712,6 +742,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-10,Northern,Rozaje,0,0,0,0
 2020-04-10,Northern,Savnik,0,0,0,0
 2020-04-10,Northern,Zabljak,0,0,0,0
+2020-04-10,Northern,Pljevlja,0,0,0,0
 2020-04-11,Central,Podgorica,137,0,5,0
 2020-04-11,Central,Cetinje,0,0,0,0
 2020-04-11,Central,Danilovgrad,3,0,0,0
@@ -735,6 +766,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-11,Northern,Rozaje,0,0,0,0
 2020-04-11,Northern,Savnik,0,0,0,0
 2020-04-11,Northern,Zabljak,0,0,0,0
+2020-04-11,Northern,Pljevlja,0,0,0,0
 2020-04-12,Central,Podgorica,145,0,8,0
 2020-04-12,Central,Cetinje,0,0,0,0
 2020-04-12,Central,Danilovgrad,3,0,0,0
@@ -758,6 +790,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-12,Northern,Rozaje,0,0,0,0
 2020-04-12,Northern,Savnik,0,0,0,0
 2020-04-12,Northern,Zabljak,0,0,0,0
+2020-04-12,Northern,Pljevlja,0,0,0,0
 2020-04-13,Central,Podgorica,147,0,2,0
 2020-04-13,Central,Cetinje,0,0,0,0
 2020-04-13,Central,Danilovgrad,3,0,0,0
@@ -781,6 +814,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-13,Northern,Rozaje,0,0,0,0
 2020-04-13,Northern,Savnik,0,0,0,0
 2020-04-13,Northern,Zabljak,0,0,0,0
+2020-04-13,Northern,Pljevlja,0,0,0,0
 2020-04-14,Central,Podgorica,152,0,5,0
 2020-04-14,Central,Cetinje,0,0,0,0
 2020-04-14,Central,Danilovgrad,3,0,0,0
@@ -804,6 +838,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-14,Northern,Rozaje,0,0,0,0
 2020-04-14,Northern,Savnik,0,0,0,0
 2020-04-14,Northern,Zabljak,0,0,0,0
+2020-04-14,Northern,Pljevlja,0,0,0,0
 2020-04-15,Central,Podgorica,153,0,1,0
 2020-04-15,Central,Cetinje,0,0,0,0
 2020-04-15,Central,Danilovgrad,3,0,0,0
@@ -827,6 +862,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-15,Northern,Rozaje,0,0,0,0
 2020-04-15,Northern,Savnik,0,0,0,0
 2020-04-15,Northern,Zabljak,0,0,0,0
+2020-04-15,Northern,Pljevlja,0,0,0,0
 2020-04-16,Central,Podgorica,157,0,4,0
 2020-04-16,Central,Cetinje,0,0,0,0
 2020-04-16,Central,Danilovgrad,3,0,0,0
@@ -850,6 +886,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-16,Northern,Rozaje,0,0,0,0
 2020-04-16,Northern,Savnik,0,0,0,0
 2020-04-16,Northern,Zabljak,0,0,0,0
+2020-04-16,Northern,Pljevlja,0,0,0,0
 2020-04-17,Central,Podgorica,157,0,0,0
 2020-04-17,Central,Cetinje,0,0,0,0
 2020-04-17,Central,Danilovgrad,3,0,0,0
@@ -873,6 +910,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-17,Northern,Rozaje,0,0,0,0
 2020-04-17,Northern,Savnik,0,0,0,0
 2020-04-17,Northern,Zabljak,0,0,0,0
+2020-04-17,Northern,Pljevlja,0,0,0,0
 2020-04-18,Central,Podgorica,160,0,3,0
 2020-04-18,Central,Cetinje,0,0,0,0
 2020-04-18,Central,Danilovgrad,3,0,0,0
@@ -896,6 +934,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-18,Northern,Rozaje,0,0,0,0
 2020-04-18,Northern,Savnik,0,0,0,0
 2020-04-18,Northern,Zabljak,0,0,0,0
+2020-04-18,Northern,Pljevlja,0,0,0,0
 2020-04-19,Central,Podgorica,160,0,0,0
 2020-04-19,Central,Cetinje,0,0,0,0
 2020-04-19,Central,Danilovgrad,3,0,0,0
@@ -919,6 +958,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-19,Northern,Rozaje,0,0,0,0
 2020-04-19,Northern,Savnik,0,0,0,0
 2020-04-19,Northern,Zabljak,0,0,0,0
+2020-04-19,Northern,Pljevlja,0,0,0,0
 2020-04-20,Central,Podgorica,161,0,1,0
 2020-04-20,Central,Cetinje,0,0,0,0
 2020-04-20,Central,Danilovgrad,3,0,0,0
@@ -942,6 +982,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-20,Northern,Rozaje,0,0,0,0
 2020-04-20,Northern,Savnik,0,0,0,0
 2020-04-20,Northern,Zabljak,0,0,0,0
+2020-04-20,Northern,Pljevlja,0,0,0,0
 2020-04-21,Central,Podgorica,161,0,0,0
 2020-04-21,Central,Cetinje,0,0,0,0
 2020-04-21,Central,Danilovgrad,3,0,0,0
@@ -965,6 +1006,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-21,Northern,Rozaje,0,0,0,0
 2020-04-21,Northern,Savnik,0,0,0,0
 2020-04-21,Northern,Zabljak,0,0,0,0
+2020-04-21,Northern,Pljevlja,0,0,0,0
 2020-04-22,Central,Podgorica,161,0,0,0
 2020-04-22,Central,Cetinje,0,0,0,0
 2020-04-22,Central,Danilovgrad,3,0,0,0
@@ -988,6 +1030,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-22,Northern,Rozaje,0,0,0,0
 2020-04-22,Northern,Savnik,0,0,0,0
 2020-04-22,Northern,Zabljak,0,0,0,0
+2020-04-22,Northern,Pljevlja,0,0,0,0
 2020-04-23,Central,Podgorica,161,0,0,0
 2020-04-23,Central,Cetinje,0,0,0,0
 2020-04-23,Central,Danilovgrad,3,0,0,0
@@ -1011,6 +1054,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-23,Northern,Rozaje,0,0,0,0
 2020-04-23,Northern,Savnik,0,0,0,0
 2020-04-23,Northern,Zabljak,0,0,0,0
+2020-04-23,Northern,Pljevlja,0,0,0,0
 2020-04-24,Central,Podgorica,161,1,0,1
 2020-04-24,Central,Cetinje,0,0,0,0
 2020-04-24,Central,Danilovgrad,3,0,0,0
@@ -1034,6 +1078,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-24,Northern,Rozaje,0,0,0,0
 2020-04-24,Northern,Savnik,0,0,0,0
 2020-04-24,Northern,Zabljak,0,0,0,0
+2020-04-24,Northern,Pljevlja,0,0,0,0
 2020-04-25,Central,Podgorica,161,1,0,0
 2020-04-25,Central,Cetinje,0,0,0,0
 2020-04-25,Central,Danilovgrad,3,0,0,0
@@ -1057,6 +1102,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-25,Northern,Rozaje,0,0,0,0
 2020-04-25,Northern,Savnik,0,0,0,0
 2020-04-25,Northern,Zabljak,0,0,0,0
+2020-04-25,Northern,Pljevlja,0,0,0,0
 2020-04-26,Central,Podgorica,163,1,2,0
 2020-04-26,Central,Cetinje,0,0,0,0
 2020-04-26,Central,Danilovgrad,3,0,0,0
@@ -1080,6 +1126,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-26,Northern,Rozaje,0,0,0,0
 2020-04-26,Northern,Savnik,0,0,0,0
 2020-04-26,Northern,Zabljak,0,0,0,0
+2020-04-26,Northern,Pljevlja,0,0,0,0
 2020-04-27,Central,Podgorica,163,1,0,0
 2020-04-27,Central,Cetinje,0,0,0,0
 2020-04-27,Central,Danilovgrad,3,0,0,0
@@ -1103,6 +1150,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-27,Northern,Rozaje,0,0,0,0
 2020-04-27,Northern,Savnik,0,0,0,0
 2020-04-27,Northern,Zabljak,0,0,0,0
+2020-04-27,Northern,Pljevlja,0,0,0,0
 2020-04-28,Central,Podgorica,163,1,0,0
 2020-04-28,Central,Cetinje,0,0,0,0
 2020-04-28,Central,Danilovgrad,3,0,0,0
@@ -1126,6 +1174,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-28,Northern,Rozaje,0,0,0,0
 2020-04-28,Northern,Savnik,0,0,0,0
 2020-04-28,Northern,Zabljak,0,0,0,0
+2020-04-28,Northern,Pljevlja,0,0,0,0
 2020-04-29,Central,Podgorica,164,1,1,0
 2020-04-29,Central,Cetinje,0,0,0,0
 2020-04-29,Central,Danilovgrad,3,0,0,0
@@ -1149,6 +1198,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-29,Northern,Rozaje,0,0,0,0
 2020-04-29,Northern,Savnik,0,0,0,0
 2020-04-29,Northern,Zabljak,0,0,0,0
+2020-04-29,Northern,Pljevlja,0,0,0,0
 2020-04-30,Central,Podgorica,164,1,0,0
 2020-04-30,Central,Cetinje,0,0,0,0
 2020-04-30,Central,Danilovgrad,3,0,0,0
@@ -1172,6 +1222,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-04-30,Northern,Rozaje,0,0,0,0
 2020-04-30,Northern,Savnik,0,0,0,0
 2020-04-30,Northern,Zabljak,0,0,0,0
+2020-04-30,Northern,Pljevlja,0,0,0,0
 2020-05-01,Central,Podgorica,164,1,0,0
 2020-05-01,Central,Cetinje,0,0,0,0
 2020-05-01,Central,Danilovgrad,3,0,0,0
@@ -1195,6 +1246,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-01,Northern,Rozaje,0,0,0,0
 2020-05-01,Northern,Savnik,0,0,0,0
 2020-05-01,Northern,Zabljak,0,0,0,0
+2020-05-01,Northern,Pljevlja,0,0,0,0
 2020-05-02,Central,Podgorica,164,1,0,0
 2020-05-02,Central,Cetinje,0,0,0,0
 2020-05-02,Central,Danilovgrad,3,0,0,0
@@ -1218,6 +1270,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-02,Northern,Rozaje,0,0,0,0
 2020-05-02,Northern,Savnik,0,0,0,0
 2020-05-02,Northern,Zabljak,0,0,0,0
+2020-05-02,Northern,Pljevlja,0,0,0,0
 2020-05-03,Central,Podgorica,164,1,0,0
 2020-05-03,Central,Cetinje,0,0,0,0
 2020-05-03,Central,Danilovgrad,3,0,0,0
@@ -1241,6 +1294,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-03,Northern,Rozaje,0,0,0,0
 2020-05-03,Northern,Savnik,0,0,0,0
 2020-05-03,Northern,Zabljak,0,0,0,0
+2020-05-03,Northern,Pljevlja,0,0,0,0
 2020-05-04,Central,Podgorica,164,1,0,0
 2020-05-04,Central,Cetinje,0,0,0,0
 2020-05-04,Central,Danilovgrad,3,0,0,0
@@ -1264,6 +1318,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-04,Northern,Rozaje,0,0,0,0
 2020-05-04,Northern,Savnik,0,0,0,0
 2020-05-04,Northern,Zabljak,0,0,0,0
+2020-05-04,Northern,Pljevlja,0,0,0,0
 2020-05-05,Central,Podgorica,164,1,0,0
 2020-05-05,Central,Cetinje,0,0,0,0
 2020-05-05,Central,Danilovgrad,3,0,0,0
@@ -1287,6 +1342,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-05,Northern,Rozaje,0,0,0,0
 2020-05-05,Northern,Savnik,0,0,0,0
 2020-05-05,Northern,Zabljak,0,0,0,0
+2020-05-05,Northern,Pljevlja,0,0,0,0
 2020-05-06,Central,Podgorica,164,1,0,0
 2020-05-06,Central,Cetinje,0,0,0,0
 2020-05-06,Central,Danilovgrad,3,0,0,0
@@ -1310,6 +1366,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-06,Northern,Rozaje,0,0,0,0
 2020-05-06,Northern,Savnik,0,0,0,0
 2020-05-06,Northern,Zabljak,0,0,0,0
+2020-05-06,Northern,Pljevlja,0,0,0,0
 2020-05-07,Central,Podgorica,164,1,0,0
 2020-05-07,Central,Cetinje,0,0,0,0
 2020-05-07,Central,Danilovgrad,3,0,0,0
@@ -1333,6 +1390,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-07,Northern,Rozaje,0,0,0,0
 2020-05-07,Northern,Savnik,0,0,0,0
 2020-05-07,Northern,Zabljak,0,0,0,0
+2020-05-07,Northern,Pljevlja,0,0,0,0
 2020-05-08,Central,Podgorica,164,1,0,0
 2020-05-08,Central,Cetinje,0,0,0,0
 2020-05-08,Central,Danilovgrad,3,0,0,0
@@ -1356,6 +1414,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-08,Northern,Rozaje,0,0,0,0
 2020-05-08,Northern,Savnik,0,0,0,0
 2020-05-08,Northern,Zabljak,0,0,0,0
+2020-05-08,Northern,Pljevlja,0,0,0,0
 2020-05-09,Central,Podgorica,164,1,0,0
 2020-05-09,Central,Cetinje,0,0,0,0
 2020-05-09,Central,Danilovgrad,3,0,0,0
@@ -1379,6 +1438,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-09,Northern,Rozaje,0,0,0,0
 2020-05-09,Northern,Savnik,0,0,0,0
 2020-05-09,Northern,Zabljak,0,0,0,0
+2020-05-09,Northern,Pljevlja,0,0,0,0
 2020-05-10,Central,Podgorica,164,1,0,0
 2020-05-10,Central,Cetinje,0,0,0,0
 2020-05-10,Central,Danilovgrad,3,0,0,0
@@ -1402,6 +1462,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-10,Northern,Rozaje,0,0,0,0
 2020-05-10,Northern,Savnik,0,0,0,0
 2020-05-10,Northern,Zabljak,0,0,0,0
+2020-05-10,Northern,Pljevlja,0,0,0,0
 2020-05-11,Central,Podgorica,164,1,0,0
 2020-05-11,Central,Cetinje,0,0,0,0
 2020-05-11,Central,Danilovgrad,3,0,0,0
@@ -1425,6 +1486,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-11,Northern,Rozaje,0,0,0,0
 2020-05-11,Northern,Savnik,0,0,0,0
 2020-05-11,Northern,Zabljak,0,0,0,0
+2020-05-11,Northern,Pljevlja,0,0,0,0
 2020-05-12,Central,Podgorica,164,1,0,0
 2020-05-12,Central,Cetinje,0,0,0,0
 2020-05-12,Central,Danilovgrad,3,0,0,0
@@ -1448,6 +1510,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-12,Northern,Rozaje,0,0,0,0
 2020-05-12,Northern,Savnik,0,0,0,0
 2020-05-12,Northern,Zabljak,0,0,0,0
+2020-05-12,Northern,Pljevlja,0,0,0,0
 2020-05-13,Central,Podgorica,164,1,0,0
 2020-05-13,Central,Cetinje,0,0,0,0
 2020-05-13,Central,Danilovgrad,3,0,0,0
@@ -1471,6 +1534,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-13,Northern,Rozaje,0,0,0,0
 2020-05-13,Northern,Savnik,0,0,0,0
 2020-05-13,Northern,Zabljak,0,0,0,0
+2020-05-13,Northern,Pljevlja,0,0,0,0
 2020-05-14,Central,Podgorica,164,1,0,0
 2020-05-14,Central,Cetinje,0,0,0,0
 2020-05-14,Central,Danilovgrad,3,0,0,0
@@ -1494,6 +1558,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-14,Northern,Rozaje,0,0,0,0
 2020-05-14,Northern,Savnik,0,0,0,0
 2020-05-14,Northern,Zabljak,0,0,0,0
+2020-05-14,Northern,Pljevlja,0,0,0,0
 2020-05-15,Central,Podgorica,164,1,0,0
 2020-05-15,Central,Cetinje,0,0,0,0
 2020-05-15,Central,Danilovgrad,3,0,0,0
@@ -1517,6 +1582,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-15,Northern,Rozaje,0,0,0,0
 2020-05-15,Northern,Savnik,0,0,0,0
 2020-05-15,Northern,Zabljak,0,0,0,0
+2020-05-15,Northern,Pljevlja,0,0,0,0
 2020-05-16,Central,Podgorica,164,1,0,0
 2020-05-16,Central,Cetinje,0,0,0,0
 2020-05-16,Central,Danilovgrad,3,0,0,0
@@ -1540,6 +1606,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-16,Northern,Rozaje,0,0,0,0
 2020-05-16,Northern,Savnik,0,0,0,0
 2020-05-16,Northern,Zabljak,0,0,0,0
+2020-05-16,Northern,Pljevlja,0,0,0,0
 2020-05-17,Central,Podgorica,164,1,0,0
 2020-05-17,Central,Cetinje,0,0,0,0
 2020-05-17,Central,Danilovgrad,3,0,0,0
@@ -1563,6 +1630,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-17,Northern,Rozaje,0,0,0,0
 2020-05-17,Northern,Savnik,0,0,0,0
 2020-05-17,Northern,Zabljak,0,0,0,0
+2020-05-17,Northern,Pljevlja,0,0,0,0
 2020-05-18,Central,Podgorica,164,1,0,0
 2020-05-18,Central,Cetinje,0,0,0,0
 2020-05-18,Central,Danilovgrad,3,0,0,0
@@ -1586,6 +1654,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-18,Northern,Rozaje,0,0,0,0
 2020-05-18,Northern,Savnik,0,0,0,0
 2020-05-18,Northern,Zabljak,0,0,0,0
+2020-05-18,Northern,Pljevlja,0,0,0,0
 2020-05-19,Central,Podgorica,164,1,0,0
 2020-05-19,Central,Cetinje,0,0,0,0
 2020-05-19,Central,Danilovgrad,3,0,0,0
@@ -1609,6 +1678,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-19,Northern,Rozaje,0,0,0,0
 2020-05-19,Northern,Savnik,0,0,0,0
 2020-05-19,Northern,Zabljak,0,0,0,0
+2020-05-19,Northern,Pljevlja,0,0,0,0
 2020-05-20,Central,Podgorica,164,1,0,0
 2020-05-20,Central,Cetinje,0,0,0,0
 2020-05-20,Central,Danilovgrad,3,0,0,0
@@ -1632,6 +1702,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-20,Northern,Rozaje,0,0,0,0
 2020-05-20,Northern,Savnik,0,0,0,0
 2020-05-20,Northern,Zabljak,0,0,0,0
+2020-05-20,Northern,Pljevlja,0,0,0,0
 2020-05-21,Central,Podgorica,164,1,0,0
 2020-05-21,Central,Cetinje,0,0,0,0
 2020-05-21,Central,Danilovgrad,3,0,0,0
@@ -1655,6 +1726,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-21,Northern,Rozaje,0,0,0,0
 2020-05-21,Northern,Savnik,0,0,0,0
 2020-05-21,Northern,Zabljak,0,0,0,0
+2020-05-21,Northern,Pljevlja,0,0,0,0
 2020-05-22,Central,Podgorica,164,1,0,0
 2020-05-22,Central,Cetinje,0,0,0,0
 2020-05-22,Central,Danilovgrad,3,0,0,0
@@ -1678,6 +1750,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-22,Northern,Rozaje,0,0,0,0
 2020-05-22,Northern,Savnik,0,0,0,0
 2020-05-22,Northern,Zabljak,0,0,0,0
+2020-05-22,Northern,Pljevlja,0,0,0,0
 2020-05-23,Central,Podgorica,164,1,0,0
 2020-05-23,Central,Cetinje,0,0,0,0
 2020-05-23,Central,Danilovgrad,3,0,0,0
@@ -1701,6 +1774,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-23,Northern,Rozaje,0,0,0,0
 2020-05-23,Northern,Savnik,0,0,0,0
 2020-05-23,Northern,Zabljak,0,0,0,0
+2020-05-23,Northern,Pljevlja,0,0,0,0
 2020-05-24,Central,Podgorica,164,1,0,0
 2020-05-24,Central,Cetinje,0,0,0,0
 2020-05-24,Central,Danilovgrad,3,0,0,0
@@ -1724,6 +1798,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-24,Northern,Rozaje,0,0,0,0
 2020-05-24,Northern,Savnik,0,0,0,0
 2020-05-24,Northern,Zabljak,0,0,0,0
+2020-05-24,Northern,Pljevlja,0,0,0,0
 2020-05-25,Central,Podgorica,164,1,0,0
 2020-05-25,Central,Cetinje,0,0,0,0
 2020-05-25,Central,Danilovgrad,3,0,0,0
@@ -1747,6 +1822,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-25,Northern,Rozaje,0,0,0,0
 2020-05-25,Northern,Savnik,0,0,0,0
 2020-05-25,Northern,Zabljak,0,0,0,0
+2020-05-25,Northern,Pljevlja,0,0,0,0
 2020-05-26,Central,Podgorica,164,1,0,0
 2020-05-26,Central,Cetinje,0,0,0,0
 2020-05-26,Central,Danilovgrad,3,0,0,0
@@ -1770,6 +1846,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-26,Northern,Rozaje,0,0,0,0
 2020-05-26,Northern,Savnik,0,0,0,0
 2020-05-26,Northern,Zabljak,0,0,0,0
+2020-05-26,Northern,Pljevlja,0,0,0,0
 2020-05-27,Central,Podgorica,164,1,0,0
 2020-05-27,Central,Cetinje,0,0,0,0
 2020-05-27,Central,Danilovgrad,3,0,0,0
@@ -1793,6 +1870,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-27,Northern,Rozaje,0,0,0,0
 2020-05-27,Northern,Savnik,0,0,0,0
 2020-05-27,Northern,Zabljak,0,0,0,0
+2020-05-27,Northern,Pljevlja,0,0,0,0
 2020-05-28,Central,Podgorica,164,1,0,0
 2020-05-28,Central,Cetinje,0,0,0,0
 2020-05-28,Central,Danilovgrad,3,0,0,0
@@ -1816,6 +1894,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-28,Northern,Rozaje,0,0,0,0
 2020-05-28,Northern,Savnik,0,0,0,0
 2020-05-28,Northern,Zabljak,0,0,0,0
+2020-05-28,Northern,Pljevlja,0,0,0,0
 2020-05-29,Central,Podgorica,164,1,0,0
 2020-05-29,Central,Cetinje,0,0,0,0
 2020-05-29,Central,Danilovgrad,3,0,0,0
@@ -1839,6 +1918,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-29,Northern,Rozaje,0,0,0,0
 2020-05-29,Northern,Savnik,0,0,0,0
 2020-05-29,Northern,Zabljak,0,0,0,0
+2020-05-29,Northern,Pljevlja,0,0,0,0
 2020-05-30,Central,Podgorica,164,1,0,0
 2020-05-30,Central,Cetinje,0,0,0,0
 2020-05-30,Central,Danilovgrad,3,0,0,0
@@ -1862,6 +1942,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-30,Northern,Rozaje,0,0,0,0
 2020-05-30,Northern,Savnik,0,0,0,0
 2020-05-30,Northern,Zabljak,0,0,0,0
+2020-05-30,Northern,Pljevlja,0,0,0,0
 2020-05-31,Central,Podgorica,164,1,0,0
 2020-05-31,Central,Cetinje,0,0,0,0
 2020-05-31,Central,Danilovgrad,3,0,0,0
@@ -1885,6 +1966,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-05-31,Northern,Rozaje,0,0,0,0
 2020-05-31,Northern,Savnik,0,0,0,0
 2020-05-31,Northern,Zabljak,0,0,0,0
+2020-05-31,Northern,Pljevlja,0,0,0,0
 2020-06-01,Central,Podgorica,164,1,0,0
 2020-06-01,Central,Cetinje,0,0,0,0
 2020-06-01,Central,Danilovgrad,3,0,0,0
@@ -1908,6 +1990,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-01,Northern,Rozaje,0,0,0,0
 2020-06-01,Northern,Savnik,0,0,0,0
 2020-06-01,Northern,Zabljak,0,0,0,0
+2020-06-01,Northern,Pljevlja,0,0,0,0
 2020-06-02,Central,Podgorica,164,1,0,0
 2020-06-02,Central,Cetinje,0,0,0,0
 2020-06-02,Central,Danilovgrad,3,0,0,0
@@ -1931,6 +2014,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-02,Northern,Rozaje,0,0,0,0
 2020-06-02,Northern,Savnik,0,0,0,0
 2020-06-02,Northern,Zabljak,0,0,0,0
+2020-06-02,Northern,Pljevlja,0,0,0,0
 2020-06-03,Central,Podgorica,164,1,0,0
 2020-06-03,Central,Cetinje,0,0,0,0
 2020-06-03,Central,Danilovgrad,3,0,0,0
@@ -1954,6 +2038,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-03,Northern,Rozaje,0,0,0,0
 2020-06-03,Northern,Savnik,0,0,0,0
 2020-06-03,Northern,Zabljak,0,0,0,0
+2020-06-03,Northern,Pljevlja,0,0,0,0
 2020-06-04,Central,Podgorica,164,1,0,0
 2020-06-04,Central,Cetinje,0,0,0,0
 2020-06-04,Central,Danilovgrad,3,0,0,0
@@ -1977,6 +2062,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-04,Northern,Rozaje,0,0,0,0
 2020-06-04,Northern,Savnik,0,0,0,0
 2020-06-04,Northern,Zabljak,0,0,0,0
+2020-06-04,Northern,Pljevlja,0,0,0,0
 2020-06-05,Central,Podgorica,164,1,0,0
 2020-06-05,Central,Cetinje,0,0,0,0
 2020-06-05,Central,Danilovgrad,3,0,0,0
@@ -2000,6 +2086,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-05,Northern,Rozaje,0,0,0,0
 2020-06-05,Northern,Savnik,0,0,0,0
 2020-06-05,Northern,Zabljak,0,0,0,0
+2020-06-05,Northern,Pljevlja,0,0,0,0
 2020-06-06,Central,Podgorica,164,1,0,0
 2020-06-06,Central,Cetinje,0,0,0,0
 2020-06-06,Central,Danilovgrad,3,0,0,0
@@ -2023,6 +2110,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-06,Northern,Rozaje,0,0,0,0
 2020-06-06,Northern,Savnik,0,0,0,0
 2020-06-06,Northern,Zabljak,0,0,0,0
+2020-06-06,Northern,Pljevlja,0,0,0,0
 2020-06-07,Central,Podgorica,164,1,0,0
 2020-06-07,Central,Cetinje,0,0,0,0
 2020-06-07,Central,Danilovgrad,3,0,0,0
@@ -2046,6 +2134,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-07,Northern,Rozaje,0,0,0,0
 2020-06-07,Northern,Savnik,0,0,0,0
 2020-06-07,Northern,Zabljak,0,0,0,0
+2020-06-07,Northern,Pljevlja,0,0,0,0
 2020-06-08,Central,Podgorica,164,1,0,0
 2020-06-08,Central,Cetinje,0,0,0,0
 2020-06-08,Central,Danilovgrad,3,0,0,0
@@ -2069,6 +2158,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-08,Northern,Rozaje,0,0,0,0
 2020-06-08,Northern,Savnik,0,0,0,0
 2020-06-08,Northern,Zabljak,0,0,0,0
+2020-06-08,Northern,Pljevlja,0,0,0,0
 2020-06-09,Central,Podgorica,164,1,0,0
 2020-06-09,Central,Cetinje,0,0,0,0
 2020-06-09,Central,Danilovgrad,3,0,0,0
@@ -2092,6 +2182,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-09,Northern,Rozaje,0,0,0,0
 2020-06-09,Northern,Savnik,0,0,0,0
 2020-06-09,Northern,Zabljak,0,0,0,0
+2020-06-09,Northern,Pljevlja,0,0,0,0
 2020-06-10,Central,Podgorica,164,1,0,0
 2020-06-10,Central,Cetinje,0,0,0,0
 2020-06-10,Central,Danilovgrad,3,0,0,0
@@ -2115,6 +2206,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-10,Northern,Rozaje,0,0,0,0
 2020-06-10,Northern,Savnik,0,0,0,0
 2020-06-10,Northern,Zabljak,0,0,0,0
+2020-06-10,Northern,Pljevlja,0,0,0,0
 2020-06-11,Central,Podgorica,164,1,0,0
 2020-06-11,Central,Cetinje,0,0,0,0
 2020-06-11,Central,Danilovgrad,3,0,0,0
@@ -2138,6 +2230,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-11,Northern,Rozaje,0,0,0,0
 2020-06-11,Northern,Savnik,0,0,0,0
 2020-06-11,Northern,Zabljak,0,0,0,0
+2020-06-11,Northern,Pljevlja,0,0,0,0
 2020-06-12,Central,Podgorica,164,1,0,0
 2020-06-12,Central,Cetinje,0,0,0,0
 2020-06-12,Central,Danilovgrad,3,0,0,0
@@ -2161,6 +2254,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-12,Northern,Rozaje,0,0,0,0
 2020-06-12,Northern,Savnik,0,0,0,0
 2020-06-12,Northern,Zabljak,0,0,0,0
+2020-06-12,Northern,Pljevlja,0,0,0,0
 2020-06-13,Central,Podgorica,164,1,0,0
 2020-06-13,Central,Cetinje,0,0,0,0
 2020-06-13,Central,Danilovgrad,3,0,0,0
@@ -2184,6 +2278,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-13,Northern,Rozaje,0,0,0,0
 2020-06-13,Northern,Savnik,0,0,0,0
 2020-06-13,Northern,Zabljak,0,0,0,0
+2020-06-13,Northern,Pljevlja,0,0,0,0
 2020-06-14,Central,Podgorica,164,1,0,0
 2020-06-14,Central,Cetinje,0,0,0,0
 2020-06-14,Central,Danilovgrad,3,0,0,0
@@ -2207,6 +2302,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-14,Northern,Rozaje,0,0,0,0
 2020-06-14,Northern,Savnik,0,0,0,0
 2020-06-14,Northern,Zabljak,0,0,0,0
+2020-06-14,Northern,Pljevlja,0,0,0,0
 2020-06-15,Central,Podgorica,165,1,1,0
 2020-06-15,Central,Cetinje,0,0,0,0
 2020-06-15,Central,Danilovgrad,3,0,0,0
@@ -2230,6 +2326,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-15,Northern,Rozaje,0,0,0,0
 2020-06-15,Northern,Savnik,0,0,0,0
 2020-06-15,Northern,Zabljak,0,0,0,0
+2020-06-15,Northern,Pljevlja,0,0,0,0
 2020-06-16,Central,Podgorica,169,1,4,0
 2020-06-16,Central,Cetinje,1,0,1,0
 2020-06-16,Central,Danilovgrad,3,0,0,0
@@ -2253,6 +2350,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-16,Northern,Rozaje,1,0,1,0
 2020-06-16,Northern,Savnik,0,0,0,0
 2020-06-16,Northern,Zabljak,0,0,0,0
+2020-06-16,Northern,Pljevlja,0,0,0,0
 2020-06-17,Central,Podgorica,169,1,0,0
 2020-06-17,Central,Cetinje,1,0,0,0
 2020-06-17,Central,Danilovgrad,3,0,0,0
@@ -2276,6 +2374,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-17,Northern,Rozaje,1,0,0,0
 2020-06-17,Northern,Savnik,0,0,0,0
 2020-06-17,Northern,Zabljak,0,0,0,0
+2020-06-17,Northern,Pljevlja,0,0,0,0
 2020-06-18,Central,Podgorica,169,1,0,0
 2020-06-18,Central,Cetinje,1,0,0,0
 2020-06-18,Central,Danilovgrad,3,0,0,0
@@ -2299,6 +2398,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-18,Northern,Rozaje,1,0,0,0
 2020-06-18,Northern,Savnik,0,0,0,0
 2020-06-18,Northern,Zabljak,0,0,0,0
+2020-06-18,Northern,Pljevlja,0,0,0,0
 2020-06-19,Central,Podgorica,169,1,0,0
 2020-06-19,Central,Cetinje,1,0,0,0
 2020-06-19,Central,Danilovgrad,3,0,0,0
@@ -2322,6 +2422,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-19,Northern,Rozaje,1,0,0,0
 2020-06-19,Northern,Savnik,0,0,0,0
 2020-06-19,Northern,Zabljak,0,0,0,0
+2020-06-19,Northern,Pljevlja,0,0,0,0
 2020-06-20,Central,Podgorica,169,1,0,0
 2020-06-20,Central,Cetinje,1,0,0,0
 2020-06-20,Central,Danilovgrad,3,0,0,0
@@ -2345,6 +2446,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-20,Northern,Rozaje,1,0,0,0
 2020-06-20,Northern,Savnik,0,0,0,0
 2020-06-20,Northern,Zabljak,0,0,0,0
+2020-06-20,Northern,Pljevlja,0,0,0,0
 2020-06-21,Central,Podgorica,185,1,16,0
 2020-06-21,Central,Cetinje,3,0,2,0
 2020-06-21,Central,Danilovgrad,4,0,1,0
@@ -2368,6 +2470,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-21,Northern,Rozaje,20,0,19,0
 2020-06-21,Northern,Savnik,0,0,0,0
 2020-06-21,Northern,Zabljak,0,0,0,0
+2020-06-21,Northern,Pljevlja,0,0,0,0
 2020-06-22,Central,Podgorica,189,1,4,0
 2020-06-22,Central,Cetinje,3,0,0,0
 2020-06-22,Central,Danilovgrad,4,0,0,0
@@ -2391,6 +2494,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-22,Northern,Rozaje,23,0,3,0
 2020-06-22,Northern,Savnik,0,0,0,0
 2020-06-22,Northern,Zabljak,0,0,0,0
+2020-06-22,Northern,Pljevlja,0,0,0,0
 2020-06-23,Central,Podgorica,193,1,4,0
 2020-06-23,Central,Cetinje,3,0,0,0
 2020-06-23,Central,Danilovgrad,4,0,0,0
@@ -2414,6 +2518,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-23,Northern,Rozaje,26,0,3,0
 2020-06-23,Northern,Savnik,0,0,0,0
 2020-06-23,Northern,Zabljak,0,0,0,0
+2020-06-23,Northern,Pljevlja,0,0,0,0
 2020-06-24,Central,Podgorica,193,1,0,0
 2020-06-24,Central,Cetinje,3,0,0,0
 2020-06-24,Central,Danilovgrad,4,0,0,0
@@ -2437,6 +2542,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-24,Northern,Rozaje,26,0,0,0
 2020-06-24,Northern,Savnik,0,0,0,0
 2020-06-24,Northern,Zabljak,0,0,0,0
+2020-06-24,Northern,Pljevlja,0,0,0,0
 2020-06-25,Central,Podgorica,193,1,0,0
 2020-06-25,Central,Cetinje,3,0,0,0
 2020-06-25,Central,Danilovgrad,4,0,0,0
@@ -2460,6 +2566,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-25,Northern,Rozaje,26,0,0,0
 2020-06-25,Northern,Savnik,0,0,0,0
 2020-06-25,Northern,Zabljak,0,0,0,0
+2020-06-25,Northern,Pljevlja,0,0,0,0
 2020-06-26,Central,Podgorica,196,1,3,0
 2020-06-26,Central,Cetinje,6,0,3,0
 2020-06-26,Central,Danilovgrad,6,0,2,0
@@ -2483,6 +2590,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-26,Northern,Rozaje,65,0,39,0
 2020-06-26,Northern,Savnik,0,0,0,0
 2020-06-26,Northern,Zabljak,0,0,0,0
+2020-06-26,Northern,Pljevlja,0,0,2,0
 2020-06-27,Central,Podgorica,199,1,3,0
 2020-06-27,Central,Cetinje,8,0,2,0
 2020-06-27,Central,Danilovgrad,6,0,0,0
@@ -2506,6 +2614,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-27,Northern,Rozaje,69,0,4,0
 2020-06-27,Northern,Savnik,0,0,0,0
 2020-06-27,Northern,Zabljak,0,0,0,0
+2020-06-27,Northern,Pljevlja,0,0,0,0
 2020-06-28,Central,Podgorica,199,1,0,0
 2020-06-28,Central,Cetinje,8,0,0,0
 2020-06-28,Central,Danilovgrad,6,0,0,0
@@ -2529,6 +2638,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-28,Northern,Rozaje,73,0,4,0
 2020-06-28,Northern,Savnik,0,0,0,0
 2020-06-28,Northern,Zabljak,0,0,0,0
+2020-06-28,Northern,Pljevlja,0,0,0,0
 2020-06-29,Central,Podgorica,199,1,0,0
 2020-06-29,Central,Cetinje,8,0,0,0
 2020-06-29,Central,Danilovgrad,6,0,0,0
@@ -2552,6 +2662,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-29,Northern,Rozaje,73,0,0,0
 2020-06-29,Northern,Savnik,0,0,0,0
 2020-06-29,Northern,Zabljak,0,0,0,0
+2020-06-29,Northern,Pljevlja,0,0,0,0
 2020-06-30,Central,Podgorica,199,1,0,0
 2020-06-30,Central,Cetinje,8,0,0,0
 2020-06-30,Central,Danilovgrad,6,0,0,0
@@ -2575,6 +2686,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-06-30,Northern,Rozaje,73,0,0,0
 2020-06-30,Northern,Savnik,0,0,0,0
 2020-06-30,Northern,Zabljak,0,0,0,0
+2020-06-30,Northern,Pljevlja,0,0,0,0
 2020-07-01,Central,Podgorica,199,1,0,0
 2020-07-01,Central,Cetinje,8,0,0,0
 2020-07-01,Central,Danilovgrad,6,0,0,0
@@ -2598,6 +2710,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-01,Northern,Rozaje,73,0,0,0
 2020-07-01,Northern,Savnik,0,0,0,0
 2020-07-01,Northern,Zabljak,0,0,0,0
+2020-07-01,Northern,Pljevlja,0,0,0,0
 2020-07-02,Central,Podgorica,199,1,0,0
 2020-07-02,Central,Cetinje,8,0,0,0
 2020-07-02,Central,Danilovgrad,6,0,0,0
@@ -2621,6 +2734,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-02,Northern,Rozaje,73,0,0,0
 2020-07-02,Northern,Savnik,0,0,0,0
 2020-07-02,Northern,Zabljak,0,0,0,0
+2020-07-02,Northern,Pljevlja,0,0,0,0
 2020-07-03,Central,Podgorica,199,1,0,0
 2020-07-03,Central,Cetinje,8,0,0,0
 2020-07-03,Central,Danilovgrad,6,0,0,0
@@ -2644,6 +2758,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-03,Northern,Rozaje,73,0,0,0
 2020-07-03,Northern,Savnik,0,0,0,0
 2020-07-03,Northern,Zabljak,0,0,0,0
+2020-07-03,Northern,Pljevlja,0,0,0,0
 2020-07-04,Central,Podgorica,199,1,0,0
 2020-07-04,Central,Cetinje,8,0,0,0
 2020-07-04,Central,Danilovgrad,6,0,0,0
@@ -2667,6 +2782,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-04,Northern,Rozaje,73,0,0,0
 2020-07-04,Northern,Savnik,0,0,0,0
 2020-07-04,Northern,Zabljak,0,0,0,0
+2020-07-04,Northern,Pljevlja,0,0,0,0
 2020-07-05,Central,Podgorica,199,1,0,0
 2020-07-05,Central,Cetinje,8,0,0,0
 2020-07-05,Central,Danilovgrad,6,0,0,0
@@ -2690,6 +2806,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-05,Northern,Rozaje,73,0,0,0
 2020-07-05,Northern,Savnik,0,0,0,0
 2020-07-05,Northern,Zabljak,0,0,0,0
+2020-07-05,Northern,Pljevlja,0,0,0,0
 2020-07-06,Central,Podgorica,199,1,0,0
 2020-07-06,Central,Cetinje,8,0,0,0
 2020-07-06,Central,Danilovgrad,6,0,0,0
@@ -2713,6 +2830,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-06,Northern,Rozaje,73,0,0,0
 2020-07-06,Northern,Savnik,0,0,0,0
 2020-07-06,Northern,Zabljak,0,0,0,0
+2020-07-06,Northern,Pljevlja,0,0,0,0
 2020-07-07,Central,Podgorica,199,1,0,0
 2020-07-07,Central,Cetinje,8,0,0,0
 2020-07-07,Central,Danilovgrad,6,0,0,0
@@ -2736,6 +2854,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-07,Northern,Rozaje,73,0,0,0
 2020-07-07,Northern,Savnik,0,0,0,0
 2020-07-07,Northern,Zabljak,0,0,0,0
+2020-07-07,Northern,Pljevlja,0,0,0,0
 2020-07-08,Central,Podgorica,199,1,0,0
 2020-07-08,Central,Cetinje,8,0,0,0
 2020-07-08,Central,Danilovgrad,6,0,0,0
@@ -2759,6 +2878,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-08,Northern,Rozaje,73,0,0,0
 2020-07-08,Northern,Savnik,0,0,0,0
 2020-07-08,Northern,Zabljak,0,0,0,0
+2020-07-08,Northern,Pljevlja,0,0,0,0
 2020-07-09,Central,Podgorica,199,1,0,0
 2020-07-09,Central,Cetinje,8,0,0,0
 2020-07-09,Central,Danilovgrad,6,0,0,0
@@ -2782,6 +2902,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-09,Northern,Rozaje,73,0,0,0
 2020-07-09,Northern,Savnik,0,0,0,0
 2020-07-09,Northern,Zabljak,0,0,0,0
+2020-07-09,Northern,Pljevlja,0,0,0,0
 2020-07-10,Central,Podgorica,199,1,0,0
 2020-07-10,Central,Cetinje,8,0,0,0
 2020-07-10,Central,Danilovgrad,6,0,0,0
@@ -2805,6 +2926,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-10,Northern,Rozaje,73,0,0,0
 2020-07-10,Northern,Savnik,0,0,0,0
 2020-07-10,Northern,Zabljak,0,0,0,0
+2020-07-10,Northern,Pljevlja,0,0,0,0
 2020-07-11,Central,Podgorica,199,1,0,0
 2020-07-11,Central,Cetinje,8,0,0,0
 2020-07-11,Central,Danilovgrad,6,0,0,0
@@ -2828,6 +2950,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-11,Northern,Rozaje,73,0,0,0
 2020-07-11,Northern,Savnik,0,0,0,0
 2020-07-11,Northern,Zabljak,0,0,0,0
+2020-07-11,Northern,Pljevlja,0,0,0,0
 2020-07-12,Central,Podgorica,199,1,0,0
 2020-07-12,Central,Cetinje,8,0,0,0
 2020-07-12,Central,Danilovgrad,6,0,0,0
@@ -2851,6 +2974,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-12,Northern,Rozaje,73,0,0,0
 2020-07-12,Northern,Savnik,0,0,0,0
 2020-07-12,Northern,Zabljak,0,0,0,0
+2020-07-12,Northern,Pljevlja,0,0,0,0
 2020-07-13,Central,Podgorica,199,1,0,0
 2020-07-13,Central,Cetinje,8,0,0,0
 2020-07-13,Central,Danilovgrad,6,0,0,0
@@ -2874,6 +2998,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-13,Northern,Rozaje,73,0,0,0
 2020-07-13,Northern,Savnik,0,0,0,0
 2020-07-13,Northern,Zabljak,0,0,0,0
+2020-07-13,Northern,Pljevlja,0,0,0,0
 2020-07-14,Central,Podgorica,245,2,46,1
 2020-07-14,Central,Cetinje,14,0,6,0
 2020-07-14,Central,Danilovgrad,6,0,0,0
@@ -2897,6 +3022,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-14,Northern,Rozaje,73,7,0,7
 2020-07-14,Northern,Savnik,0,0,0,0
 2020-07-14,Northern,Zabljak,0,0,0,0
+2020-07-14,Northern,Pljevlja,0,0,0,0
 2020-07-15,Central,Podgorica,293,2,48,0
 2020-07-15,Central,Cetinje,15,0,1,0
 2020-07-15,Central,Danilovgrad,6,0,0,0
@@ -2920,6 +3046,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-15,Northern,Rozaje,74,7,1,0
 2020-07-15,Northern,Savnik,0,0,0,0
 2020-07-15,Northern,Zabljak,0,0,0,0
+2020-07-15,Northern,Pljevlja,3,0,3,0
 2020-07-16,Central,Podgorica,317,2,24,0
 2020-07-16,Central,Cetinje,17,0,2,0
 2020-07-16,Central,Danilovgrad,6,0,0,0
@@ -2943,6 +3070,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-16,Northern,Rozaje,76,7,2,0
 2020-07-16,Northern,Savnik,5,0,5,0
 2020-07-16,Northern,Zabljak,0,0,0,0
+2020-07-16,Northern,Pljevlja,3,0,0,0
 2020-07-17,Central,Podgorica,345,2,28,0
 2020-07-17,Central,Cetinje,20,0,3,0
 2020-07-17,Central,Danilovgrad,7,0,1,0
@@ -2966,6 +3094,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-17,Northern,Rozaje,82,7,6,0
 2020-07-17,Northern,Savnik,6,0,1,0
 2020-07-17,Northern,Zabljak,0,0,0,0
+2020-07-17,Northern,Pljevlja,8,0,5,0
 2020-07-18,Central,Podgorica,361,2,16,0
 2020-07-18,Central,Cetinje,20,0,0,0
 2020-07-18,Central,Danilovgrad,8,0,1,0
@@ -2989,6 +3118,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-18,Northern,Rozaje,84,7,2,0
 2020-07-18,Northern,Savnik,10,0,4,0
 2020-07-18,Northern,Zabljak,0,0,0,0
+2020-07-18,Northern,Pljevlja,8,0,0,0
 2020-07-19,Central,Podgorica,361,2,0,0
 2020-07-19,Central,Cetinje,20,0,0,0
 2020-07-19,Central,Danilovgrad,8,0,0,0
@@ -3012,6 +3142,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-19,Northern,Rozaje,84,7,0,0
 2020-07-19,Northern,Savnik,10,0,0,0
 2020-07-19,Northern,Zabljak,0,0,0,0
+2020-07-19,Northern,Pljevlja,8,0,0,0
 2020-07-20,Central,Podgorica,398,2,37,0
 2020-07-20,Central,Cetinje,21,0,1,0
 2020-07-20,Central,Danilovgrad,8,0,0,0
@@ -3035,6 +3166,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-20,Northern,Rozaje,86,7,2,0
 2020-07-20,Northern,Savnik,10,0,0,0
 2020-07-20,Northern,Zabljak,0,0,0,0
+2020-07-20,Northern,Pljevlja,14,0,6,0
 2020-07-21,Central,Podgorica,434,2,36,0
 2020-07-21,Central,Cetinje,22,0,1,0
 2020-07-21,Central,Danilovgrad,8,0,0,0
@@ -3058,6 +3190,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-21,Northern,Rozaje,88,7,2,0
 2020-07-21,Northern,Savnik,10,0,0,0
 2020-07-21,Northern,Zabljak,0,0,0,0
+2020-07-21,Northern,Pljevlja,16,0,2,0
 2020-07-22,Central,Podgorica,455,2,21,0
 2020-07-22,Central,Cetinje,24,0,2,0
 2020-07-22,Central,Danilovgrad,8,0,0,0
@@ -3081,6 +3214,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-22,Northern,Rozaje,88,8,0,1
 2020-07-22,Northern,Savnik,10,0,0,0
 2020-07-22,Northern,Zabljak,0,1,0,1
+2020-07-22,Northern,Pljevlja,16,1,0,1
 2020-07-23,Central,Podgorica,516,3,61,1
 2020-07-23,Central,Cetinje,24,0,0,0
 2020-07-23,Central,Danilovgrad,9,0,1,0
@@ -3104,6 +3238,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-23,Northern,Rozaje,91,8,3,0
 2020-07-23,Northern,Savnik,10,0,0,0
 2020-07-23,Northern,Zabljak,0,1,0,0
+2020-07-23,Northern,Pljevlja,18,1,2,0
 2020-07-24,Central,Podgorica,555,4,39,1
 2020-07-24,Central,Cetinje,32,1,8,1
 2020-07-24,Central,Danilovgrad,9,0,0,0
@@ -3127,6 +3262,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-24,Northern,Rozaje,93,8,2,0
 2020-07-24,Northern,Savnik,10,0,0,0
 2020-07-24,Northern,Zabljak,0,1,0,0
+2020-07-24,Northern,Pljevlja,22,1,4,0
 2020-07-25,Central,Podgorica,597,4,42,0
 2020-07-25,Central,Cetinje,32,1,0,0
 2020-07-25,Central,Danilovgrad,9,0,0,0
@@ -3150,6 +3286,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-25,Northern,Rozaje,95,8,2,0
 2020-07-25,Northern,Savnik,10,0,0,0
 2020-07-25,Northern,Zabljak,0,1,0,0
+2020-07-25,Northern,Pljevlja,24,1,2,0
 2020-07-26,Central,Podgorica,613,4,16,0
 2020-07-26,Central,Cetinje,36,1,4,0
 2020-07-26,Central,Danilovgrad,9,0,0,0
@@ -3173,6 +3310,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-26,Northern,Rozaje,98,8,3,0
 2020-07-26,Northern,Savnik,10,0,0,0
 2020-07-26,Northern,Zabljak,0,1,0,0
+2020-07-26,Northern,Pljevlja,24,1,0,0
 2020-07-27,Central,Podgorica,652,5,39,1
 2020-07-27,Central,Cetinje,36,1,0,0
 2020-07-27,Central,Danilovgrad,9,0,0,0
@@ -3196,6 +3334,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-27,Northern,Rozaje,98,8,0,0
 2020-07-27,Northern,Savnik,10,0,0,0
 2020-07-27,Northern,Zabljak,0,1,0,0
+2020-07-27,Northern,Pljevlja,26,1,2,0
 2020-07-28,Central,Podgorica,674,5,22,0
 2020-07-28,Central,Cetinje,42,1,6,0
 2020-07-28,Central,Danilovgrad,10,0,1,0
@@ -3219,6 +3358,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-28,Northern,Rozaje,98,8,0,0
 2020-07-28,Northern,Savnik,10,0,0,0
 2020-07-28,Northern,Zabljak,0,1,0,0
+2020-07-28,Northern,Pljevlja,31,1,5,0
 2020-07-29,Central,Podgorica,694,5,20,0
 2020-07-29,Central,Cetinje,42,1,0,0
 2020-07-29,Central,Danilovgrad,10,0,0,0
@@ -3242,6 +3382,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-29,Northern,Rozaje,100,9,2,1
 2020-07-29,Northern,Savnik,10,0,0,0
 2020-07-29,Northern,Zabljak,0,1,0,0
+2020-07-29,Northern,Pljevlja,39,1,8,0
 2020-07-30,Central,Podgorica,724,5,30,0
 2020-07-30,Central,Cetinje,44,1,2,0
 2020-07-30,Central,Danilovgrad,11,0,1,0
@@ -3265,6 +3406,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-30,Northern,Rozaje,102,9,2,0
 2020-07-30,Northern,Savnik,10,0,0,0
 2020-07-30,Northern,Zabljak,0,1,0,0
+2020-07-30,Northern,Pljevlja,39,1,0,0
 2020-07-31,Central,Podgorica,740,5,16,0
 2020-07-31,Central,Cetinje,44,1,0,0
 2020-07-31,Central,Danilovgrad,12,0,1,0
@@ -3288,6 +3430,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-07-31,Northern,Rozaje,103,9,1,0
 2020-07-31,Northern,Savnik,10,0,0,0
 2020-07-31,Northern,Zabljak,0,1,0,0
+2020-07-31,Northern,Pljevlja,41,1,2,0
 2020-08-01,Central,Podgorica,767,5,27,0
 2020-08-01,Central,Cetinje,46,1,2,0
 2020-08-01,Central,Danilovgrad,12,1,0,1
@@ -3311,6 +3454,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-01,Northern,Rozaje,103,9,0,0
 2020-08-01,Northern,Savnik,10,0,0,0
 2020-08-01,Northern,Zabljak,0,1,0,0
+2020-08-01,Northern,Pljevlja,46,1,5,0
 2020-08-02,Central,Podgorica,797,6,30,1
 2020-08-02,Central,Cetinje,46,1,0,0
 2020-08-02,Central,Danilovgrad,12,1,0,0
@@ -3334,6 +3478,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-02,Northern,Rozaje,103,9,0,0
 2020-08-02,Northern,Savnik,10,0,0,0
 2020-08-02,Northern,Zabljak,0,1,0,0
+2020-08-02,Northern,Pljevlja,46,1,0,0
 2020-08-03,Central,Podgorica,821,7,24,1
 2020-08-03,Central,Cetinje,52,1,6,0
 2020-08-03,Central,Danilovgrad,13,1,1,0
@@ -3357,6 +3502,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-03,Northern,Rozaje,107,9,4,0
 2020-08-03,Northern,Savnik,10,0,0,0
 2020-08-03,Northern,Zabljak,0,1,0,0
+2020-08-03,Northern,Pljevlja,48,1,2,0
 2020-08-04,Central,Podgorica,847,7,26,0
 2020-08-04,Central,Cetinje,55,1,3,0
 2020-08-04,Central,Danilovgrad,13,1,0,0
@@ -3380,6 +3526,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-04,Northern,Rozaje,107,9,0,0
 2020-08-04,Northern,Savnik,10,0,0,0
 2020-08-04,Northern,Zabljak,0,1,0,0
+2020-08-04,Northern,Pljevlja,48,1,0,0
 2020-08-05,Central,Podgorica,870,8,23,1
 2020-08-05,Central,Cetinje,56,1,1,0
 2020-08-05,Central,Danilovgrad,13,1,0,0
@@ -3403,6 +3550,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-05,Northern,Rozaje,109,9,2,0
 2020-08-05,Northern,Savnik,10,0,0,0
 2020-08-05,Northern,Zabljak,0,1,0,0
+2020-08-05,Northern,Pljevlja,50,1,2,0
 2020-08-06,Central,Podgorica,893,8,23,0
 2020-08-06,Central,Cetinje,57,1,1,0
 2020-08-06,Central,Danilovgrad,13,1,0,0
@@ -3426,6 +3574,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-06,Northern,Rozaje,109,10,0,1
 2020-08-06,Northern,Savnik,10,0,0,0
 2020-08-06,Northern,Zabljak,0,1,0,0
+2020-08-06,Northern,Pljevlja,53,2,3,1
 2020-08-07,Central,Podgorica,929,8,36,0
 2020-08-07,Central,Cetinje,57,1,0,0
 2020-08-07,Central,Danilovgrad,13,1,0,0
@@ -3449,6 +3598,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-07,Northern,Rozaje,113,10,4,0
 2020-08-07,Northern,Savnik,10,0,0,0
 2020-08-07,Northern,Zabljak,0,1,0,0
+2020-08-07,Northern,Pljevlja,55,2,2,0
 2020-08-08,Central,Podgorica,951,9,22,1
 2020-08-08,Central,Cetinje,57,1,0,0
 2020-08-08,Central,Danilovgrad,13,1,0,0
@@ -3472,6 +3622,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-08,Northern,Rozaje,113,10,0,0
 2020-08-08,Northern,Savnik,10,0,0,0
 2020-08-08,Northern,Zabljak,0,1,0,0
+2020-08-08,Northern,Pljevlja,55,2,0,0
 2020-08-09,Central,Podgorica,966,9,15,0
 2020-08-09,Central,Cetinje,59,1,2,0
 2020-08-09,Central,Danilovgrad,13,1,0,0
@@ -3495,6 +3646,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-09,Northern,Rozaje,113,10,0,0
 2020-08-09,Northern,Savnik,10,0,0,0
 2020-08-09,Northern,Zabljak,0,1,0,0
+2020-08-09,Northern,Pljevlja,55,2,0,0
 2020-08-10,Central,Podgorica,1007,10,41,1
 2020-08-10,Central,Cetinje,59,1,0,0
 2020-08-10,Central,Danilovgrad,13,1,0,0
@@ -3518,6 +3670,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-10,Northern,Rozaje,113,11,0,1
 2020-08-10,Northern,Savnik,10,0,0,0
 2020-08-10,Northern,Zabljak,0,1,0,0
+2020-08-10,Northern,Pljevlja,56,3,1,1
 2020-08-11,Central,Podgorica,1028,10,21,0
 2020-08-11,Central,Cetinje,59,1,0,0
 2020-08-11,Central,Danilovgrad,13,1,0,0
@@ -3541,6 +3694,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-11,Northern,Rozaje,121,11,8,0
 2020-08-11,Northern,Savnik,10,0,0,0
 2020-08-11,Northern,Zabljak,0,1,0,0
+2020-08-11,Northern,Pljevlja,58,4,2,1
 2020-08-12,Central,Podgorica,1043,11,15,1
 2020-08-12,Central,Cetinje,60,1,1,0
 2020-08-12,Central,Danilovgrad,13,1,0,0
@@ -3564,6 +3718,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-12,Northern,Rozaje,129,11,8,0
 2020-08-12,Northern,Savnik,10,0,0,0
 2020-08-12,Northern,Zabljak,0,1,0,0
+2020-08-12,Northern,Pljevlja,58,4,0,0
 2020-08-13,Central,Podgorica,1062,11,19,0
 2020-08-13,Central,Cetinje,61,1,1,0
 2020-08-13,Central,Danilovgrad,13,1,0,0
@@ -3587,6 +3742,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-13,Northern,Rozaje,129,11,0,0
 2020-08-13,Northern,Savnik,10,0,0,0
 2020-08-13,Northern,Zabljak,0,1,0,0
+2020-08-13,Northern,Pljevlja,63,4,5,0
 2020-08-14,Central,Podgorica,1079,11,17,0
 2020-08-14,Central,Cetinje,61,1,0,0
 2020-08-14,Central,Danilovgrad,13,1,0,0
@@ -3610,6 +3766,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-14,Northern,Rozaje,139,11,10,0
 2020-08-14,Northern,Savnik,10,0,0,0
 2020-08-14,Northern,Zabljak,0,1,0,0
+2020-08-14,Northern,Pljevlja,64,4,1,0
 2020-08-15,Central,Podgorica,1087,12,8,1
 2020-08-15,Central,Cetinje,61,1,0,0
 2020-08-15,Central,Danilovgrad,13,1,0,0
@@ -3633,6 +3790,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-15,Northern,Rozaje,144,11,5,0
 2020-08-15,Northern,Savnik,10,0,0,0
 2020-08-15,Northern,Zabljak,0,1,0,0
+2020-08-15,Northern,Pljevlja,67,4,3,0
 2020-08-16,Central,Podgorica,1106,12,19,0
 2020-08-16,Central,Cetinje,61,1,0,0
 2020-08-16,Central,Danilovgrad,16,1,3,0
@@ -3656,6 +3814,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-16,Northern,Rozaje,149,11,5,0
 2020-08-16,Northern,Savnik,10,0,0,0
 2020-08-16,Northern,Zabljak,0,1,0,0
+2020-08-16,Northern,Pljevlja,67,5,0,1
 2020-08-17,Central,Podgorica,1122,12,16,0
 2020-08-17,Central,Cetinje,62,1,1,0
 2020-08-17,Central,Danilovgrad,16,1,0,0
@@ -3679,6 +3838,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-17,Northern,Rozaje,149,11,0,0
 2020-08-17,Northern,Savnik,10,0,0,0
 2020-08-17,Northern,Zabljak,0,1,0,0
+2020-08-17,Northern,Pljevlja,71,5,4,0
 2020-08-18,Central,Podgorica,1131,12,9,0
 2020-08-18,Central,Cetinje,63,1,1,0
 2020-08-18,Central,Danilovgrad,16,1,0,0
@@ -3702,6 +3862,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-18,Northern,Rozaje,157,11,8,0
 2020-08-18,Northern,Savnik,10,0,0,0
 2020-08-18,Northern,Zabljak,0,1,0,0
+2020-08-18,Northern,Pljevlja,71,5,0,0
 2020-08-19,Central,Podgorica,1146,12,15,0
 2020-08-19,Central,Cetinje,64,1,1,0
 2020-08-19,Central,Danilovgrad,16,1,0,0
@@ -3725,6 +3886,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-19,Northern,Rozaje,161,11,4,0
 2020-08-19,Northern,Savnik,10,0,0,0
 2020-08-19,Northern,Zabljak,0,1,0,0
+2020-08-19,Northern,Pljevlja,72,5,1,0
 2020-08-20,Central,Podgorica,1164,12,18,0
 2020-08-20,Central,Cetinje,65,1,1,0
 2020-08-20,Central,Danilovgrad,16,1,0,0
@@ -3748,6 +3910,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-20,Northern,Rozaje,162,11,1,0
 2020-08-20,Northern,Savnik,10,0,0,0
 2020-08-20,Northern,Zabljak,0,1,0,0
+2020-08-20,Northern,Pljevlja,73,5,1,0
 2020-08-21,Central,Podgorica,1187,12,23,0
 2020-08-21,Central,Cetinje,66,1,1,0
 2020-08-21,Central,Danilovgrad,16,1,0,0
@@ -3771,6 +3934,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-21,Northern,Rozaje,162,11,0,0
 2020-08-21,Northern,Savnik,10,0,0,0
 2020-08-21,Northern,Zabljak,0,1,0,0
+2020-08-21,Northern,Pljevlja,75,5,2,0
 2020-08-22,Central,Podgorica,1202,13,15,1
 2020-08-22,Central,Cetinje,66,1,0,0
 2020-08-22,Central,Danilovgrad,18,1,2,0
@@ -3794,6 +3958,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-22,Northern,Rozaje,166,11,4,0
 2020-08-22,Northern,Savnik,10,0,0,0
 2020-08-22,Northern,Zabljak,0,1,0,0
+2020-08-22,Northern,Pljevlja,75,5,0,0
 2020-08-23,Central,Podgorica,1207,13,5,0
 2020-08-23,Central,Cetinje,67,1,1,0
 2020-08-23,Central,Danilovgrad,18,1,0,0
@@ -3817,6 +3982,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-23,Northern,Rozaje,166,11,0,0
 2020-08-23,Northern,Savnik,10,0,0,0
 2020-08-23,Northern,Zabljak,0,1,0,0
+2020-08-23,Northern,Pljevlja,75,5,0,0
 2020-08-24,Central,Podgorica,1224,13,17,0
 2020-08-24,Central,Cetinje,69,1,2,0
 2020-08-24,Central,Danilovgrad,18,1,0,0
@@ -3840,6 +4006,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-24,Northern,Rozaje,166,11,0,0
 2020-08-24,Northern,Savnik,10,0,0,0
 2020-08-24,Northern,Zabljak,0,1,0,0
+2020-08-24,Northern,Pljevlja,76,5,1,0
 2020-08-25,Central,Podgorica,1250,13,26,0
 2020-08-25,Central,Cetinje,69,1,0,0
 2020-08-25,Central,Danilovgrad,18,1,0,0
@@ -3863,6 +4030,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-25,Northern,Rozaje,185,11,19,0
 2020-08-25,Northern,Savnik,10,0,0,0
 2020-08-25,Northern,Zabljak,0,1,0,0
+2020-08-25,Northern,Pljevlja,79,5,3,0
 2020-08-26,Central,Podgorica,1267,13,17,0
 2020-08-26,Central,Cetinje,69,1,0,0
 2020-08-26,Central,Danilovgrad,18,1,0,0
@@ -3886,6 +4054,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-26,Northern,Rozaje,188,11,3,0
 2020-08-26,Northern,Savnik,10,0,0,0
 2020-08-26,Northern,Zabljak,0,1,0,0
+2020-08-26,Northern,Pljevlja,79,5,0,0
 2020-08-27,Central,Podgorica,1297,13,30,0
 2020-08-27,Central,Cetinje,69,1,0,0
 2020-08-27,Central,Danilovgrad,18,1,0,0
@@ -3909,6 +4078,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-27,Northern,Rozaje,189,11,1,0
 2020-08-27,Northern,Savnik,10,0,0,0
 2020-08-27,Northern,Zabljak,0,1,0,0
+2020-08-27,Northern,Pljevlja,80,5,1,0
 2020-08-28,Central,Podgorica,1327,13,30,0
 2020-08-28,Central,Cetinje,70,1,1,0
 2020-08-28,Central,Danilovgrad,18,1,0,0
@@ -3932,6 +4102,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-28,Northern,Rozaje,212,11,23,0
 2020-08-28,Northern,Savnik,10,0,0,0
 2020-08-28,Northern,Zabljak,0,1,0,0
+2020-08-28,Northern,Pljevlja,81,5,1,0
 2020-08-29,Central,Podgorica,1339,13,12,0
 2020-08-29,Central,Cetinje,76,1,6,0
 2020-08-29,Central,Danilovgrad,18,1,0,0
@@ -3955,6 +4126,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-29,Northern,Rozaje,225,11,13,0
 2020-08-29,Northern,Savnik,10,0,0,0
 2020-08-29,Northern,Zabljak,0,1,0,0
+2020-08-29,Northern,Pljevlja,84,5,3,0
 2020-08-30,Central,Podgorica,1364,16,25,3
 2020-08-30,Central,Cetinje,77,1,1,0
 2020-08-30,Central,Danilovgrad,18,1,0,0
@@ -3978,6 +4150,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-30,Northern,Rozaje,225,11,0,0
 2020-08-30,Northern,Savnik,10,0,0,0
 2020-08-30,Northern,Zabljak,0,1,0,0
+2020-08-30,Northern,Pljevlja,87,5,3,0
 2020-08-31,Central,Podgorica,1392,16,28,0
 2020-08-31,Central,Cetinje,77,1,0,0
 2020-08-31,Central,Danilovgrad,18,1,0,0
@@ -4001,6 +4174,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-08-31,Northern,Rozaje,228,11,3,0
 2020-08-31,Northern,Savnik,10,0,0,0
 2020-08-31,Northern,Zabljak,0,1,0,0
+2020-08-31,Northern,Pljevlja,87,5,0,0
 2020-09-01,Central,Podgorica,1410,16,18,0
 2020-09-01,Central,Cetinje,78,1,1,0
 2020-09-01,Central,Danilovgrad,18,1,0,0
@@ -4024,6 +4198,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-01,Northern,Rozaje,234,11,6,0
 2020-09-01,Northern,Savnik,10,0,0,0
 2020-09-01,Northern,Zabljak,0,1,0,0
+2020-09-01,Northern,Pljevlja,91,5,4,0
 2020-09-02,Central,Podgorica,1450,17,40,1
 2020-09-02,Central,Cetinje,81,1,3,0
 2020-09-02,Central,Danilovgrad,18,1,0,0
@@ -4047,6 +4222,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-02,Northern,Rozaje,254,11,20,0
 2020-09-02,Northern,Savnik,10,0,0,0
 2020-09-02,Northern,Zabljak,0,1,0,0
+2020-09-02,Northern,Pljevlja,93,5,2,0
 2020-09-03,Central,Podgorica,1482,17,32,0
 2020-09-03,Central,Cetinje,82,1,1,0
 2020-09-03,Central,Danilovgrad,18,1,0,0
@@ -4070,6 +4246,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-03,Northern,Rozaje,260,11,6,0
 2020-09-03,Northern,Savnik,10,0,0,0
 2020-09-03,Northern,Zabljak,0,1,0,0
+2020-09-03,Northern,Pljevlja,96,5,3,0
 2020-09-04,Central,Podgorica,1520,17,38,0
 2020-09-04,Central,Cetinje,83,1,1,0
 2020-09-04,Central,Danilovgrad,19,1,1,0
@@ -4093,6 +4270,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-04,Northern,Rozaje,276,12,16,1
 2020-09-04,Northern,Savnik,10,0,0,0
 2020-09-04,Northern,Zabljak,0,1,0,0
+2020-09-04,Northern,Pljevlja,98,5,2,0
 2020-09-05,Central,Podgorica,1555,17,35,0
 2020-09-05,Central,Cetinje,83,1,0,0
 2020-09-05,Central,Danilovgrad,19,1,0,0
@@ -4116,6 +4294,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-05,Northern,Rozaje,277,12,1,0
 2020-09-05,Northern,Savnik,10,0,0,0
 2020-09-05,Northern,Zabljak,0,1,0,0
+2020-09-05,Northern,Pljevlja,98,5,0,0
 2020-09-06,Central,Podgorica,1593,17,38,0
 2020-09-06,Central,Cetinje,85,1,2,0
 2020-09-06,Central,Danilovgrad,19,1,0,0
@@ -4139,6 +4318,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-06,Northern,Rozaje,281,12,4,0
 2020-09-06,Northern,Savnik,10,0,0,0
 2020-09-06,Northern,Zabljak,0,1,0,0
+2020-09-06,Northern,Pljevlja,100,5,2,0
 2020-09-07,Central,Podgorica,1611,17,18,0
 2020-09-07,Central,Cetinje,86,1,1,0
 2020-09-07,Central,Danilovgrad,19,1,0,0
@@ -4162,6 +4342,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-07,Northern,Rozaje,294,12,13,0
 2020-09-07,Northern,Savnik,10,0,0,0
 2020-09-07,Northern,Zabljak,0,1,0,0
+2020-09-07,Northern,Pljevlja,104,5,4,0
 2020-09-08,Central,Podgorica,1684,17,73,0
 2020-09-08,Central,Cetinje,88,1,2,0
 2020-09-08,Central,Danilovgrad,19,1,0,0
@@ -4185,6 +4366,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-08,Northern,Rozaje,307,12,13,0
 2020-09-08,Northern,Savnik,10,0,0,0
 2020-09-08,Northern,Zabljak,0,1,0,0
+2020-09-08,Northern,Pljevlja,112,6,8,1
 2020-09-09,Central,Podgorica,1724,17,40,0
 2020-09-09,Central,Cetinje,92,2,4,1
 2020-09-09,Central,Danilovgrad,19,1,0,0
@@ -4208,6 +4390,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-09,Northern,Rozaje,337,12,30,0
 2020-09-09,Northern,Savnik,10,0,0,0
 2020-09-09,Northern,Zabljak,0,1,0,0
+2020-09-09,Northern,Pljevlja,119,7,7,1
 2020-09-10,Central,Podgorica,1770,17,46,0
 2020-09-10,Central,Cetinje,92,2,0,0
 2020-09-10,Central,Danilovgrad,19,1,0,0
@@ -4231,6 +4414,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-10,Northern,Rozaje,339,12,2,0
 2020-09-10,Northern,Savnik,10,0,0,0
 2020-09-10,Northern,Zabljak,0,1,0,0
+2020-09-10,Northern,Pljevlja,120,7,1,0
 2020-09-11,Central,Podgorica,1803,17,33,0
 2020-09-11,Central,Cetinje,96,2,4,0
 2020-09-11,Central,Danilovgrad,19,1,0,0
@@ -4254,6 +4438,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-11,Northern,Rozaje,339,12,0,0
 2020-09-11,Northern,Savnik,10,0,0,0
 2020-09-11,Northern,Zabljak,0,1,0,0
+2020-09-11,Northern,Pljevlja,132,7,12,0
 2020-09-12,Central,Podgorica,1826,19,23,2
 2020-09-12,Central,Cetinje,101,2,5,0
 2020-09-12,Central,Danilovgrad,20,1,1,0
@@ -4277,6 +4462,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-12,Northern,Rozaje,354,12,15,0
 2020-09-12,Northern,Savnik,10,0,0,0
 2020-09-12,Northern,Zabljak,0,1,0,0
+2020-09-12,Northern,Pljevlja,139,7,7,0
 2020-09-13,Central,Podgorica,1880,19,54,0
 2020-09-13,Central,Cetinje,101,2,0,0
 2020-09-13,Central,Danilovgrad,20,1,0,0
@@ -4300,6 +4486,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-13,Northern,Rozaje,364,12,10,0
 2020-09-13,Northern,Savnik,10,0,0,0
 2020-09-13,Northern,Zabljak,0,1,0,0
+2020-09-13,Northern,Pljevlja,139,7,0,0
 2020-09-14,Central,Podgorica,1909,20,29,1
 2020-09-14,Central,Cetinje,101,2,0,0
 2020-09-14,Central,Danilovgrad,20,1,0,0
@@ -4323,6 +4510,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-14,Northern,Rozaje,376,12,12,0
 2020-09-14,Northern,Savnik,10,0,0,0
 2020-09-14,Northern,Zabljak,0,1,0,0
+2020-09-14,Northern,Pljevlja,141,7,2,0
 2020-09-15,Central,Podgorica,1967,20,58,0
 2020-09-15,Central,Cetinje,102,2,1,0
 2020-09-15,Central,Danilovgrad,21,1,1,0
@@ -4346,6 +4534,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-15,Northern,Rozaje,387,12,11,0
 2020-09-15,Northern,Savnik,10,0,0,0
 2020-09-15,Northern,Zabljak,0,1,0,0
+2020-09-15,Northern,Pljevlja,158,7,17,0
 2020-09-16,Central,Podgorica,2046,21,79,1
 2020-09-16,Central,Cetinje,114,2,12,0
 2020-09-16,Central,Danilovgrad,21,1,0,0
@@ -4369,6 +4558,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-16,Northern,Rozaje,387,12,0,0
 2020-09-16,Northern,Savnik,10,0,0,0
 2020-09-16,Northern,Zabljak,0,1,0,0
+2020-09-16,Northern,Pljevlja,158,8,0,1
 2020-09-17,Central,Podgorica,2110,22,64,1
 2020-09-17,Central,Cetinje,117,2,3,0
 2020-09-17,Central,Danilovgrad,22,1,1,0
@@ -4392,6 +4582,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-17,Northern,Rozaje,403,12,16,0
 2020-09-17,Northern,Savnik,10,0,0,0
 2020-09-17,Northern,Zabljak,0,1,0,0
+2020-09-17,Northern,Pljevlja,162,8,4,0
 2020-09-18,Central,Podgorica,2166,23,56,1
 2020-09-18,Central,Cetinje,117,2,0,0
 2020-09-18,Central,Danilovgrad,22,1,0,0
@@ -4415,6 +4606,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-18,Northern,Rozaje,403,12,0,0
 2020-09-18,Northern,Savnik,10,0,0,0
 2020-09-18,Northern,Zabljak,0,1,0,0
+2020-09-18,Northern,Pljevlja,189,8,27,0
 2020-09-19,Central,Podgorica,2235,23,69,0
 2020-09-19,Central,Cetinje,119,2,2,0
 2020-09-19,Central,Danilovgrad,22,1,0,0
@@ -4438,6 +4630,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-19,Northern,Rozaje,426,12,23,0
 2020-09-19,Northern,Savnik,10,0,0,0
 2020-09-19,Northern,Zabljak,0,1,0,0
+2020-09-19,Northern,Pljevlja,202,9,13,1
 2020-09-20,Central,Podgorica,2283,23,48,0
 2020-09-20,Central,Cetinje,123,2,4,0
 2020-09-20,Central,Danilovgrad,22,1,0,0
@@ -4461,6 +4654,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-20,Northern,Rozaje,436,13,10,1
 2020-09-20,Northern,Savnik,10,0,0,0
 2020-09-20,Northern,Zabljak,0,1,0,0
+2020-09-20,Northern,Pljevlja,224,9,22,0
 2020-09-21,Central,Podgorica,2360,23,77,0
 2020-09-21,Central,Cetinje,128,2,5,0
 2020-09-21,Central,Danilovgrad,25,1,3,0
@@ -4484,6 +4678,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-21,Northern,Rozaje,456,13,20,0
 2020-09-21,Northern,Savnik,10,0,0,0
 2020-09-21,Northern,Zabljak,0,1,0,0
+2020-09-21,Northern,Pljevlja,228,9,4,0
 2020-09-22,Central,Podgorica,2442,23,82,0
 2020-09-22,Central,Cetinje,138,2,10,0
 2020-09-22,Central,Danilovgrad,25,1,0,0
@@ -4507,6 +4702,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-22,Northern,Rozaje,465,13,9,0
 2020-09-22,Northern,Savnik,10,0,0,0
 2020-09-22,Northern,Zabljak,0,1,0,0
+2020-09-22,Northern,Pljevlja,266,10,38,1
 2020-09-23,Central,Podgorica,2548,23,106,0
 2020-09-23,Central,Cetinje,145,2,7,0
 2020-09-23,Central,Danilovgrad,25,1,0,0
@@ -4530,6 +4726,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-23,Northern,Rozaje,475,13,10,0
 2020-09-23,Northern,Savnik,10,0,0,0
 2020-09-23,Northern,Zabljak,0,1,0,0
+2020-09-23,Northern,Pljevlja,283,10,17,0
 2020-09-24,Central,Podgorica,2637,24,89,1
 2020-09-24,Central,Cetinje,152,2,7,0
 2020-09-24,Central,Danilovgrad,25,1,0,0
@@ -4553,6 +4750,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-24,Northern,Rozaje,506,13,31,0
 2020-09-24,Northern,Savnik,10,0,0,0
 2020-09-24,Northern,Zabljak,0,1,0,0
+2020-09-24,Northern,Pljevlja,301,10,18,0
 2020-09-25,Central,Podgorica,2716,24,79,0
 2020-09-25,Central,Cetinje,156,2,4,0
 2020-09-25,Central,Danilovgrad,25,1,0,0
@@ -4576,6 +4774,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-25,Northern,Rozaje,514,13,8,0
 2020-09-25,Northern,Savnik,10,0,0,0
 2020-09-25,Northern,Zabljak,0,1,0,0
+2020-09-25,Northern,Pljevlja,306,10,5,0
 2020-09-26,Central,Podgorica,2788,25,72,1
 2020-09-26,Central,Cetinje,164,2,8,0
 2020-09-26,Central,Danilovgrad,26,1,1,0
@@ -4599,6 +4798,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-26,Northern,Rozaje,516,14,2,1
 2020-09-26,Northern,Savnik,10,0,0,0
 2020-09-26,Northern,Zabljak,0,1,0,0
+2020-09-26,Northern,Pljevlja,323,10,17,0
 2020-09-27,Central,Podgorica,2830,25,42,0
 2020-09-27,Central,Cetinje,167,2,3,0
 2020-09-27,Central,Danilovgrad,26,1,0,0
@@ -4622,6 +4822,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-27,Northern,Rozaje,516,14,0,0
 2020-09-27,Northern,Savnik,10,0,0,0
 2020-09-27,Northern,Zabljak,0,1,0,0
+2020-09-27,Northern,Pljevlja,326,10,3,0
 2020-09-28,Central,Podgorica,2844,25,14,0
 2020-09-28,Central,Cetinje,168,2,1,0
 2020-09-28,Central,Danilovgrad,27,2,1,1
@@ -4645,6 +4846,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-28,Northern,Rozaje,524,14,8,0
 2020-09-28,Northern,Savnik,10,0,0,0
 2020-09-28,Northern,Zabljak,1,1,1,0
+2020-09-28,Northern,Pljevlja,327,11,1,1
 2020-09-29,Central,Podgorica,2895,25,51,0
 2020-09-29,Central,Cetinje,175,2,7,0
 2020-09-29,Central,Danilovgrad,27,2,0,0
@@ -4668,6 +4870,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-29,Northern,Rozaje,530,14,6,0
 2020-09-29,Northern,Savnik,10,0,0,0
 2020-09-29,Northern,Zabljak,1,1,0,0
+2020-09-29,Northern,Pljevlja,360,11,33,0
 2020-09-30,Central,Podgorica,2961,25,66,0
 2020-09-30,Central,Cetinje,178,2,3,0
 2020-09-30,Central,Danilovgrad,27,2,0,0
@@ -4691,6 +4894,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-09-30,Northern,Rozaje,530,16,0,2
 2020-09-30,Northern,Savnik,10,0,0,0
 2020-09-30,Northern,Zabljak,1,1,0,0
+2020-09-30,Northern,Pljevlja,360,11,0,0
 2020-10-01,Central,Podgorica,3058,26,97,1
 2020-10-01,Central,Cetinje,178,2,0,0
 2020-10-01,Central,Danilovgrad,28,2,1,0
@@ -4714,6 +4918,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-01,Northern,Rozaje,535,16,5,0
 2020-10-01,Northern,Savnik,10,0,0,0
 2020-10-01,Northern,Zabljak,2,1,1,0
+2020-10-01,Northern,Pljevlja,365,11,5,0
 2020-10-02,Central,Podgorica,3109,27,51,1
 2020-10-02,Central,Cetinje,186,2,8,0
 2020-10-02,Central,Danilovgrad,28,2,0,0
@@ -4737,6 +4942,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-02,Northern,Rozaje,535,16,0,0
 2020-10-02,Northern,Savnik,10,0,0,0
 2020-10-02,Northern,Zabljak,2,1,0,0
+2020-10-02,Northern,Pljevlja,374,11,9,0
 2020-10-03,Central,Podgorica,3185,27,76,0
 2020-10-03,Central,Cetinje,191,2,5,0
 2020-10-03,Central,Danilovgrad,28,2,0,0
@@ -4760,6 +4966,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-03,Northern,Rozaje,554,16,19,0
 2020-10-03,Northern,Savnik,10,0,0,0
 2020-10-03,Northern,Zabljak,2,1,0,0
+2020-10-03,Northern,Pljevlja,400,11,26,0
 2020-10-04,Central,Podgorica,3257,29,72,2
 2020-10-04,Central,Cetinje,199,2,8,0
 2020-10-04,Central,Danilovgrad,29,2,1,0
@@ -4783,6 +4990,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-04,Northern,Rozaje,572,16,18,0
 2020-10-04,Northern,Savnik,10,0,0,0
 2020-10-04,Northern,Zabljak,6,1,4,0
+2020-10-04,Northern,Pljevlja,406,12,6,1
 2020-10-05,Central,Podgorica,3364,29,107,0
 2020-10-05,Central,Cetinje,210,2,11,0
 2020-10-05,Central,Danilovgrad,29,2,0,0
@@ -4806,6 +5014,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-05,Northern,Rozaje,572,17,0,1
 2020-10-05,Northern,Savnik,10,0,0,0
 2020-10-05,Northern,Zabljak,6,1,0,0
+2020-10-05,Northern,Pljevlja,447,12,41,0
 2020-10-06,Central,Podgorica,3460,29,96,0
 2020-10-06,Central,Cetinje,214,2,4,0
 2020-10-06,Central,Danilovgrad,30,2,1,0
@@ -4829,6 +5038,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-06,Northern,Rozaje,576,19,4,2
 2020-10-06,Northern,Savnik,10,0,0,0
 2020-10-06,Northern,Zabljak,6,1,0,0
+2020-10-06,Northern,Pljevlja,477,13,30,1
 2020-10-07,Central,Podgorica,3520,29,60,0
 2020-10-07,Central,Cetinje,219,2,5,0
 2020-10-07,Central,Danilovgrad,30,2,0,0
@@ -4852,6 +5062,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-07,Northern,Rozaje,603,19,27,0
 2020-10-07,Northern,Savnik,11,0,1,0
 2020-10-07,Northern,Zabljak,6,1,0,0
+2020-10-07,Northern,Pljevlja,494,13,17,0
 2020-10-08,Central,Podgorica,3597,30,77,1
 2020-10-08,Central,Cetinje,239,2,20,0
 2020-10-08,Central,Danilovgrad,33,2,3,0
@@ -4875,6 +5086,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-08,Northern,Rozaje,603,19,0,0
 2020-10-08,Northern,Savnik,11,0,0,0
 2020-10-08,Northern,Zabljak,6,1,0,0
+2020-10-08,Northern,Pljevlja,494,13,0,0
 2020-10-09,Central,Podgorica,3766,30,169,0
 2020-10-09,Central,Cetinje,250,2,11,0
 2020-10-09,Central,Danilovgrad,40,2,7,0
@@ -4898,6 +5110,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-09,Northern,Rozaje,616,19,13,0
 2020-10-09,Northern,Savnik,11,0,0,0
 2020-10-09,Northern,Zabljak,6,1,0,0
+2020-10-09,Northern,Pljevlja,525,13,31,0
 2020-10-10,Central,Podgorica,3849,30,83,0
 2020-10-10,Central,Cetinje,260,3,10,1
 2020-10-10,Central,Danilovgrad,42,2,2,0
@@ -4921,6 +5134,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-10,Northern,Rozaje,616,19,0,0
 2020-10-10,Northern,Savnik,11,0,0,0
 2020-10-10,Northern,Zabljak,13,1,7,0
+2020-10-10,Northern,Pljevlja,525,14,0,1
 2020-10-11,Central,Podgorica,3967,30,118,0
 2020-10-11,Central,Cetinje,268,4,8,1
 2020-10-11,Central,Danilovgrad,42,2,0,0
@@ -4944,6 +5158,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-11,Northern,Rozaje,627,19,11,0
 2020-10-11,Northern,Savnik,11,0,0,0
 2020-10-11,Northern,Zabljak,13,2,0,1
+2020-10-11,Northern,Pljevlja,540,14,15,0
 2020-10-12,Central,Podgorica,4042,31,75,1
 2020-10-12,Central,Cetinje,279,4,11,0
 2020-10-12,Central,Danilovgrad,42,2,0,0
@@ -4967,6 +5182,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-12,Northern,Rozaje,639,19,12,0
 2020-10-12,Northern,Savnik,11,0,0,0
 2020-10-12,Northern,Zabljak,13,3,0,1
+2020-10-12,Northern,Pljevlja,548,15,8,1
 2020-10-13,Central,Podgorica,4186,32,144,1
 2020-10-13,Central,Cetinje,303,4,24,0
 2020-10-13,Central,Danilovgrad,44,2,2,0
@@ -4990,6 +5206,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-13,Northern,Rozaje,639,19,0,0
 2020-10-13,Northern,Savnik,11,0,0,0
 2020-10-13,Northern,Zabljak,13,3,0,0
+2020-10-13,Northern,Pljevlja,565,15,17,0
 2020-10-14,Central,Podgorica,4306,32,120,0
 2020-10-14,Central,Cetinje,306,4,3,0
 2020-10-14,Central,Danilovgrad,44,2,0,0
@@ -5013,6 +5230,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-14,Northern,Rozaje,651,19,12,0
 2020-10-14,Northern,Savnik,11,0,0,0
 2020-10-14,Northern,Zabljak,29,3,16,0
+2020-10-14,Northern,Pljevlja,582,15,17,0
 2020-10-15,Central,Podgorica,4399,35,93,3
 2020-10-15,Central,Cetinje,306,4,0,0
 2020-10-15,Central,Danilovgrad,44,2,0,0
@@ -5036,6 +5254,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-15,Northern,Rozaje,651,19,0,0
 2020-10-15,Northern,Savnik,11,0,0,0
 2020-10-15,Northern,Zabljak,30,3,1,0
+2020-10-15,Northern,Pljevlja,582,15,0,0
 2020-10-16,Central,Podgorica,4399,35,0,0
 2020-10-16,Central,Cetinje,306,4,0,0
 2020-10-16,Central,Danilovgrad,44,2,0,0
@@ -5059,6 +5278,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-16,Northern,Rozaje,651,19,0,0
 2020-10-16,Northern,Savnik,11,0,0,0
 2020-10-16,Northern,Zabljak,30,3,0,0
+2020-10-16,Northern,Pljevlja,582,15,0,0
 2020-10-17,Central,Podgorica,4443,35,44,0
 2020-10-17,Central,Cetinje,307,4,1,0
 2020-10-17,Central,Danilovgrad,44,2,0,0
@@ -5082,6 +5302,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-17,Northern,Rozaje,652,20,1,1
 2020-10-17,Northern,Savnik,11,0,0,0
 2020-10-17,Northern,Zabljak,30,3,0,0
+2020-10-17,Northern,Pljevlja,583,15,1,0
 2020-10-18,Central,Podgorica,4512,35,69,0
 2020-10-18,Central,Cetinje,308,4,1,0
 2020-10-18,Central,Danilovgrad,47,2,3,0
@@ -5105,6 +5326,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-18,Northern,Rozaje,655,20,3,0
 2020-10-18,Northern,Savnik,11,0,0,0
 2020-10-18,Northern,Zabljak,30,3,0,0
+2020-10-18,Northern,Pljevlja,584,15,1,0
 2020-10-19,Central,Podgorica,4577,36,65,1
 2020-10-19,Central,Cetinje,319,4,11,0
 2020-10-19,Central,Danilovgrad,47,2,0,0
@@ -5128,6 +5350,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-19,Northern,Rozaje,659,20,4,0
 2020-10-19,Northern,Savnik,11,0,0,0
 2020-10-19,Northern,Zabljak,30,4,0,1
+2020-10-19,Northern,Pljevlja,591,16,7,1
 2020-10-20,Central,Podgorica,4631,38,54,2
 2020-10-20,Central,Cetinje,319,4,0,0
 2020-10-20,Central,Danilovgrad,47,2,0,0
@@ -5151,6 +5374,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-20,Northern,Rozaje,665,20,6,0
 2020-10-20,Northern,Savnik,11,0,0,0
 2020-10-20,Northern,Zabljak,30,5,0,1
+2020-10-20,Northern,Pljevlja,597,16,6,0
 2020-10-21,Central,Podgorica,4730,39,99,1
 2020-10-21,Central,Cetinje,329,4,10,0
 2020-10-21,Central,Danilovgrad,49,2,2,0
@@ -5174,6 +5398,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-21,Northern,Rozaje,665,20,0,0
 2020-10-21,Northern,Savnik,11,0,0,0
 2020-10-21,Northern,Zabljak,32,5,2,0
+2020-10-21,Northern,Pljevlja,598,16,1,0
 2020-10-22,Central,Podgorica,4851,39,121,0
 2020-10-22,Central,Cetinje,337,5,8,1
 2020-10-22,Central,Danilovgrad,49,2,0,0
@@ -5197,6 +5422,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-22,Northern,Rozaje,669,20,4,0
 2020-10-22,Northern,Savnik,11,0,0,0
 2020-10-22,Northern,Zabljak,34,5,2,0
+2020-10-22,Northern,Pljevlja,603,17,5,1
 2020-10-23,Central,Podgorica,4920,40,69,1
 2020-10-23,Central,Cetinje,338,5,1,0
 2020-10-23,Central,Danilovgrad,49,2,0,0
@@ -5220,6 +5446,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-23,Northern,Rozaje,672,20,3,0
 2020-10-23,Northern,Savnik,11,0,0,0
 2020-10-23,Northern,Zabljak,34,5,0,0
+2020-10-23,Northern,Pljevlja,617,17,14,0
 2020-10-24,Central,Podgorica,4997,41,77,1
 2020-10-24,Central,Cetinje,342,6,4,1
 2020-10-24,Central,Danilovgrad,50,2,1,0
@@ -5243,6 +5470,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-24,Northern,Rozaje,672,20,0,0
 2020-10-24,Northern,Savnik,11,0,0,0
 2020-10-24,Northern,Zabljak,46,5,12,0
+2020-10-24,Northern,Pljevlja,636,18,19,1
 2020-10-25,Central,Podgorica,5109,41,112,0
 2020-10-25,Central,Cetinje,343,6,1,0
 2020-10-25,Central,Danilovgrad,50,2,0,0
@@ -5266,6 +5494,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-25,Northern,Rozaje,672,20,0,0
 2020-10-25,Northern,Savnik,11,0,0,0
 2020-10-25,Northern,Zabljak,56,5,10,0
+2020-10-25,Northern,Pljevlja,645,19,9,1
 2020-10-26,Central,Podgorica,5169,42,60,1
 2020-10-26,Central,Cetinje,354,6,11,0
 2020-10-26,Central,Danilovgrad,50,2,0,0
@@ -5289,6 +5518,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-26,Northern,Rozaje,673,20,1,0
 2020-10-26,Northern,Savnik,11,0,0,0
 2020-10-26,Northern,Zabljak,56,5,0,0
+2020-10-26,Northern,Pljevlja,645,19,0,0
 2020-10-27,Central,Podgorica,5260,43,91,1
 2020-10-27,Central,Cetinje,363,6,9,0
 2020-10-27,Central,Danilovgrad,51,2,1,0
@@ -5312,6 +5542,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-27,Northern,Rozaje,673,20,0,0
 2020-10-27,Northern,Savnik,11,0,0,0
 2020-10-27,Northern,Zabljak,57,5,1,0
+2020-10-27,Northern,Pljevlja,645,19,0,0
 2020-10-28,Central,Podgorica,5422,45,162,2
 2020-10-28,Central,Cetinje,366,6,3,0
 2020-10-28,Central,Danilovgrad,54,2,3,0
@@ -5335,6 +5566,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-28,Northern,Rozaje,677,20,4,0
 2020-10-28,Northern,Savnik,11,0,0,0
 2020-10-28,Northern,Zabljak,58,5,1,0
+2020-10-28,Northern,Pljevlja,653,19,8,0
 2020-10-29,Central,Podgorica,5592,45,170,0
 2020-10-29,Central,Cetinje,394,6,28,0
 2020-10-29,Central,Danilovgrad,56,2,2,0
@@ -5358,6 +5590,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-29,Northern,Rozaje,686,20,9,0
 2020-10-29,Northern,Savnik,11,0,0,0
 2020-10-29,Northern,Zabljak,58,5,0,0
+2020-10-29,Northern,Pljevlja,674,19,21,0
 2020-10-30,Central,Podgorica,5792,45,200,0
 2020-10-30,Central,Cetinje,399,7,5,1
 2020-10-30,Central,Danilovgrad,57,2,1,0
@@ -5381,6 +5614,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-30,Northern,Rozaje,686,20,0,0
 2020-10-30,Northern,Savnik,11,0,0,0
 2020-10-30,Northern,Zabljak,59,5,1,0
+2020-10-30,Northern,Pljevlja,678,19,4,0
 2020-10-31,Central,Podgorica,5907,45,115,0
 2020-10-31,Central,Cetinje,419,7,20,0
 2020-10-31,Central,Danilovgrad,57,2,0,0
@@ -5404,6 +5638,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-10-31,Northern,Rozaje,690,20,4,0
 2020-10-31,Northern,Savnik,11,0,0,0
 2020-10-31,Northern,Zabljak,59,5,0,0
+2020-10-31,Northern,Pljevlja,679,19,1,0
 2020-11-01,Central,Podgorica,6093,46,186,1
 2020-11-01,Central,Cetinje,430,7,11,0
 2020-11-01,Central,Danilovgrad,58,2,1,0
@@ -5427,6 +5662,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-01,Northern,Rozaje,699,20,9,0
 2020-11-01,Northern,Savnik,11,0,0,0
 2020-11-01,Northern,Zabljak,59,5,0,0
+2020-11-01,Northern,Pljevlja,681,20,2,1
 2020-11-02,Central,Podgorica,6318,48,225,2
 2020-11-02,Central,Cetinje,447,7,17,0
 2020-11-02,Central,Danilovgrad,60,2,2,0
@@ -5450,6 +5686,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-02,Northern,Rozaje,705,20,6,0
 2020-11-02,Northern,Savnik,11,0,0,0
 2020-11-02,Northern,Zabljak,59,5,0,0
+2020-11-02,Northern,Pljevlja,690,20,9,0
 2020-11-03,Central,Podgorica,6559,48,241,0
 2020-11-03,Central,Cetinje,466,7,19,0
 2020-11-03,Central,Danilovgrad,64,2,4,0
@@ -5473,6 +5710,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-03,Northern,Rozaje,705,20,0,0
 2020-11-03,Northern,Savnik,11,0,0,0
 2020-11-03,Northern,Zabljak,59,5,0,0
+2020-11-03,Northern,Pljevlja,697,20,7,0
 2020-11-04,Central,Podgorica,7007,49,448,1
 2020-11-04,Central,Cetinje,494,7,28,0
 2020-11-04,Central,Danilovgrad,65,2,1,0
@@ -5496,6 +5734,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-04,Northern,Rozaje,732,20,27,0
 2020-11-04,Northern,Savnik,11,0,0,0
 2020-11-04,Northern,Zabljak,69,5,10,0
+2020-11-04,Northern,Pljevlja,724,20,27,0
 2020-11-05,Central,Podgorica,7255,49,248,0
 2020-11-05,Central,Cetinje,535,7,41,0
 2020-11-05,Central,Danilovgrad,72,2,7,0
@@ -5519,6 +5758,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-05,Northern,Rozaje,748,20,16,0
 2020-11-05,Northern,Savnik,12,0,1,0
 2020-11-05,Northern,Zabljak,69,5,0,0
+2020-11-05,Northern,Pljevlja,740,20,16,0
 2020-11-06,Central,Podgorica,7542,49,287,0
 2020-11-06,Central,Cetinje,560,7,25,0
 2020-11-06,Central,Danilovgrad,72,2,0,0
@@ -5542,6 +5782,7 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-06,Northern,Rozaje,756,20,8,0
 2020-11-06,Northern,Savnik,12,0,0,0
 2020-11-06,Northern,Zabljak,70,5,1,0
+2020-11-06,Northern,Pljevlja,760,20,20,0
 2020-11-07,Central,Podgorica,7662,52,120,3
 2020-11-07,Central,Cetinje,575,7,15,0
 2020-11-07,Central,Danilovgrad,72,2,0,0
@@ -5565,7 +5806,8 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-07,Northern,Rozaje,765,20,9,0
 2020-11-07,Northern,Savnik,12,0,0,0
 2020-11-07,Northern,Zabljak,70,5,0,0
-2020-11-08,Central,Podgorica,7911,54,122,2
+2020-11-07,Northern,Pljevlja,765,20,5,0
+2020-11-08,Central,Podgorica,7911,54,249,2
 2020-11-08,Central,Cetinje,580,7,5,0
 2020-11-08,Central,Danilovgrad,73,2,1,0
 2020-11-08,Central,Niksic,2974,39,39,0
@@ -5588,10 +5830,11 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-08,Northern,Rozaje,771,20,6,0
 2020-11-08,Northern,Savnik,12,0,0,0
 2020-11-08,Northern,Zabljak,70,5,0,0
-2020-11-09,Central,Podgorica,8178,267,124,2
-2020-11-09,Central,Cetinje,582,2,5,0
+2020-11-08,Northern,Pljevlja,767,20,2,0
+2020-11-09,Central,Podgorica,8175,56,267,2
+2020-11-09,Central,Cetinje,582,2,2,0
 2020-11-09,Central,Danilovgrad,78,5,1,0
-2020-11-09,Central,Niksic,3016,42,39,0
+2020-11-09,Central,Niksic,3016,39,42,0
 2020-11-09,Central,Tuzi,68,0,0,0
 2020-11-09,Costal,Bar,811,0,5,2
 2020-11-09,Costal,Budva,707,6,7,0
@@ -5611,10 +5854,11 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-09,Northern,Rozaje,771,0,6,0
 2020-11-09,Northern,Savnik,12,0,0,0
 2020-11-09,Northern,Zabljak,70,0,0,0
-2020-11-10,Central,Podgorica,8409,231,125,1
-2020-11-10,Central,Cetinje,596,14,5,0
+2020-11-09,Northern,Pljevlja,777,20,10,0
+2020-11-10,Central,Podgorica,8409,57,231,1
+2020-11-10,Central,Cetinje,596,14,14,0
 2020-11-10,Central,Danilovgrad,80,2,1,0
-2020-11-10,Central,Niksic,3068,52,40,1
+2020-11-10,Central,Niksic,3068,40,52,1
 2020-11-10,Central,Tuzi,70,2,0,0
 2020-11-10,Costal,Bar,827,16,5,0
 2020-11-10,Costal,Budva,714,7,7,0
@@ -5634,10 +5878,11 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-10,Northern,Rozaje,784,13,6,0
 2020-11-10,Northern,Savnik,13,1,0,0
 2020-11-10,Northern,Zabljak,70,0,0,0
-2020-11-11,Central,Podgorica,8827,418,126,1
-2020-11-11,Central,Cetinje,611,15,7,2
+2020-11-10,Northern,Pljevlja,803,20,26,0
+2020-11-11,Central,Podgorica,8827,58,418,1
+2020-11-11,Central,Cetinje,611,15,15,2
 2020-11-11,Central,Danilovgrad,81,1,1,0
-2020-11-11,Central,Niksic,3109,41,40,0
+2020-11-11,Central,Niksic,3109,40,41,0
 2020-11-11,Central,Tuzi,76,6,0,0
 2020-11-11,Costal,Bar,835,8,5,0
 2020-11-11,Costal,Budva,732,18,7,0
@@ -5657,3 +5902,28 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2020-11-11,Northern,Rozaje,795,11,6,0
 2020-11-11,Northern,Savnik,13,0,0,0
 2020-11-11,Northern,Zabljak,70,0,1,1
+2020-11-11,Northern,Pljevlja,808,20,5,0
+2020-11-12,Central,Podgorica,9194,63,367,5
+2020-11-12,Central,Cetinje,636,15,25,0
+2020-11-12,Central,Danilovgrad,85,1,4,0
+2020-11-12,Central,Niksic,3155,40,46,0
+2020-11-12,Central,Tuzi,80,6,4,0
+2020-11-12,Costal,Bar,839,8,4,0
+2020-11-12,Costal,Budva,789,19,57,1
+2020-11-12,Costal,Herceg Novi,316,28,30,1
+2020-11-12,Costal,Kotor,585,9,8,0
+2020-11-12,Costal,Tivat,264,18,47,0
+2020-11-12,Costal,Ulcinj,651,17,13,1
+2020-11-12,Northern,Andrijevica,161,3,1,0
+2020-11-12,Northern,Berane,1496,34,16,0
+2020-11-12,Northern,Bijelo Polje,1250,42,3,0
+2020-11-12,Northern,Gusinje,19,0,0,0
+2020-11-12,Northern,Kolasin,125,16,0,0
+2020-11-12,Northern,Mojkovac,177,20,2,0
+2020-11-12,Northern,Petnjica,24,3,1,0
+2020-11-12,Northern,Plav,51,0,0,0
+2020-11-12,Northern,Pluzine,17,0,0,0
+2020-11-12,Northern,Rozaje,803,11,8,0
+2020-11-12,Northern,Savnik,14,0,1,0
+2020-11-12,Northern,Zabljak,70,0,0,0
+2020-11-12,Northern,Pljevlja,814,20,6,0
