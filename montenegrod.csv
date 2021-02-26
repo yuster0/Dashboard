@@ -8446,7 +8446,6 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2021-02-25,Northern,Rozaje,1476,28,2,0
 2021-02-25,Northern,Savnik,53,2,0,0
 2021-02-25,Northern,Zabljak,178,2,0,0
-<<<<<<< HEAD
 2021-02-25,Northern,Pljevlja,2284,33,24,0
 2021-02-26,Central,Podgorica,28523,205,220,2
 2021-02-26,Central,Cetinje,2077,41,13,1
@@ -8472,6 +8471,5 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2021-02-26,Northern,Savnik,53,2,0,0
 2021-02-26,Northern,Zabljak,180,2,2,0
 2021-02-26,Northern,Pljevlja,2304,33,20,0
-=======
-2021-02-25,Northern,Pljevlja,2284,33,24,0
->>>>>>> 141cb3d713ca2a9807de6a0d65f1d6e7dc9a28b6
+
+
