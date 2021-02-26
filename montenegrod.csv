@@ -8471,5 +8471,51 @@ date,Region,Municipality,cases,deaths,ncases,ndeaths
 2021-02-26,Northern,Savnik,53,2,0,0
 2021-02-26,Northern,Zabljak,180,2,2,0
 2021-02-26,Northern,Pljevlja,2304,33,20,0
-
-
+2021-02-27,Central,Podgorica,28728,206,205,1
+2021-02-27,Central,Cetinje,2092,42,15,1
+2021-02-27,Central,Danilovgrad,805,14,18,0
+2021-02-27,Central,Niksic,9668,113,107,0
+2021-02-27,Central,Tuzi,499,11,2,0
+2021-02-27,Costal,Bar,3548,81,36,1
+2021-02-27,Costal,Budva,4087,50,34,2
+2021-02-27,Costal,Herceg Novi,2520,54,29,0
+2021-02-27,Costal,Kotor,2214,34,9,0
+2021-02-27,Costal,Tivat,1764,31,5,0
+2021-02-27,Costal,Ulcinj,1632,46,26,0
+2021-02-27,Northern,Andrijevica,358,11,1,0
+2021-02-27,Northern,Berane,3121,60,4,0
+2021-02-27,Northern,Bijelo Polje,3323,87,27,0
+2021-02-27,Northern,Gusinje,42,0,0,0
+2021-02-27,Northern,Kolasin,358,21,3,0
+2021-02-27,Northern,Mojkovac,425,25,3,0
+2021-02-27,Northern,Petnjica,93,5,0,0
+2021-02-27,Northern,Plav,188,3,2,0
+2021-02-27,Northern,Pluzine,175,6,1,0
+2021-02-27,Northern,Rozaje,1484,28,2,0
+2021-02-27,Northern,Savnik,53,2,0,0
+2021-02-27,Northern,Zabljak,180,2,0,0
+2021-02-27,Northern,Pljevlja,2318,33,14,0
+2021-02-28,Central,Podgorica,28909,206,181,0
+2021-02-28,Central,Cetinje,2112,43,20,1
+2021-02-28,Central,Danilovgrad,806,14,1,0
+2021-02-28,Central,Niksic,9740,113,72,0
+2021-02-28,Central,Tuzi,502,11,3,0
+2021-02-28,Costal,Bar,3603,81,55,0
+2021-02-28,Costal,Budva,4101,50,14,0
+2021-02-28,Costal,Herceg Novi,2550,54,30,0
+2021-02-28,Costal,Kotor,2226,35,12,1
+2021-02-28,Costal,Tivat,1775,31,11,0
+2021-02-28,Costal,Ulcinj,1661,47,29,1
+2021-02-28,Northern,Andrijevica,358,11,0,0
+2021-02-28,Northern,Berane,3135,60,14,0
+2021-02-28,Northern,Bijelo Polje,3337,87,14,0
+2021-02-28,Northern,Gusinje,42,0,0,0
+2021-02-28,Northern,Kolasin,361,21,3,0
+2021-02-28,Northern,Mojkovac,431,25,6,0
+2021-02-28,Northern,Petnjica,93,5,0,0
+2021-02-28,Northern,Plav,190,3,2,0
+2021-02-28,Northern,Pluzine,177,6,2,0
+2021-02-28,Northern,Rozaje,1486,29,2,1
+2021-02-28,Northern,Savnik,53,2,0,0
+2021-02-28,Northern,Zabljak,186,2,6,0
+2021-02-28,Northern,Pljevlja,2343,33,25,0
