@@ -352,5 +352,8 @@ date,country,cases,deaths,dcases,ddeaths,pcr
 2021-02-24,Montenegro,73612,976,643,7,2263
 2021-02-25,Montenegro,74183,987,571,11,2100
 2021-02-26,Montenegro,74789,994,606,7,2281
+<<<<<<< HEAD
 2021-02-27,Montenegro,75332,995,543,5,1986
 2021-02-28,Montenegro,75834,999,502,4,1783
+=======
+>>>>>>> 8bed1538e6ac3df7a5c61edba6770d159ce55ba8
